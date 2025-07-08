@@ -1,0 +1,1002 @@
+[
+  {
+    "problem": "Что такое последовательность?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие операции поддерживают большинство последовательностей?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие виды строк бывают в питоне?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли изменить отдельный символ внутри строки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как соединить список строк в одну? Как разбить строку на список строк?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как кодировать и декодировать строки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем список отличается от кортежа?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое диапазон?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как сделать список уникальным (без повторяющихся элементов)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Есть кортеж из трех элементов. Назначить переменным a, b, c его значения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как сравниваются последовательности?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как понять хешируемый ли объект?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое множество?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего применяются множества?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие операции можно производить над множествами?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как происходит проверка множеств на равенство?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое отображение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие нюансы есть в использовании чисел как ключей?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие операции можно производить над отображениями?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что возвращает метод items?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как отсортировать список словарей по определенному полю?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что может являться ключом словаря? Что не может? Почему?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Есть два списка – ключи и значения. Как составить из них словарь?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как работает хэш-таблица?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое коллизия?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Где будет быстрее поиск, а где перебор и почему: dict, list, set, tuple?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое args, kwargs? В каких случаях они требуются?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему использовать изменяемые объекты как параметры по-умолчанию плохо? Приведите пример плохого случая. Как исправить?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли передавать функцию в качестве аргумента другой функции?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли объявлять функцию внутри другой функции? Где она будет видна?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое лямбды? Каковы их особенности?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Допустимы ли следующие выражения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как передаются значения аргументов в функцию или метод?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое замыкание?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое контейнер?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое итерабельный объект?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое итератор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое генератор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое генераторная функция?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делает yield?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем отличие [x for x in y] от (x for x in y)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что особенного в генераторе?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как объявить генератор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить из генератора список?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое подгенератор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие методы есть у генераторов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли извлечь элемент генератора по индексу?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что возвращает итерация по словарю?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как итерировать словарь по парам ключ-значение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое сопрограмма?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить список атрибутов объекта?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое магические методы, для чего нужны?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как в классе сослаться на родительский класс?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Возможно ли множественное наследование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое MRO?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Diamond problem?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое миксины?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое контекстный менеджер? Как написать свой?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Прокомментировать выражение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое __slots__? Плюсы, минусы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем смысл параметров _value, __value?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое __new__? И чем он отличается от __init__? В какой последовательности они выполняются?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое и чем отличается old-style от new-style classes?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое утиная типизация?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое модуль?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как можно получить имя модуля?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое модульное программирование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как Python ищет модули при импорте?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое пакет?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что вы можете сказать о конструкции import package.item?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое обработка исключений?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего могут применять конструкцию try finally без except?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как правильно по-разному обрабатывать исключения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что будет если ошибку не обработает блок except?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делать если нужно перехватить исключение, выполнить действия и опять возбудить это же исключение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое сцепление исключений?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Зачем нужен блок else?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что можно передать в конструктор исключения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие есть классы исключений?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В каких случаях можно обработать SyntaxError?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли создавать собственные исключения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего нужны предупреждения (warnings) и как создать собственное?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего нужен модуль warnings?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое декораторы? Зачем нужны?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что может быть декоратором? К чему может быть применен декоратор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что будет, если декоратор не возвращает ничего?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем отличие @foobar от @foobar()?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое фабрика декораторов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Зачем нужен wraps?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое метаклассы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое type? Как работает поиск метакласса при создании объекта?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как работают метаклассы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Зачем вообще использовать метаклассы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое файловый объект?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие есть виды файловых объектов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем отличие текстовых и бинарных файлов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как пользоваться функцией open?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего необходимо закрывать файлы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делают методы tell и seek?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делают StringIO и BytesIO?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Являются ли файловые объекты контекстными менеджерами?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое сериализация?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "json.dumps / json.dump , json.loads / json.load?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делать если нужно сериализовать данные, которые не поддерживаются стандартным модулем json?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "pickle.dumps / pickle.dump, pickle.loads / pickle.load?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Пирамида тестирования?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое mocking?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делать, если тестируемая функция использует удалённое подключение к внешним сервисам, которое иногда видает ошибку таймаута, 404 и им подобные?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делать, если тестируемая функция занимает много времени на выполнение повторяющихся операций внутри неё?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие вы знаете виды тестов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Unit-тесты?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Интеграционные тесты (Integration tests)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Функциональное тестирование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Системный тест (System test, Service test)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Проверка работоспособности (Smoke test, Sanity check)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Регрессионное тестирование (Regression testing)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем интеграционное тестирование отличается от функционального?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое функциональное программирование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как у Python с поддержкой функционального программирования?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое объект первого класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое функция высшего порядка?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое каррирование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Опишите функции map, reduce, filter модуля functools?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие еще вы знаете функции из модуля functools?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие вы функции знаете из модуля itertools?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего нужен модуль operator?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое GIL? Какие у него есть проблемы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Работали ли Вы с asyncio? В чём его особенность?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое async/await, для чего они нужны и как их использовать?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как в питоне реализуется многопоточность? Какими модулями?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем отличие тредов от мультипроцессинга?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие задачи хорошо параллелятся, какие плохо?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Нужно посчитать 100 уравнений. Делать это в тредах или нет?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Треды в Питоне — это нативные треды или нет?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое гринлеты? Общее понятие? Примеры реализаций?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие варианты реализации шаблона Singleton на питоне?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие вы знаете инструменты для проверки кодстайл?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое list/dict comprehension?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая разница между одинарным и двойным подчеркиванием?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Отличие copy() от deepcopy()?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое garbage collector? В чём его плюсы и минусы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое интроспекция?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое рефлексия?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Middleware, для чего, как реализуется?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите основные мидлвари? Зачем они нужны?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Опишите алгоритм работы CSRF middleware?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое сигналы? Зачем нужны? Назовите основные?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как реализуется связь m2m на уровне базы данных?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем лучше отправлять форму — GET или POST?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как работает Serializer в Django REST Framework?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Meta в классах Django и для чего нужен?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "За что отвечает Meta в сериализаторе?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая разница в быстродействии между django и Flask (и почему)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как в django работает система аутентификации?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое CGI? Плюсы, минусы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как защитить куки от воровства и от подделки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая разница между аутентификацией и авторизацией?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое XSS? Примеры? Как защитить приложение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое REST?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое SOAP?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между REST и SOAP веб сервисами?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можем ли мы посылать SOAP сообщения с вложением?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как бы вы решили какой из REST или SOAP веб сервисов использовать?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие способы для мониторинга веб-приложений в production вы использовали или знаете?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как устроен протокол HTTP?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Написать raw запрос главной Яндекса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как клиенту понять, удался запрос или нет?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что нужно отправить браузеру, чтобы перенаправить на другую страницу?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как управлять кешированием в HTTP?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как кэшируются файлы на уровне протокола?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое HTTP?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем отличаются HTTP и HTTPS?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Инкапсуляция?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наследование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Полиморфизм?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Абстракция?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "KISS?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "DRY?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "YAGNI?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "SLAP?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "SOLID принципы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое code cohesion & code coupling?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Абстрактная фабрика (Abstract factory)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Построитель (Builder)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Фабричный метод (Factory method)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Прототип (Prototype)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Одиночка (Singleton)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Адаптер (Adapter)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Мост (Bridge)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Компоновщик (Composite)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Декоратор (Decorator)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Фасад (Facade)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Приспособленец (Flyweight)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Заместитель (Proxy)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Цепочка ответственности (Chain of responsobility)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Команда (Command)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Интерпретатор (Interpreter)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Итератор (Iterator)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Посредник (Mediator)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Хранитель (Memento)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наблюдатель (Observer)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Состояние (State)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Стратегия (Strategy)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Шаблонный метод (Template method)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Посетитель (Visitor)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое lru cache?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое MQ?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие готовые реализации MQ вы знаете?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое RPC?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое gPRC?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое рекурсия? Какие минусы, плюсы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое хвостовая рекурсия?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как можно оптимизировать хвостовую рекурсию в Python?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "О-большое при оценке сложности?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Простой поиск?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Бинарный поиск?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Рекурсивные алгоритмы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Быстрая сортировка?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Граф?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Очередь и стек?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Дерево?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Поиск в ширину?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Алгоритм Дейкстры?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Жадные алгоритмы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как распознать NP-полную задачу?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Динамическое программирование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Алгоритм k ближайших соседей?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Алгоритм Ричарда Фейнмана?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое куки? Зачем они, как с ними работать и где они сохраняются?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Может ли сервер изменить (добавить, удалить) куки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое JWT (JSON Web Token)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Agile/Scrum?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая разница между CI и CD?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая разница между Scrum и Kanban?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Вопрос для тим-лидов: что Вы будете делать, если на проекте нет тестов и заказчик не хочет тратить на их разработку время и деньги?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Code Debt и как с ним быть?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Git Flow?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Git Rebase?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Git Cherry pick?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое force push?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое pre-commit check?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое транзакция? Какие у неё есть свойства?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие команды управления транзакциями вы знаете?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое уровни изолированности транзакций? Какие они бывают?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое вложенные транзакции?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое курсор и зачем он нужен?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая разница между PostgreSQL и MySQL?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое VACUUM в PostgreSQL?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое EXPLAIN? Какая разница между ним и EXPLAIN ANALYZE?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие виды Join'ов вы знаете, чем они отличаются друг от друга?",
+    "code_snippet": ""
+  }
+]

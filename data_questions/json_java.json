@@ -1,0 +1,1986 @@
+[
+    {
+        "problem": "За что отвечает JVM",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Classloader",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Области данных времени выполнения",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Frames",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Execution Engine",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем различаются JRE, JVM и JDK?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют модификаторы доступа?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "О чем говорит ключевое слово final?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какими значениями инициализируются переменные по умолчанию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о функции main()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие логические операции и операторы вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое тернарный оператор выбора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие побитовые операции вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где и для чего используется модификатор abstract?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Дайте определение понятию «интерфейс». Какие модификаторы по умолчанию имеют поля и методы интерфейсов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем абстрактный класс отличается от интерфейса? В каких случаях следует использовать абстрактный класс, а в каких интерфейс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему в некоторых интерфейсах вообще не определяют методов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему нельзя объявить метод интерфейса с модификатором final?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что имеет более высокий уровень абстракции - класс, абстрактный класс или интерфейс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли объект получить доступ к private-переменной класса? Если, да, то каким образом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков порядок вызова конструкторов и блоков инициализации с учётом иерархии классов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны и какие бывают блоки инициализации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "К каким конструкциям Java применим модификатор static?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в Java используются статические блоки инициализации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что произойдёт, если в блоке инициализации возникнет исключительная ситуация?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое исключение выбрасывается при возникновении ошибки в блоке инициализации класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли статический метод быть переопределён или перегружен?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Могут ли нестатические методы перегрузить статические?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли сузить уровень доступа/тип возвращаемого значения при переопределении метода?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Возможно ли при переопределении метода изменить: модификатор доступа; возвращаемый тип; тип аргумента или их количество; имена аргументов или их порядок, убирать, добавлять, изменять порядок следования элементов секции throws?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить доступ к переопределенным методам родительского класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли объявить метод абстрактным и статическим одновременно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между членом экземпляра класса и статическим членом класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где разрешена инициализация статических/нестатических полей?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы классов бывают в java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите про вложенные классы. В каких случаях они применяются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «статический класс»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют особенности использования вложенных классов: статических и внутренних? В чем заключается разница между ними?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «локальный класс»? Каковы его особенности?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «анонимные классы»? Где они применяются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каким образом из вложенного класса получить доступ к полю внешнего класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется оператор assert?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен сборщик мусора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает сборщик мусора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие разновидности сборщиков мусора реализованы в виртуальной машине HotSpot?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите алгоритм работы какого-нибудь сборщика мусора реализованного в виртуальной машине HotSpot.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое finalize()? Зачем он нужен?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что произойдет со сборщиком мусора, если выполнение метода finalize() требует ощутимо много времени, или в процессе выполнения будет выброшено исключение?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличаются final, finally и finalize()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Heap и Stack память в Java? Какая разница между ними?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Верно ли утверждение, что примитивные типы данных всегда хранятся в стеке, а экземпляры ссылочных типов данных в куче?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каким образом передаются переменные в методы, по значению или по ссылке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите про приведение типов. Что такое понижение и повышение типа?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда в приложении может быть выброшено исключение ClassCastException?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое литералы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое autoboxing («автоупаковка») в Java и каковы правила упаковки примитивных типов в классы-обертки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть особенности класса String?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «пул строк»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему String неизменяемый и финализированный класс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему char[] предпочтительнее String для хранения пароля?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему строка является популярным ключом в HashMap в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает метод intern() в классе String?.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли использовать строки в конструкции switch?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая основная разница между String, StringBuffer, StringBuilder?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое класс Object? Какие в нем есть методы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите про клонирование объектов.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем отличие между поверхностным и глубоким клонированием?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой способ клонирования предпочтительней?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему метод clone() объявлен в классе Object, а не в интерфейсе Cloneable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Дайте определение понятию «конструктор».",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «конструктор по умолчанию»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличаются конструкторы по-умолчанию, копирования и конструктор с параметрами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где и как вы можете использовать закрытый конструктор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите про классы-загрузчики и про динамическую загрузку классов.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Reflection?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужен equals(). Чем он отличается от операции ==?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "equals() порождает отношение эквивалентности. Какими свойствами обладает такое отношение?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если вы хотите переопределить equals(), какие условия должны удовлетворяться для переопределенного метода?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Правила переопределения метода Object.equals().",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая связь между hashCode() и equals()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если equals() переопределен, есть ли какие-либо другие методы, которые следует переопределить?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет, если переопределить equals() не переопределяя hashCode()? Какие могут возникнуть проблемы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каким образом реализованы методы hashCode() и equals() в классе Object?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод hashCode()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Правила переопределения метода Object.hashCode().",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли какие-либо рекомендации о том, какие поля следует использовать при подсчете hashCode()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Могут ли у разных объектов быть одинаковые hashCode()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если у класса Point{int x, y;} реализовать метод equals(Object that) {(return this.x == that.x && this.y == that.y)}, но сделать хэш-код в виде int hashCode() {return x;}, то будут ли корректно такие точки помещаться и извлекаться из HashSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Могут ли у разных объектов (ref0 != ref1) быть ref0.equals(ref1) == true?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Могут ли у разных ссылок на один объект (ref0 == ref1) быть ref0.equals(ref1) == false?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли так реализовать метод equals(Object that) {return this.hashCode() == that.hashCode()}?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В equals() требуется проверять, что аргумент equals(Object that) такого же типа что и сам объект. В чем разница между this.getClass() == that.getClass() и that instanceof MyClass?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли реализовать метод equals() класса MyClass вот так: class MyClass {public boolean equals(MyClass that) {return this == that;}}?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть класс Point{int x, y;}. Почему хэш-код в виде 31 * x + y предпочтительнее чем x + y?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите иерархию исключений.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие виды исключений в Java вы знаете, чем они отличаются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое checked и unchecked exception?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой оператор позволяет принудительно выбросить исключение?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "О чем говорит ключевое слово throws?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как написать собственное («пользовательское») исключение?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют unchecked exception?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Error?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о OutOfMemoryError?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите работу блока try-catch-finally.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое механизм try-with-resources?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Возможно ли использование блока try-finally (без catch)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли один блок catch отлавливать сразу несколько исключений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Всегда ли исполняется блок finally?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Существуют ли ситуации, когда блок finally не будет выполнен?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли метод main выбросить исключение во вне и если да, то где будет происходить обработка данного исключения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Предположим, есть метод, который может выбросить IOException и FileNotFoundException в какой последовательности должны идти блоки catch? Сколько блоков catch будет выполнено?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое generics?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «интернационализация», «локализация»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «коллекция»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите основные интерфейсы JCF и их реализации.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расположите в виде иерархии следующие интерфейсы: List, Set, Map, SortedSet, SortedMap, Collection, Iterable, Iterator, NavigableSet, NavigableMap.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему Map — это не Collection, в то время как List и Set являются Collection?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между классами java.util.Collection и java.util.Collections?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «fail-fast поведение»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между fail-fast и fail-safe?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Приведите примеры итераторов реализующих поведение fail-safe",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем различаются Enumeration и Iterator.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как между собой связаны Iterable и Iterator?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как между собой связаны Iterable, Iterator и «for-each»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сравните Iterator и ListIterator.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что произойдет при вызове Iterator.next() без предварительного вызова Iterator.hasNext()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько элементов будет пропущено, если Iterator.next() будет вызван после 10-ти вызовов Iterator.hasNext()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как поведёт себя коллекция, если вызвать iterator.remove()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как поведёт себя уже инстанциированный итератор для collection, если вызвать collection.remove()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как избежать ConcurrentModificationException во время перебора коллекции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая коллекция реализует дисциплину обслуживания FIFO?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая коллекция реализует дисциплину обслуживания FILO?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличается ArrayList от Vector?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем добавили ArrayList, если уже был Vector?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличается ArrayList от LinkedList? В каких случаях лучше использовать первый, а в каких второй?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что работает быстрее ArrayList или LinkedList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое худшее время работы метода contains() для элемента, который есть в LinkedList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое худшее время работы метода contains() для элемента, который есть в ArrayList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое худшее время работы метода add() для LinkedList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое худшее время работы метода add() для ArrayList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Необходимо добавить 1 млн. элементов, какую структуру вы используете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как происходит удаление элементов из ArrayList? Как меняется в этом случае размер ArrayList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Предложите эффективный алгоритм удаления нескольких рядом стоящих элементов из середины списка, реализуемого ArrayList.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько необходимо дополнительной памяти при вызове ArrayList.add()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько выделяется дополнительно памяти при вызове LinkedList.add()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Оцените количество памяти на хранение одного примитива типа byte в LinkedList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Оцените количество памяти на хранение одного примитива типа byte в ArrayList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для ArrayList или для LinkedList операция добавления элемента в середину (list.add(list.size()/2, newElement)) медленнее?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В реализации класса ArrayList есть следующие поля: Object[] elementData, int size. Объясните, зачем хранить отдельно size, если всегда можно взять elementData.length?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сравните интерфейсы Queue и Deque.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Кто кого расширяет: Queue расширяет Deque, или Deque расширяет Queue?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему LinkedList реализует и List, и Deque?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "LinkedList — это односвязный, двусвязный или четырехсвязный список?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перебрать элементы LinkedList в обратном порядке, не используя медленный get(index)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что позволяет сделать PriorityQueue?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Stack считается «устаревшим». Чем его рекомендуют заменять? Почему?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужен HashMap, если есть Hashtable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между HashMap и IdentityHashMap? Для чего нужна IdentityHashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между HashMap и WeakHashMap? Для чего используется WeakHashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В WeakHashMap используются WeakReferences. А почему бы не создать SoftHashMap на SoftReferences?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В WeakHashMap используются WeakReferences. А почему бы не создать PhantomHashMap на PhantomReferences?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "LinkedHashMap - что в нем от LinkedList, а что от HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем проявляется «сортированность» SortedMap, кроме того, что toString() выводит все элементы по порядку?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как устроен HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Согласно Кнуту и Кормену существует две основных реализации хэш-таблицы: на основе открытой адресации и на основе метода цепочек. Как реализована HashMap? Почему, по вашему мнению, была выбрана именно эта реализация? В чем плюсы и минусы каждого подхода?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает HashMap при попытке сохранить в него два элемента по ключам с одинаковым hashCode(), но для которых equals() == false?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое начальное количество корзин в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова оценка временной сложности операций над элементами из HashMap? Гарантирует ли HashMap указанную сложность выборки элемента?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Возможна ли ситуация, когда HashMap выродится в список даже с ключами имеющими разные hashCode()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В каком случае может быть потерян элемент в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему нельзя использовать byte[] в качестве ключа в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова роль equals() и hashCode() в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое максимальное число значений hashCode()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое худшее время работы метода get(key) для ключа, которого нет в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое худшее время работы метода get(key) для ключа, который есть в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему несмотря на то, что ключ в HashMap не обязан реализовывать интерфейс Comparable, двусвязный список всегда удается преобразовать в красно-черное-дерево?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько переходов происходит в момент вызова HashMap.get(key) по ключу, который есть в таблице?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько создается новых объектов, когда вы добавляете новый элемент в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как и когда происходит увеличение количества корзин в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните смысл параметров в конструкторе HashMap(int initialCapacity, float loadFactor).",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Будет ли работать HashMap, если все добавляемые ключи будут иметь одинаковый hashCode()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перебрать все ключи Map?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перебрать все значения Map?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перебрать все пары «ключ-значение» в Map?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем отличия TreeSet и HashSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет, если добавлять элементы в TreeSet по возрастанию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем LinkedHashSet отличается от HashSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для Enum есть специальный класс java.util.EnumSet. Зачем? Чем авторов не устраивал HashSet или TreeSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют способы перебирать элементы списка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каким образом можно получить синхронизированные объекты стандартных коллекций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить коллекцию только для чтения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите однопоточную программу, которая заставляет коллекцию выбросить ConcurrentModificationException.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Приведите пример, когда какая-либо коллекция выбрасывает UnsupportedOperationException.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте симметрическую разность двух коллекций используя методы Collection (addAll(...), removeAll(...), retainAll(...)).",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как, используя LinkedHashMap, сделать кэш c «invalidation policy»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как одной строчкой скопировать элементы любой collection в массив?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как одним вызовом из List получить List со всеми элементами, кроме первых и последних 3-х?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как одной строчкой преобразовать HashSet в ArrayList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как одной строчкой преобразовать ArrayList в HashSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сделайте HashSet из ключей HashMap.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сделайте HashMap из HashSet<Map.Entry<K, V>>.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие нововведения, появились в Java 8 и JDK 8?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «лямбда»? Какова структура и особенности использования лямбда-выражения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "К каким переменным есть доступ у лямбда-выражений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отсортировать список строк с помощью лямбда-выражения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «ссылка на метод»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие виды ссылок на методы вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните выражение System.out::println.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «функциональные интерфейсы»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы Function<T,R>, DoubleFunction<R>, IntFunction<R> и LongFunction<R>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы UnaryOperator<T>, DoubleUnaryOperator, IntUnaryOperator и LongUnaryOperator?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы BinaryOperator<T>, DoubleBinaryOperator, IntBinaryOperator и LongBinaryOperator?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы Predicate<T>, DoublePredicate, IntPredicate и LongPredicate?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы Consumer<T>, DoubleConsumer, IntConsumer и LongConsumer?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы Supplier<T>, BooleanSupplier, DoubleSupplier, IntSupplier и LongSupplier?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен функциональный интерфейс BiConsumer<T,U>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен функциональный интерфейс BiFunction<T,U,R>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен функциональный интерфейс BiPredicate<T,U>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы вида _To_Function?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы ToDoubleBiFunction<T,U>, ToIntBiFunction<T,U> и ToLongBiFunction<T,U>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы ToDoubleFunction<T>, ToIntFunction<T> и ToLongFunction<T>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны функциональные интерфейсы ObjDoubleConsumer<T>, ObjIntConsumer<T> и ObjLongConsumer<T>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое StringJoiner?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое default методы интрефейса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызывать default метод интерфейса в реализующем этот интерфейс классе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое static метод интерфейса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызывать static метод интерфейса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Optional?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Stream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют способы создания стрима?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Collection и Stream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод collect() в стримах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в стримах применяются методы forEach() и forEachOrdered()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в стримах предназначены методы map() и mapToInt(), mapToDouble(), mapToLong()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова цель метода filter() в стримах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в стримах предназначен метод limit()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в стримах предназначен метод sorted()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в стримах предназначены методы flatMap(), flatMapToInt(), flatMapToDouble(), flatMapToLong()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего в стримах предназначены методы flatMap(), flatMapToInt(), flatMapToDouble(), flatMapToLong()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о параллельной обработке в Java 8.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие конечные методы работы со стримами вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие промежуточные методы работы со стримами вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вывести на экран 10 случайных чисел, используя forEach()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно вывести на экран уникальные квадраты чисел используя метод map()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вывести на экран количество пустых строк с помощью метода filter()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вывести на экран 10 случайных чисел в порядке возрастания?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как найти максимальное число в наборе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как найти минимальное число в наборе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить сумму всех чисел в наборе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить среднее значение всех чисел?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие дополнительные методы для работы с ассоциативными массивами (maps) появились в Java 8?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое LocalDateTime?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ZonedDateTime?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить текущую дату с использованием Date Time API из Java 8?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как добавить 1 неделю, 1 месяц, 1 год, 10 лет к текущей дате с использованием Date Time API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить следующий вторник используя Date Time API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить вторую субботу текущего месяца используя Date Time API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить текущее время с точностью до миллисекунд используя Date Time API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить текущее время по местному времени с точностью до миллисекунд используя Date Time API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить повторяемую аннотацию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Nashorn?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое jjs?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой класс появился в Java 8 для кодирования/декодирования данных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать Base64 кодировщик и декодировщик?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чём заключается разница между IO и NIO?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие особенности NIO вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «каналы»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют виды потоков ввода/вывода?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите основные классы потоков ввода/вывода.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В каких пакетах расположены классы потоков ввода/вывода?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие подклассы класса InputStream вы знаете, для чего они предназначены?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется PushbackInputStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется SequenceInputStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой класс позволяет читать данные из входного байтового потока в формате примитивных типов данных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие подклассы класса OutputStream вы знаете, для чего они предназначены?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие подклассы класса Reader вы знаете, для чего они предназначены?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие подклассы класса Writer вы знаете, для чего они предназначены?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем отличие класса PrintWriter от PrintStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличаются и что общего у InputStream, OutputStream, Reader, Writer?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие классы позволяют преобразовать байтовые потоки в символьные и обратно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие классы позволяют ускорить чтение/запись за счет использования буфера?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой класс предназначен для работы с элементами файловой системы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы класса File вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете об интерфейсе FileFilter?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как выбрать все элементы определенного каталога по критерию (например, с определенным расширением)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о RandomAccessFile?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие режимы доступа к файлу есть у RandomAccessFile?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие классы поддерживают чтение и запись потоков в компрессированном формате?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Существует ли возможность перенаправить потоки стандартного ввода/вывода?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой символ является разделителем при указании пути в файловой системе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «абсолютный путь» и «относительный путь»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «символьная ссылка»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «сериализация»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите процесс сериализации/десериализации с использованием Serializable.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как изменить стандартное поведение сериализации/десериализации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как исключить поля из сериализации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что обозначает ключевое слово transient?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое влияние оказывают на сериализуемость модификаторы полей static и final",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как не допустить сериализацию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать собственный протокол сериализации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая роль поля serialVersionUID в сериализации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда стоит изменять значение поля serialVersionUID?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем проблема сериализации Singleton?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют способы контроля за значениями десериализованного объекта",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «сервлет»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем заключаются преимущества технологии сервлетов над CGI (Common Gateway Interface)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова структура веб-проекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «контейнер сервлетов»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны сервера приложений, если есть контейнеры сервлетов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как контейнер сервлетов управляет жизненным циклом сервлета, когда и какие методы вызываются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «дескриптор развертывания»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие действия необходимо проделать при создании сервлетов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В каком случае требуется переопределять метод service()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли смысл определять для сервлета конструктор? Каким образом лучше инициализировать данные?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему необходимо переопределить только init() метод без аргументов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие наиболее распространенные задачи выполняются в контейнере сервлетов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о сервлетных фильтрах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем в сервлетах используются различные listener?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда стоит использовать фильтры сервлетов, а когда слушателей?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как реализовать запуск сервлета одновременно с запуском приложения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как обработать в приложении исключения, выброшенные другим сервлетом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что представляет собой ServletConfig?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что представляет собой ServletContext?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем отличия ServletContext и ServletConfig?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен интерфейс ServletResponse?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен интерфейс ServletRequest?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Request Dispatcher?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как из одного сервлета вызвать другой сервлет?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличается sendRedirect() от forward()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используются атрибуты сервлетов и как происходит работа с ними?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каким образом можно допустить в сервлете deadlock?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить реальное расположение сервлета на сервере?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить информацию о сервере из сервлета?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить IP адрес клиента на сервере?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие классы-обертки для сервлетов вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем отличия GenericServlet и HttpServlet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему HttpServlet класс объявлен как абстрактный?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие основные методы присутствуют в классе HttpServlet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Стоит ли волноваться о многопоточной безопасности работая с сервлетами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой метод HTTP не является неизменяемым?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть методы отправки данных с клиента на сервер?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между методами GET и POST?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между PrintWriter и ServletOutputStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли одновременно использовать в сервлете PrintWriter и ServletOutputStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите об интерфейсе SingleThreadModel.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что означает URL encoding? Как это осуществить в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие различные методы управления сессией в сервлетах вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое cookies?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы для работы с cookies предусмотрены в сервлетах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое URL Rewriting?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны и чем отличаются методы encodeURL() и encodeRedirectURL()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое «сессия»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как уведомить объект в сессии, что сессия недействительна или закончилась?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой существует эффективный способ удостоверится, что все сервлеты доступны только для пользователя с верной сессией?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как организовать подключение к базе данных, обеспечить журналирование в сервлете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие основные особенности появились в спецификации Servlet 3?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие способы аутентификации доступны сервлету?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Java Server Pages (JSP)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужен JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите, как обрабатываются JSP страницы, начиная от запроса к серверу, заканчивая ответом пользователю.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите об этапах (фазах) жизненного цикла JSP.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о методах жизненного цикла JSP.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы жизненного цикла JSP могут быть переопределены?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно предотвратить прямой доступ к JSP странице из браузера?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между динамическим и статическим содержимым JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как закомментировать код в JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют основные типы тегов JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о действиях JSP (Action tag и JSP Action Elements).",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Взаимодействие JSP - сервлет - JSP.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие области видимости переменных существуют в JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие неявные, внутренние объекты и методы есть на JSP странице?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие неявные объекты не доступны в обычной JSP странице?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о PageContext и какие преимущества его использования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сконфигурировать параметры инициализации для JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему не рекомендуется использовать скриплеты (скриптовые элементы) в JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли определить класс внутри JSP страницы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о Языке выражений JSP (JSP Expression Language – EL)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы EL операторов вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите неявные, внутренние объекты JSP EL и их отличия от объектов JSP.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отключить возможность использования EL в JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как узнать тип HTTP метода используя JSP EL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое JSTL (JSP Standard tag library)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Из каких групп тегов состоит библиотека JSTL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между <c:set> и <jsp:useBean>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличается <c:import> от <jsp:include> и директивы <%@include %>?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно расширить функциональность JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы знаете о написании пользовательских JSP тегов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Приведите пример использования собственных тегов.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать перенос строки в HTML средствами JSP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему не нужно конфигурировать стандартные JSP теги в web.xml?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно обработать ошибки JSP страниц?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как происходит обработка ошибок с помощью JSTL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как конфигурируется JSP в дескрипторе развертывания.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли использовать Javascript на JSP странице?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Всегда ли создается объект сессии на JSP странице, можно ли отключить его создание?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между JSPWriter и сервлетным PrintWriter?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите общие практические принципы работы с JSP.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое JDBC?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем заключаются преимущества использования JDBC?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что из себя представляет JDBC URL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Из каких частей стоит JDBC?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Перечислите основные типы данных используемые в JDBC. Как они связаны с типами Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите основные этапы работы с базой данных с использованием JDBC.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как зарегистрировать драйвер JDBC?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как установить соединение с базой данных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие уровни изоляции транзакций поддерживаются в JDBC?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "При помощи чего формируются запросы к базе данных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличается Statement от PreparedStatement?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как осуществляется запрос к базе данных и обработка результатов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызвать хранимую процедуру?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как закрыть соединение с базой данных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют типы исключений? Объясните иерархию классов исключений в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между агрегацией и композицией?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между памятью кучи и стека в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое JVM и является ли она независимой от платформы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое JIT-компилятор в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ClassLoader в Java? Какие существуют типы загрузчиков классов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где хранится Java-компилятор: в JDK, JRE или JVM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между фабричным методом и абстрактной фабрикой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы используются для реализации ключевого объекта в HashMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между внутренним классом и подклассом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем различие между статической и динамической загрузкой классов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между переменными transient и volatile в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько типов областей памяти выделяет JVM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно выполнить цепочку конструкторов с помощью ключевого слова this?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли объявить метод main как final?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между полиморфизмом времени компиляции и времени выполнения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Могут ли быть виртуальные функции в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ковариантный возвращаемый тип?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между абстракцией и инкапсуляцией?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли использовать private или protected переменные в интерфейсе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда можно привести ссылку на объект к ссылке на интерфейс в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова иерархия классов InputStream и OutputStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова цель классов Runtime и System?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое утверждения (assertions) в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между абстрактным классом и интерфейсом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое классы-обертки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Java Reflection API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько типов конструкторов используется в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие ограничения применяются к статическим методам в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое final-переменная, final-класс и пустая final-переменная?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое статический импорт?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назови некоторые классы из пакета java.util.regex?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно вызвать внешний процесс в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова цель использования классов BufferedInputStream и BufferedOutputStream?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как установить права доступа к файлу в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какими способами можно получить ввод с консоли в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как избежать сериализации в дочернем классе, если базовый класс реализует интерфейс Serializable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между интерфейсами Serializable и Externalizable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какими способами можно создать экземпляр класса Class?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова цель использования javap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое автобоксинг и анбоксинг? Когда они происходят?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое нативный метод?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое неизменяемый объект? Можете ли вы написать неизменяемый объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между наследованием и композицией?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между парсерами DOM и SAX в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между созданием строки с помощью new() и строкового литерала?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать неизменяемый класс в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между String, StringBuffer и StringBuilder?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое утечка памяти? Как она может возникнуть в языке с автоматическим сборщиком мусора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему строка является популярным ключом для HashMap в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между ошибкой (Error) и исключением (Exception)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните, что такое распространение исключений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие сценарии вызывают исключение \"Exception in thread main\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между throw и throws?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между последовательным и параллельным сборщиком мусора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между WeakReference и SoftReference в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое константа времени компиляции в Java? Каковы риски ее использования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает загрузчик классов bootstrap в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему строка неизменяема в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое пул строк в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает алгоритм сборщика мусора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать маркерный интерфейс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает сериализация в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Программа на Java для реализации односвязного списка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли при переопределении метода выбросить другое или более широкое исключение?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое проверенные, непроверенные исключения и ошибки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между ClassNotFoundException и NoClassDefFoundError?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что означает слабая ссылка (weak reference)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое полиморфизм времени выполнения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если в родительском классе нет явного конструктора, а в дочернем классе он есть, вызовет ли JVM неявный конструктор родительского класса при вызове конструктора дочернего класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие существуют типы драйверов JDBC?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как реализуется концепция инкапсуляции в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Знаете ли вы о дженериках? Как вы их использовали в своем коде?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между String, StringBuilder и StringBuffer?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать объект класса без использования оператора new?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы есть у класса Object?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое CopyOnWriteArrayList в Java?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как тестировать статический метод?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как тестировать метод на исключение с помощью JUnit?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие библиотеки юнит-тестирования вы использовали для тестирования Java-программ?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между аннотациями @Before и @BeforeClass?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можете ли вы объяснить принцип подстановки Лискова?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Приведите пример шаблона проектирования, основанного на принципе открытости/закрытости?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое нарушение закона Деметры? Почему это важно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между внешней и внутренней итерацией?",
+        "code_snippet": ""
+    }
+]

@@ -14,7 +14,6 @@ class VKAPIHandler:
             "access_token" : ACCESS_TOKEN,
             "v" : V,
             "q" : city_name,
-            "count" : COUNT
         }
 
         response = requests.get(f"{URL}database.getCities", params=params)

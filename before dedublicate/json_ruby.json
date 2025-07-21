@@ -1230,5 +1230,881 @@
   {
     "problem": "Как выполнять файловые операции в Ruby? Приведите пример чтения файла.",
     "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между вызовом super и super()?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чему будут равны val1 и val2 после выполнения кода? Объясните ответ.",
+    "code_snippet": "val1 = true and false\nval2 = true && false"
+  },
+  {
+    "problem": "Какие из выражений ниже вернут \"false\"?",
+    "code_snippet": "true    ? \"true\" : \"false\"\nfalse   ? \"true\" : \"false\"\nnil     ? \"true\" : \"false\"\n1       ? \"true\" : \"false\"\n0       ? \"true\" : \"false\"\n\"false\" ? \"true\" : \"false\"\n\"\"      ? \"true\" : \"false\"\n[]      ? \"true\" : \"false\""
+  },
+  {
+    "problem": "Напишите функцию, которая сортирует ключи хэша по длине ключа в виде строки.",
+    "code_snippet": "{ abc: 'hello', 'another_key' => 123, 4567 => 'third' }"
+  },
+  {
+    "problem": "Что вернет каждый из следующих вызовов методов?",
+    "code_snippet": "def times_two(arg1);\n  puts arg1 * 2;\nend\n\ndef sum(arg1, arg2);\n  puts arg1 + arg2;\nend\n\ntimes_two 5\ntimes_two(5)\ntimes_two (5)\nsum 1, 2\nsum(1, 2)\nsum (1, 2)"
+  },
+  {
+    "problem": "Какие значения вернут вызовы методов value1 и value2? Объясните ответ.",
+    "code_snippet": "VAL = 'Global'\n \nmodule Foo\n  VAL = 'Foo Local'\n \n  class Bar\n    def value1\n      VAL\n    end\n  end\nend\n \nclass Foo::Bar\n  def value2\n    VAL\n  end\nend\n\nFoo::Bar.new.value1\nFoo::Bar.new.value2"
+  },
+  {
+    "problem": "Является ли следующая строка валидным Ruby кодом? Если да, что она делает?",
+    "code_snippet": "-> (a) {p a}[\"Hello world\"]"
+  },
+  {
+    "problem": "Объясните назначение операторов: ==, ===, eql?, equal? и когда их следует использовать.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Объясните разницу между операциями:",
+    "code_snippet": "x = \"hello\"\nx += \" world\"\n\nx.concat \" world\""
+  },
+  {
+    "problem": "Как работает сокращенная запись array.map(&:method_name) в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите одну строку Ruby кода, которая выводит последовательность Фибоначчи любой длины в виде массива.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли вызвать приватный метод вне класса Ruby используя его объект?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие значения будут у переменных var1 и var2?",
+    "code_snippet": "class A\n  def self.a(b)\n    if b > 0\n      b * b\n    end\n  end\nend\n\nvar1 = A.a(0)\nvar2 = A.a(2)"
+  },
+  {
+    "problem": "В чем разница между Array#map и Array#each?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как удалить nil значения из массива в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Каков результат вызовов для класса ABC?",
+    "code_snippet": "class ABC\n  def xyz\n    puts \"xyz in ABC\"\n  end\nend\n\nABC::new::xyz\nABC::new.xyz\nABC.new::xyz\nABC.new.xyz"
+  },
+  {
+    "problem": "Какое значение будет у переменной upcased?",
+    "code_snippet": "upcased = [\"one\", \"two\", \"three\"].map {|n| puts n.upcase }"
+  },
+  {
+    "problem": "Какие значения вернут выражения?",
+    "code_snippet": "if false\n  foo = 'test'\nend\n\ndefined? foo\ndefined? bar"
+  },
+  {
+    "problem": "В чем разница между методами clone и dup у объектов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между extend и include в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие типы переменных используются в Ruby и что они из себя представляют?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой самый высокий уровень в объектной модели Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли все в Ruby объектом?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой объект включает модуль Kernel?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что можно сказать об идентификаторе, начинающемся с заглавной буквы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое DSL и как это относится к Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое утиная типизация и как она относится к Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли Ruby статически или динамически типизированным языком?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли Ruby строго или слабо типизированным языком?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что означает приведение объекта? Зачем это нужно?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между выражением и оператором в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему следует избегать использования строковых литералов в циклах?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Включает ли String модуль Enumerable?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой метод можно использовать для перебора строки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между символьным литералом ?A и строковым литералом \"A\"?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Опишите символ (Symbol) в Ruby.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему символы обычно используются как ключи хэша вместо строк?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите другой неизменяемый объект в Ruby, кроме Symbol.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит, когда значение становится слишком большим для Fixnum?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой суперкласс у Fixnum?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой суперкласс у Integer?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой числовой класс можно использовать для избежания ошибок округления при использовании двоичной арифметики с плавающей точкой?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем отличается синтаксис %W от %w?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите хотя бы один синоним для Hash#key?.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как можно указать значение по умолчанию для хэша?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Использует ли Hash #== или #eql? для сравнения ключей?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В каком порядке перебираются значения хэша?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у метода Hash#[]=?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему можно безопасно использовать строку как ключ хэша, несмотря на то что строка изменяема?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему можно использовать Hash#fetch вместо Hash#[] при запросе значений из хэша?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Когда нужно использовать Hash#rehash?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите два способа использования диапазонов (Range).",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как можно включить выражение в регулярное выражение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая глобальная переменная содержит последнее совпадение регулярного выражения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите два способа использования оператора splat (*).",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой единственный оператор принимает три операнда?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой оператор должен быть определен для реализации модуля Comparable?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между #== и #equal??",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между #== и #===?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между #== и #eql??",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что имеет более высокий приоритет: && или and?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что имеет более высокий приоритет: && или =?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что имеет более высокий приоритет: and или =?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что имеет более высокий приоритет: && или ||?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое модификатор выражения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Создает ли блок while новую область видимости?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Имеет ли case-выражение в Ruby поведение \"проваливания\" (fall-through)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между throw/catch и raise/rescue?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Создает ли блок rescue новую область видимости?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие преимущества case-выражения по сравнению с несколькими elsif?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие недостатки case-выражения по сравнению с несколькими elsif?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите хотя бы два класса, которые включают модуль Enumerable.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Когда использовать синтаксис do/end вместо фигурных скобок для блоков?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое итератор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как определить локальные переменные блока в списке параметров блока?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у Enumerable#include??",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли изменять коллекцию во время итерации?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли блок объектом?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у Enumerable#collect?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у Enumerable#find?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у Enumerable#select?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой метод противоположен Enumerable#select?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у Enumerable#inject?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему лучше использовать #each вместо for/in?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит, если блоку передано два аргумента, но он принимает только один?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему блок анонимен?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем отличается вызов блока от вызова метода?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Поддерживает ли Ruby перегрузку методов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как проверить наличие метода у объекта?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что означает self?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что означает восклицательный знак ! в конце имени метода?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое метод-мутатор?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли метод объектом?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое предикат в контексте соглашений об именовании методов в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Являются ли методы экземпляра публичными или приватными по умолчанию?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Когда следует явно использовать return?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Зачем создавать псевдонимы методов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как вызвать приватный метод объекта извне его области видимости?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как обычно предотвращают модификацию объекта?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем отличается вызов приватного метода от публичного внутри класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Могут ли имена методов начинаться с заглавной буквы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между приватными и защищенными методами?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое метод-одиночка (singleton method)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Чем отличается return внутри метода от return внутри блока?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Являются ли методы класса публичными или приватными по умолчанию?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Возвращает ли метод значение, если он не содержит выражения?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Где находится метод, объявленный вне класса или модуля на верхнем уровне?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Откуда происходят \"ключевые слова\" public, private и protected?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как определить приватный метод класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите хотя бы два способа отключить методы.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Module#remove_method и Module#undef_method?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как синтаксис Ruby поддерживает именованные аргументы в списках параметров?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие два вида объектов Proc существуют?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что можно сказать об аргументе метода, перед которым стоит &?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем основное различие между proc и lambda?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Должен ли объект быть объектом Proc, чтобы перед ним можно было поставить & в списке параметров?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между вызовом Proc и lambda?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Когда можно получить LocalJumpError?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Опишите замыкание (closure) в Ruby.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Сохраняет ли замыкание переменные по значению или по ссылке?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Связывание замыкания с переменными называется динамическим. Что это значит?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли изменить замыкание?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что нужно сделать перед вызовом объекта UnboundMethod?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Являются ли объекты Method замыканиями?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить объект Method из существующего модуля/класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить объект UnboundMethod из существующего модуля/класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Являются ли константы публичными или приватными?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что произойдет, если попытаться определить константу в классе извне класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит с константой, которой не присвоено значение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между переменной экземпляра и переменной класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему имя класса должно начинаться с заглавной буквы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли #initialize методом экземпляра или методом класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между переменной класса и переменной экземпляра класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое одиночка (singleton)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как создать одиночку?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли определить методы доступа для переменных экземпляра класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли вкладывать классы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Является ли #initialize публичным или приватным?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делает Class#allocate?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое eigenclass?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая связь между методами-одиночками и методами класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Class::new?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Если класс B вложен в класс A, и в A есть метод класса, будет ли у B доступ к этому методу?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наследуются ли eigenclass?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит с возвращаемым значением #initialize?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое фабричный метод?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой метод выполняется при копировании объекта?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Переопределяет ли #initialize_copy #initialize?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что означает, что Object#dup и #clone выполняют поверхностное копирование?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Object#dup и #clone?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите две основные функции модулей.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли наследовать от модуля?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит, когда класс включает модуль?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит, когда объект расширяет модуль?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой суперкласс у Class?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему имена модулей должны начинаться с заглавной буквы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как проверить, включен ли модуль в объект?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делает Module#module_function?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое Struct в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли добавлять методы в Struct?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Object#is_a? и Object#instance_of??",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Если super используется в методе без аргументов, какие аргументы передадутся в метод родительского класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наследуются ли методы-одиночки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наследуются ли методы класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наследуются ли константы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Наследуются ли переменные класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему следует избегать использования переменных класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "На что обратить внимание при наследовании от неизвестного класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как предотвратить наследование метода родительского класса дочерним классом?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли считать Module#attr_reader примером метапрограммирования?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить доступ к переменной экземпляра объекта извне его области видимости?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой метод вызывается, когда метод не найден?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как открыть eigenclass изнутри связанного класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое binding?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое API рефлексии в Ruby?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой метод вызывается, когда константа не найдена?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Сколько и каких аргументов принимает Module#define_method?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Может ли #eval принимать блок?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить ссылку на eigenclass изнутри связанного класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как изменить видимость метода вне определения класса?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между BasicObject#instance_eval и BasicObject#instance_exec?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Где находятся методы #class_variable_get и #class_variable_set в объектной модели?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Где находятся методы #instance_variable_get и #instance_variable_set в объектной модели?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Где находятся методы #local_variables и #global_variables в объектной модели?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое $LOAD_PATH?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Kernel#require и Kernel#load?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Имеет ли файл, загруженный через Kernel#require или Kernel#load, доступ к локальным переменным вызывающего файла?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Kernel#require и Kernel#require_relative?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делает Kernel#autoload?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делает File::expand_path?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие методы класса Dir можно использовать для получения содержимого директории?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое объект IO?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Включены ли директории установки RubyGems в $LOAD_PATH?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Если установлено несколько версий гема, какая версия будет использоваться?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что можно сказать об объектах, производных от \"загрязненных\" (tainted) объектов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Каков уровень $SAFE по умолчанию?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что происходит при попытке понизить уровень $SAFE?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между taint и trust?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая ошибка возникает, если методу передано неверное количество аргументов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая ошибка возникает, если разрешение имени метода не удалось?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой суперкласс у StandardError?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что делает реализация BasicObject#method_missing по умолчанию?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что произойдет, если попытаться переопределить BasicObject#__send__?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между #to_s и #inspect?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между #puts и #p?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой параметр интерпретатора Ruby включает режим отладки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая глобальная переменная содержит последнее возникшее исключение?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как получить текущее состояние стека вызовов?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что возвращает Kernel#__method__?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой синоним у Kernel#__method__?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между #puts и #print?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой параметр интерпретатора позволяет выполнить однострочный скрипт?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Где в объектной модели находятся фигурные скобки {} для определения хэш-литерала?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая кодировка по умолчанию в MRI?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как Ruby понимает, что нужно вызвать метод-сеттер типа X#[]= в выражении x.field = []?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какая глобальная константа содержит аргументы командной строки?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой параметр интерпретатора включает предупреждения об устаревшем или проблемном коде?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие объекты в MRI не подвергаются сборке мусора?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какой модуль стандартной библиотеки предоставляет английские альтернативы кратким глобальным переменным?",
+    "code_snippet": ""
   }
 ]

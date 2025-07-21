@@ -502,6 +502,122 @@
   {
     "problem": "Можете описать использование конструкторов в классах TypeScript?",
     "code_snippet": ""
+  },
+  {
+    "problem": "Что такое TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Основные компоненты TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите особенности TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Плюсы использования TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Минусы использования TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Типы в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое декораторы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Поддерживает ли TypeScript перегрузку функций?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Разница между типом (type) и интерфейсом (interface)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое JSX в TypeScript? Какие режимы JSX поддерживает TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое директивы с тремя наклонными чертами (Triple-Slash Directives), их типы?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое внешние объявления переменных (ambient declaration) в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Разница между абстрактным классом (abstract class) и интерфейсом (interface)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие элементы ООП поддерживаются в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Модификаторы доступа в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Разница между внутренним (Internal Module) и внешним модулями (External Module)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое декораторы в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как TypeScript поддерживает необязательные и дефолтные параметры в функции?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое перечисление (enum)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего в TypeScript используется NoImplicitAny?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Разница между типами «Объединение» (|) и «Пересечение» (&)?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое общие типы (generic) в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Какие области видимости доступны в TypeScript?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое .map файл, как и зачем его использовать?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли использовать TypeScript в серверной разработке?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Для чего в TypeScript используют ключевое слово declare?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Разница между типами void, never и unknown?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как вы отлавливаете ошибки в TypeScript коде?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Разница между any и unknown в TypeScript?",
+    "code_snippet": ""
   }
 ]
 

@@ -1982,5 +1982,557 @@
     {
         "problem": "В чем разница между внешней и внутренней итерацией?",
         "code_snippet": ""
-    }
+    },
+    {
+      "problem": "Что такое Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие концепции ООП существуют?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Назовите некоторые особенности Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Является ли Java на 100% объектно-ориентированным языком?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое абстракция?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое инкапсуляция?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие различия между абстракцией и инкапсуляцией?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое полиморфизм?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие типы полиморфизма существуют?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое наследование?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое композиция?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое ассоциация?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое агрегация?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое JVM?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Почему Java называется платформонезависимым языком программирования?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какая разница между JDK и JRE?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что означает ключевое слово static?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Можно ли переопределить private или static метод в Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Можно ли получить доступ к нестатической переменной в статическом контексте?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие типы данных поддерживаются Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое автобоксинг и анбоксинг?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое переопределение и перегрузка методов в Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое конструктор?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое перегрузка конструкторов?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое конструктор копирования?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Поддерживает ли Java множественное наследование?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какая разница между интерфейсом и абстрактным классом?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое передача по ссылке и передача по значению?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется volatile переменная?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется transient переменная?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое локальная переменная и переменная экземпляра?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие модификаторы доступа доступны в Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "В чем разница между статическим и динамическим связыванием?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое классы-обертки?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое singleton-класс и как его создать?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните разницу между JDK, JRE и JVM.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что делает Core Java платформонезависимым языком программирования?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Будет ли правильно сказать, что Core Java не на 100% объектно-ориентированный?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое конструктор в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Различия между конструктором и методом? Можно ли пометить конструкторы final?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое класс в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Значение public, private, protected класса.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое final класс?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое класс-обертка?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое абстрактный класс?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Опишите синхронизацию в контексте многопоточности.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Цель сборки мусора в Core Java и когда она используется?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Различные способы реализации потока? Какой более предпочтителен?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что если main() объявлен как private? Что происходит при удалении static из main()?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Первый аргумент массива String в методе main()?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое сервлет в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Жизненный цикл сервлета в Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните Request Dispatcher?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Шаги подключения к базе данных в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое JDBC Driver?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется ключевое слово transient в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое перегрузка методов в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое переопределение методов в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "В Core Java, для чего используется оператор == при сравнении объектов?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "В Core Java try-with-resources используется в вопросах для опытных. Опишите концепцию этого оператора.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое цепочка методов в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как Core Java поддерживает множественное наследование?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется ключевое слово volatile в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Различия между ArrayList и LinkedList в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется метод hashCode() в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните Reflection в Core Java, его использование и важность?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Разница между интерфейсами Comparable и Comparator в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните важность Generics в Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как обрабатывать исключения в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие области памяти есть у JVM?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните разницу между fail-fast и fail-safe итераторами в Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое идиома Double-Checked Locking в многопоточности Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Обсудите улучшения в системе модулей Core Java 9.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как использовать ключевое слово default в интерфейсах Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Какие преимущества Stream API в Core Java для параллельных операций?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое стирание типов в Generics Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Обсудите важность ключевого слова volatile в модели памяти Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните утечки памяти в Core Java и как их избежать?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется аннотация @FunctionalInterface в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Для чего используется аннотация @Override в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как добиться потокобезопасного singleton в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Различия между проверяемыми и непроверяемыми исключениями в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое проблема ромба в Core Java и как Java её решает?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как использовать ключевое слово assert в Core Java и когда это уместно?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните концепцию ссылок на методы в Core Java 8.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Обсудите роль ключевых слов transient и volatile в сериализации Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое интерфейс NavigableSet в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как метод forEach в Core Java 8 улучшает обработку коллекций?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Разница между static и instance методами в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Значение ключевого слова interface в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните использование ключевого слова super в Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Можно ли изменить значение final переменной в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое пакеты в Core Java и как их использовать?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Опишите роль метода public static void main(String[] args) в Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Как работает блок try-catch-finally в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Разница между == и .equals() в Core Java?",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Объясните сборку мусора в Core Java.",
+      "code_snippet": ""
+    },
+    {
+      "problem": "Что такое классы-обертки в Core Java?",
+      "code_snippet": ""
+    },
+  {
+    "problem": "В чем разница между String, StringBuffer и StringBuilder в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между расширением Thread и реализацией Runnable в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между интерфейсами Runnable и Callable в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между ArrayList и LinkedList в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое разница между wait и notify в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между HashMap и Hashtable в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между TreeSet и TreeMap в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу на Java для печати ряда Фибоначчи.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу на Java для проверки, является ли число простым.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как поменять два числа без использования временной переменной?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как проверить, содержит ли связанный список цикл в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу на Java для обращения строки без использования API.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Serializable и Externalizable в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между transient и volatile в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между абстрактным классом и интерфейсом?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между ассоциацией, композицией и агрегацией?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между FileInputStream и FileReader в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как преобразовать байты в символы в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли иметь оператор return в блоке finally? Что произойдет?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Можно ли переопределить статический метод в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между private, public, package и protected в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Назовите 5 лучших практик кодирования, которые вы изучили в Java.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу для нахождения максимального и минимального числа в массиве.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу для обращения массива на месте.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу для обращения числа в Java.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу для вычисления факториала в Java.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между вызовом start() и run() метода Thread?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Напишите программу для решения проблемы Producer-Consumer в Java.",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как найти средний элемент связанного списка за один проход?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Что такое контракт equals() и hashCode() в Java? Где он используется?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Почему методы wait и notify объявлены в классе Object?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как работает HashSet в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между синхронизированными и concurrent коллекциями в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Iterator и Enumeration в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между перегрузкой и переопределением в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между статическим и динамическим связыванием в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между Comparator и Comparable в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "Как отсортировать ArrayList в порядке убывания?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между PATH и CLASSPATH в Java?",
+    "code_snippet": ""
+  },
+  {
+    "problem": "В чем разница между проверяемыми и непроверяемыми исключениями в Java?",
+    "code_snippet": ""
+  }
 ]

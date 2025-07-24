@@ -1,0 +1,5431 @@
+[
+    {
+        "problem": "Что такое последовательность?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Какие операции поддерживают большинство последовательностей?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Какие виды строк бывают в питоне?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки str",
+            "строки документации",
+            "методы строк",
+            "форматирование строк",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Можно ли изменить отдельный символ внутри строки?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки str",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Как соединить список строк в одну? Как разбить строку на список строк?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "списки list",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как кодировать и декодировать строки?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки str",
+            "байты bytes и bytearray",
+            "методы строк"
+        ]
+    },
+    {
+        "problem": "Что такое диапазон?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Есть кортеж из трех элементов. Назначить переменным a, b, c его значения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кортежи tuple",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Как сравниваются последовательности?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Как понять хешируемый ли объект?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "магические методы"
+        ]
+    },
+    {
+        "problem": "Что такое множество?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "множества set и frozenset",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Для чего применяются множества?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "множества set и frozenset"
+        ]
+    },
+    {
+        "problem": "Какие операции можно производить над множествами?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "множества set и frozenset"
+        ]
+    },
+    {
+        "problem": "Как происходит проверка множеств на равенство?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "множества set и frozenset"
+        ]
+    },
+    {
+        "problem": "Что такое отображение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Какие нюансы есть в использовании чисел как ключей?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Какие операции можно производить над отображениями?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Что возвращает метод items?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Как отсортировать список словарей по определенному полю?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "генераторы списков",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что может являться ключом словаря? Что не может? Почему?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Есть два списка – ключи и значения. Как составить из них словарь?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как работает хэш-таблица?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Что такое коллизия?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Где будет быстрее поиск, а где перебор и почему: dict, list, set, tuple?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "множества set и frozenset",
+            "списки list",
+            "кортежи tuple",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Что такое args, kwargs? В каких случаях они требуются?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "*args и **kwargs",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Почему использовать изменяемые объекты как параметры по-умолчанию плохо? Приведите пример плохого случая. Как исправить?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Можно ли передавать функцию в качестве аргумента другой функции?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "аргументы функций",
+            "функции def",
+            "lambda-функции",
+            "first-class функции"
+        ]
+    },
+    {
+        "problem": "Можно ли объявлять функцию внутри другой функции? Где она будет видна?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "вложенные функции",
+            "функции def",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Что такое лямбды? Каковы их особенности?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Допустимы ли следующие выражения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы",
+            "аргументы функций",
+            "условия if-elif-else",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Как передаются значения аргументов в функцию или метод?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "*args и **kwargs",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Что такое замыкание?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "вложенные функции"
+        ]
+    },
+    {
+        "problem": "Что такое контейнер?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Что такое итерабельный объект?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "итераторы",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Что такое итератор?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "итераторы"
+        ]
+    },
+    {
+        "problem": "Что такое генераторная функция?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Что делает yield?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "В чем отличие [x for x in y] от (x for x in y)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Что особенного в генераторе?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Как объявить генератор?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Как получить из генератора список?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что такое подгенератор?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Какие методы есть у генераторов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "магические методы"
+        ]
+    },
+    {
+        "problem": "Можно ли извлечь элемент генератора по индексу?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Что возвращает итерация по словарю?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "итераторы"
+        ]
+    },
+    {
+        "problem": "Что такое сопрограмма?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "асинхронность"
+        ]
+    },
+    {
+        "problem": "Как получить список атрибутов объекта?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как в классе сослаться на родительский класс?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Что такое MRO?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Что такое Diamond problem?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Что такое контекстный менеджер? Как написать свой?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "менеджер контекста with"
+        ]
+    },
+    {
+        "problem": "Прокомментировать выражение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "комментарии"
+        ]
+    },
+    {
+        "problem": "Что такое __slots__? Плюсы, минусы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "В чем смысл параметров _value, __value?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "переменные",
+            "свойства property"
+        ]
+    },
+    {
+        "problem": "Что такое __new__? И чем он отличается от __init__? В какой последовательности они выполняются?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "магические методы"
+        ]
+    },
+    {
+        "problem": "Что такое и чем отличается old-style от new-style classes?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "метаклассы",
+            "абстрактные классы"
+        ]
+    },
+    {
+        "problem": "Что такое утиная типизация?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типизация (type hints)"
+        ]
+    },
+    {
+        "problem": "Как можно получить имя модуля?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "модуль os"
+        ]
+    },
+    {
+        "problem": "Что такое модульное программирование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Как Python ищет модули при импорте?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "pip и пакеты"
+        ]
+    },
+    {
+        "problem": "Что такое пакет?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов",
+            "pip и пакеты"
+        ]
+    },
+    {
+        "problem": "Что вы можете сказать о конструкции import package.item?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "создание пакетов",
+            "relative импорт"
+        ]
+    },
+    {
+        "problem": "Что такое обработка исключений?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "пользовательские исключения",
+            "встроенные исключения",
+            "raise исключения",
+            "try-except"
+        ]
+    },
+    {
+        "problem": "Для чего могут применять конструкцию try finally без except?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "try-except",
+            "обработка исключений"
+        ]
+    },
+    {
+        "problem": "Как правильно по-разному обрабатывать исключения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "пользовательские исключения",
+            "встроенные исключения",
+            "raise исключения",
+            "try-except"
+        ]
+    },
+    {
+        "problem": "Что будет если ошибку не обработает блок except?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "пользовательские исключения",
+            "raise исключения",
+            "встроенные исключения",
+            "try-except"
+        ]
+    },
+    {
+        "problem": "Что делать если нужно перехватить исключение, выполнить действия и опять возбудить это же исключение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "raise исключения",
+            "try-except"
+        ]
+    },
+    {
+        "problem": "Что такое сцепление исключений?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные исключения",
+            "обработка исключений",
+            "raise исключения"
+        ]
+    },
+    {
+        "problem": "Зачем нужен блок else?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "условия if-elif-else"
+        ]
+    },
+    {
+        "problem": "Что можно передать в конструктор исключения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "пользовательские исключения",
+            "встроенные исключения",
+            "raise исключения"
+        ]
+    },
+    {
+        "problem": "Какие есть классы исключений?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные исключения",
+            "пользовательские исключения",
+            "обработка исключений",
+            "raise исключения",
+            "try-except",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "В каких случаях можно обработать SyntaxError?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "raise исключения",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Можно ли создавать собственные исключения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "пользовательские исключения",
+            "обработка исключений",
+            "raise исключения",
+            "try-except"
+        ]
+    },
+    {
+        "problem": "Для чего нужны предупреждения (warnings) и как создать собственное?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "пользовательские исключения"
+        ]
+    },
+    {
+        "problem": "Для чего нужен модуль warnings?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Что может быть декоратором? К чему может быть применен декоратор?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Что будет, если декоратор не возвращает ничего?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "В чем отличие @foobar от @foobar()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Что такое фабрика декораторов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Зачем нужен wraps?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Что такое метаклассы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "метаклассы",
+            "классы и объекты",
+            "абстрактные классы"
+        ]
+    },
+    {
+        "problem": "Что такое type? Как работает поиск метакласса при создании объекта?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "метаклассы",
+            "классы и объекты",
+            "типы данных",
+            "типизация (type hints)"
+        ]
+    },
+    {
+        "problem": "Как работают метаклассы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "метаклассы",
+            "классы и объекты",
+            "абстрактные классы"
+        ]
+    },
+    {
+        "problem": "Зачем вообще использовать метаклассы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "метаклассы",
+            "классы и объекты",
+            "абстрактные классы"
+        ]
+    },
+    {
+        "problem": "Что такое файловый объект?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с файлами",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Какие есть виды файловых объектов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "В чем отличие текстовых и бинарных файлов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "байты bytes и bytearray",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Как пользоваться функцией open?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Для чего необходимо закрывать файлы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Что делают методы tell и seek?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Что делают StringIO и BytesIO?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "байты bytes и bytearray",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Являются ли файловые объекты контекстными менеджерами?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "менеджер контекста with",
+            "работа с файлами",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Что такое сериализация?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "сериализация",
+            "JSON и XML"
+        ]
+    },
+    {
+        "problem": "json.dumps / json.dump , json.loads / json.load?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "JSON и XML",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "Что делать если нужно сериализовать данные, которые не поддерживаются стандартным модулем json?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "JSON и XML",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "pickle.dumps / pickle.dump, pickle.loads / pickle.load?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "pickle",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "Пирамида тестирования?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "тестирование API",
+            "pytest"
+        ]
+    },
+    {
+        "problem": "Что такое mocking?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "мокирование",
+            "unit-тестирование"
+        ]
+    },
+    {
+        "problem": "Что делать, если тестируемая функция использует удалённое подключение к внешним сервисам, которое иногда видает ошибку таймаута, 404 и им подобные?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "тестирование API",
+            "обработка исключений",
+            "HTTP-запросы",
+            "работа с сетью"
+        ]
+    },
+    {
+        "problem": "Что делать, если тестируемая функция занимает много времени на выполнение повторяющихся операций внутри неё?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "многопоточность",
+            "тестирование API"
+        ]
+    },
+    {
+        "problem": "Интеграционные тесты (Integration tests)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "тестирование API",
+            "unittest"
+        ]
+    },
+    {
+        "problem": "Функциональное тестирование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "тестирование API",
+            "unittest"
+        ]
+    },
+    {
+        "problem": "Системный тест (System test, Service test)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "тестирование API",
+            "unittest",
+            "pytest"
+        ]
+    },
+    {
+        "problem": "Проверка работоспособности (Smoke test, Sanity check)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "тестирование API"
+        ]
+    },
+    {
+        "problem": "Регрессионное тестирование (Regression testing)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unit-тестирование",
+            "тестирование API"
+        ]
+    },
+    {
+        "problem": "Чем интеграционное тестирование отличается от функционального?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "тестирование API",
+            "unit-тестирование"
+        ]
+    },
+    {
+        "problem": "Что такое функциональное программирование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции"
+        ]
+    },
+    {
+        "problem": "Как у Python с поддержкой функционального программирования?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции",
+            "map, filter, reduce",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Что такое объект первого класса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Что такое функция высшего порядка?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции",
+            "функции def",
+            "вложенные функции",
+            "lambda-функции",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Что такое каррирование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции",
+            "вложенные функции"
+        ]
+    },
+    {
+        "problem": "Опишите функции map, reduce, filter модуля functools?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "map, filter, reduce",
+            "встроенные функции",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Какие еще вы знаете функции из модуля functools?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Какие вы функции знаете из модуля itertools?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "итераторы",
+            "циклы for и while",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Для чего нужен модуль operator?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы",
+            "перегрузка операторов"
+        ]
+    },
+    {
+        "problem": "Что такое GIL? Какие у него есть проблемы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "GIL",
+            "многопоточность"
+        ]
+    },
+    {
+        "problem": "Работали ли Вы с asyncio? В чём его особенность?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "asyncio",
+            "асинхронность",
+            "работа с сетью"
+        ]
+    },
+    {
+        "problem": "Что такое async/await, для чего они нужны и как их использовать?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "асинхронность",
+            "asyncio"
+        ]
+    },
+    {
+        "problem": "Как в питоне реализуется многопоточность? Какими модулями?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность",
+            "многопроцессорность"
+        ]
+    },
+    {
+        "problem": "В чем отличие тредов от мультипроцессинга?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность",
+            "многопроцессорность"
+        ]
+    },
+    {
+        "problem": "Какие задачи хорошо параллелятся, какие плохо?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность",
+            "многопроцессорность",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Нужно посчитать 100 уравнений. Делать это в тредах или нет?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность",
+            "многопроцессорность"
+        ]
+    },
+    {
+        "problem": "Треды в Питоне — это нативные треды или нет?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность"
+        ]
+    },
+    {
+        "problem": "Что такое гринлеты? Общее понятие? Примеры реализаций?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "асинхронность"
+        ]
+    },
+    {
+        "problem": "Какие варианты реализации шаблона Singleton на питоне?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Какие вы знаете инструменты для проверки кодстайл?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода",
+            "документирование кода",
+            "PEP 8"
+        ]
+    },
+    {
+        "problem": "Какая разница между одинарным и двойным подчеркиванием?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Отличие copy() от deepcopy()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Что такое garbage collector? В чём его плюсы и минусы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Что такое интроспекция?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Что такое рефлексия?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Что такое Middleware, для чего, как реализуется?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "problem": "Назовите основные мидлвари? Зачем они нужны?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "problem": "Опишите алгоритм работы CSRF middleware?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы",
+            "Django"
+        ]
+    },
+    {
+        "problem": "Что такое сигналы? Зачем нужны? Назовите основные?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "problem": "Как реализуется связь m2m на уровне базы данных?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Чем лучше отправлять форму — GET или POST?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Как работает Serializer в Django REST Framework?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django REST Framework",
+            "Django ORM",
+            "сериализация",
+            "JSON и XML",
+            "REST API"
+        ]
+    },
+    {
+        "problem": "Что такое Meta в классах Django и для чего нужен?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "метаклассы",
+            "Django REST Framework",
+            "Django ORM"
+        ]
+    },
+    {
+        "problem": "За что отвечает Meta в сериализаторе?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "сериализация",
+            "метаклассы"
+        ]
+    },
+    {
+        "problem": "Как в django работает система аутентификации?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django REST Framework",
+            "Django ORM",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое CGI? Плюсы, минусы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Как защитить куки от воровства и от подделки?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "безопасность"
+        ]
+    },
+    {
+        "problem": "Какая разница между аутентификацией и авторизацией?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "безопасность"
+        ]
+    },
+    {
+        "problem": "Что такое XSS? Примеры? Как защитить приложение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "безопасность"
+        ]
+    },
+    {
+        "problem": "Что такое REST?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "REST API",
+            "Django REST Framework"
+        ]
+    },
+    {
+        "problem": "Что такое SOAP?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "REST API"
+        ]
+    },
+    {
+        "problem": "В чем разница между REST и SOAP веб сервисами?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "REST API",
+            "JSON и XML"
+        ]
+    },
+    {
+        "problem": "Можем ли мы посылать SOAP сообщения с вложением?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "REST API"
+        ]
+    },
+    {
+        "problem": "Как бы вы решили какой из REST или SOAP веб сервисов использовать?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "REST API",
+            "JSON и XML",
+            "Django REST Framework"
+        ]
+    },
+    {
+        "problem": "Какие способы для мониторинга веб-приложений в production вы использовали или знаете?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Как устроен протокол HTTP?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Написать raw запрос главной Яндекса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Как клиенту понять, удался запрос или нет?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Что нужно отправить браузеру, чтобы перенаправить на другую страницу?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Как управлять кешированием в HTTP?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы",
+            "кэширование"
+        ]
+    },
+    {
+        "problem": "Как кэшируются файлы на уровне протокола?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кэширование"
+        ]
+    },
+    {
+        "problem": "Что такое HTTP?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Чем отличаются HTTP и HTTPS?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "HTTP-запросы",
+            "безопасность"
+        ]
+    },
+    {
+        "problem": "KISS?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "DRY?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "YAGNI?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "SLAP?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "SOLID принципы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое code cohesion & code coupling?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Абстрактная фабрика (Abstract factory)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "абстрактные классы"
+        ]
+    },
+    {
+        "problem": "Построитель (Builder)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Фабричный метод (Factory method)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Прототип (Prototype)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Одиночка (Singleton)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Адаптер (Adapter)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Мост (Bridge)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Компоновщик (Composite)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Фасад (Facade)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Приспособленец (Flyweight)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Заместитель (Proxy)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Цепочка ответственности (Chain of responsobility)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Команда (Command)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Интерпретатор (Interpreter)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Посредник (Mediator)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Хранитель (Memento)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Наблюдатель (Observer)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Состояние (State)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Стратегия (Strategy)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Шаблонный метод (Template method)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Посетитель (Visitor)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое lru cache?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кэширование"
+        ]
+    },
+    {
+        "problem": "Что такое MQ?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с сетью"
+        ]
+    },
+    {
+        "problem": "Какие готовые реализации MQ вы знаете?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с сетью"
+        ]
+    },
+    {
+        "problem": "Что такое RPC?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с сетью"
+        ]
+    },
+    {
+        "problem": "Что такое gPRC?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с сетью"
+        ]
+    },
+    {
+        "problem": "Что такое рекурсия? Какие минусы, плюсы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "рекурсия",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Что такое хвостовая рекурсия?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "рекурсия"
+        ]
+    },
+    {
+        "problem": "Как можно оптимизировать хвостовую рекурсию в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "оптимизация кода",
+            "рекурсия"
+        ]
+    },
+    {
+        "problem": "О-большое при оценке сложности?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Простой поиск?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Бинарный поиск?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Рекурсивные алгоритмы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы",
+            "рекурсия"
+        ]
+    },
+    {
+        "problem": "Быстрая сортировка?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Граф?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Очередь и стек?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "очереди Queue",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Дерево?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Поиск в ширину?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Алгоритм Дейкстры?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Жадные алгоритмы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Как распознать NP-полную задачу?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Динамическое программирование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Алгоритм k ближайших соседей?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы машинного обучения",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Алгоритм Ричарда Фейнмана?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Что такое куки? Зачем они, как с ними работать и где они сохраняются?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Может ли сервер изменить (добавить, удалить) куки?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Что такое JWT (JSON Web Token)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "JSON и XML"
+        ]
+    },
+    {
+        "problem": "Agile/Scrum?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "анализ данных"
+        ]
+    },
+    {
+        "problem": "Какая разница между CI и CD?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "CI/CD"
+        ]
+    },
+    {
+        "problem": "Какая разница между Scrum и Kanban?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "анализ данных"
+        ]
+    },
+    {
+        "problem": "Вопрос для тим-лидов: что Вы будете делать, если на проекте нет тестов и заказчик не хочет тратить на их разработку время и деньги?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "тестирование API"
+        ]
+    },
+    {
+        "problem": "Что такое Code Debt и как с ним быть?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "документирование кода",
+            "стиль кода",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Что такое Git Flow?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "контейнеризация"
+        ]
+    },
+    {
+        "problem": "Что такое Git Rebase?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "контейнеризация"
+        ]
+    },
+    {
+        "problem": "Что такое Git Cherry pick?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "контейнеризация"
+        ]
+    },
+    {
+        "problem": "Что такое force push?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "контейнеризация"
+        ]
+    },
+    {
+        "problem": "Что такое pre-commit check?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "контейнеризация"
+        ]
+    },
+    {
+        "problem": "Что такое транзакция? Какие у неё есть свойства?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Какие команды управления транзакциями вы знаете?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Что такое уровни изолированности транзакций? Какие они бывают?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Что такое вложенные транзакции?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Что такое курсор и зачем он нужен?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Какая разница между PostgreSQL и MySQL?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "PostgreSQL",
+            "MySQL",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Что такое VACUUM в PostgreSQL?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "problem": "Что такое EXPLAIN? Какая разница между ним и EXPLAIN ANALYZE?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "анализ данных"
+        ]
+    },
+    {
+        "problem": "Какие виды Join'ов вы знаете, чем они отличаются друг от друга?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "В чем разница между кортежем (tuple) и списком (list)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кортежи tuple",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что такое словарь (dict) и каково его основное ограничение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Что такое 'вызываемый объект' (callable) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Используя генератор списка, выведите нечетные числа от 0 до 100.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Напишите простой декоратор.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы",
+            "*args и **kwargs"
+        ]
+    },
+    {
+        "problem": "Предположим, lst = [2, 33, 222, 14, 25]. Что вернет lst[-1]?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Дан список lst = [1, 2, 3, 4, 4, 6, 7, 3, 4, 5, 2, 7], верните только уникальные значения из списка.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "множества set и frozenset"
+        ]
+    },
+    {
+        "problem": "Является ли этот код валидным в Python и почему?",
+        "code_snippet": "def my_function():\n    print(my_function.what)\nmy_function.what = \"right?\"\nmy_function() # Prints \"right?\"",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Даны переменные a и b, поменяйте их значения местами так, чтобы b получило значение a, а a получило значение b без использования промежуточной переменной.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Как выполнить операцию XOR в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Что такое интроспекция/рефлексия и поддерживает ли это Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Одна особенность Python OOP заключается в том, что он не поддерживает истинно приватные атрибуты/методы. Как мы обходим это ограничение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Что такое Mixin?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое Dunder/Magic/Special методы в Python? Назовите несколько.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "магические методы",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое pip?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "pip и пакеты"
+        ]
+    },
+    {
+        "problem": "Что такое CheeseShop?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "pip и пакеты"
+        ]
+    },
+    {
+        "problem": "Что такое virtualenv?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "виртуальные окружения"
+        ]
+    },
+    {
+        "problem": "Что такое модули и пакеты в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "pip и пакеты",
+            "создание пакетов"
+        ]
+    },
+    {
+        "problem": "Бонусный вопрос: Табы или пробелы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "Какие существуют способы передачи аргументов в функцию по ссылке в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Какие команды используются для копирования объектов в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "В чем разница между глубоким (deep) и поверхностным (shallow) копированием?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Напишите программу для определения имени объекта в Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Как используются тернарные операторы в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "тернарный оператор"
+        ]
+    },
+    {
+        "problem": "Как преобразовать строку в число?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки str",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Какова функция отрицательного индекса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Напишите программу для проверки принадлежности объекта классу или его подклассу.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Объясните делегирование в Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Как явно определяется 'self' в методе?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как извлекаются значения из объектов в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как используется мутация глобальных значений для потокобезопасности?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность"
+        ]
+    },
+    {
+        "problem": "Напишите программу для чтения и записи бинарных данных в Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "байты bytes и bytearray"
+        ]
+    },
+    {
+        "problem": "Как запустить подпроцесс с каналами, соединяющими ввод и вывод?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ввод и вывод"
+        ]
+    },
+    {
+        "problem": "Напишите программу, демонстрирующую шаблон Singleton в Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код и почему?",
+        "code_snippet": "def extendList(val, list=[]):\n    list.append(val)\n    return list\nlist1 = extendList(10)\nlist2 = extendList(123,[])\nlist3 = extendList('a')\nprint \"list1 = %s\" % list1\nprint \"list2 = %s\" % list2\nprint \"list3 = %s\" % list3",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код и почему?",
+        "code_snippet": "def multipliers():\n  return [lambda x : i * x for i in range(4)]\nprint [m(2) for m in multipliers()]",
+        "tags": [
+            "Python",
+            "lambda-функции",
+            "циклы for и while"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код и почему?",
+        "code_snippet": "class Parent(object):\n    x = 1\nclass Child1(Parent):\n    pass\nclass Child2(Parent):\n    pass\nprint Parent.x, Child1.x, Child2.x\nChild1.x = 2\nprint Parent.x, Child1.x, Child2.x\nParent.x = 3\nprint Parent.x, Child1.x, Child2.x",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код в Python 2 и как изменится ответ в Python 3?",
+        "code_snippet": "def div1(x,y):\n    print \"%s/%s = %s\" % (x, y, x/y)\ndef div2(x,y):\n    print \"%s//%s = %s\" % (x, y, x//y)\ndiv1(5,2)\ndiv1(5.,2)\ndiv2(5,2)\ndiv2(5.,2.)",
+        "tags": [
+            "Python",
+            "операторы",
+            "ввод и вывод"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "list = ['a', 'b', 'c', 'd', 'e']\nprint list[10:]",
+        "tags": [
+            "Python",
+            "списки list",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код на строках 2, 4, 6 и 8?",
+        "code_snippet": "1. list = [ [ ] ] * 5\n2. list  # output?\n3. list[0].append(10)\n4. list  # output?\n5. list[1].append(20)\n6. list  # output?\n7. list.append(30)\n8. list  # output?",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как с помощью одного генератора списка создать новый список, содержащий только четные числа с четными индексами из исходного списка?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Будет ли работать следующий код? Почему?",
+        "code_snippet": "class DefaultDict(dict):\n  def __missing__(self, key):\n    return []\nd = DefaultDict()\nd['florp'] = 127\nclass DefaultDict(dict):\n  def __missing__(self, key):\n    return []\nd = DefaultDict()\nd['florp'] = 127",
+        "tags": [
+            "Python",
+            "словари dict",
+            "defaultdict"
+        ]
+    },
+    {
+        "problem": "Как бы вы протестировали следующий асинхронный код?",
+        "code_snippet": "async def logs(cont, name):\n    conn = aiohttp.UnixConnector(path=\"/var/run/docker.sock\")\n    async with aiohttp.ClientSession(connector=conn) as session:\n        async with session.get(f\"http://xx/containers/{cont}/logs?follow=1&stdout=1\") as resp:\n            async for line in resp.content:\n                print(name, line)\nasync def logs(cont, name):\n    conn = aiohttp.UnixConnector(path=\"/var/run/docker.sock\")\n    async with aiohttp.ClientSession(connector=conn) as session:\n        async with session.get(f\"http://xx/containers/{cont}/logs?follow=1&stdout=1\") as resp:\n            async for line in resp.content:\n                print(name, line)",
+        "tags": [
+            "Python",
+            "тестирование API"
+        ]
+    },
+    {
+        "problem": "Как перечислить функции в модуле?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "модули и импорт",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Напишите функцию, которая выводит наименьшее целое число, отсутствующее в списке и не представимое суммой подэлементов списка.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Как Python выполняет код?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое связывания (bindings) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Как создать список?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как создать словарь?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Что такое генератор списка? Зачем он нужен?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Что произойдет, если в __init__ будет ошибка?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Что произойдет в Python при делении на ноль?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Как улучшить следующий код?",
+        "code_snippet": "import string\ni = 0\nfor letter in string.letters:\n    print(\"The letter at index %i is %s\" % (i, letter))\n    i = i + 1\nimport string\nfor i, letter in enumerate(string.letters):\n    print(\"The letter at index {} is {}\".format(i, letter))",
+        "tags": [
+            "Python",
+            "оптимизация кода",
+            "форматирование строк",
+            "циклы for и while"
+        ]
+    },
+    {
+        "problem": "Как вернуть несколько значений из функции/метода?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "кортежи tuple"
+        ]
+    },
+    {
+        "problem": "Какой самый быстрый способ поменять значения двух переменных местами?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Какова важность подсчета ссылок?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Возвращают ли функции (или методы) что-то, даже если нет оператора return? Если да, то что?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Как перевернуть список? Назовите хотя бы три способа.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Как бы вы объединили два отсортированных списка? Они могут быть любой длины или пустыми.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как бы вы подсчитали строки в файле? Как бы вы сделали это, если файл слишком велик для хранения в памяти?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Есть ли отладчик на уровне исходного кода с точками останова, пошаговым выполнением и т.д.?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Есть ли инструмент для поиска ошибок или выполнения статического анализа?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "анализ данных"
+        ]
+    },
+    {
+        "problem": "Как я могу создать автономный исполняемый файл из скрипта Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов"
+        ]
+    },
+    {
+        "problem": "Есть ли стандарты кодирования или руководство по стилю для программ Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода",
+            "PEP 8"
+        ]
+    },
+    {
+        "problem": "Моя программа работает слишком медленно. Как я могу ускорить ее?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Почему я получаю UnboundLocalError, когда переменная имеет значение?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Каковы правила для локальных и глобальных переменных в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Почему лямбды, определенные в цикле с разными значениями, возвращают один и тот же результат?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "lambda-функции",
+            "циклы for и while"
+        ]
+    },
+    {
+        "problem": "Каковы 'лучшие практики' использования импорта в модуле?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "Почему значения по умолчанию разделяются между объектами?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Как я могу передать необязательные или именованные параметры из одной функции в другую?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "*args и **kwargs"
+        ]
+    },
+    {
+        "problem": "В чем разница между аргументами и параметрами?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Почему изменение списка 'y' также изменило список 'x'?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как написать функцию с выходными параметрами (вызов по ссылке)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "*args и **kwargs"
+        ]
+    },
+    {
+        "problem": "Как создать функцию высшего порядка в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции",
+            "функции def",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Как мой код может узнать методы или атрибуты объекта?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Как мой код может узнать имя объекта?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Что не так с приоритетом оператора запятой?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Есть ли эквивалент тернарного оператора \"?:\" из C?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "тернарный оператор"
+        ]
+    },
+    {
+        "problem": "Возможно ли писать запутанные однострочники в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис",
+            "тернарный оператор"
+        ]
+    },
+    {
+        "problem": "Как указать шестнадцатеричные и восьмеричные целые числа?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Почему -22 // 10 возвращает -3?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Как преобразовать число в строку?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "форматирование строк",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как изменить строку на месте?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как использовать строки для вызова функций/методов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Есть ли эквивалент Perl-функции chomp() для удаления завершающих символов новой строки из строк?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Есть ли эквивалент scanf() или sscanf()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ввод и вывод",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Что означает 'UnicodeError: ASCII [decoding,encoding] error: ordinal not in range(128)'?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "байты bytes и bytearray",
+            "обработка исключений"
+        ]
+    },
+    {
+        "problem": "Как конвертировать между кортежами и списками?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кортежи tuple",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как перебирать последовательность в обратном порядке?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Как создать массив в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как создать многомерный список?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Как применить метод к последовательности объектов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Почему a_tuple[i] += ['item'] вызывает исключение, хотя сложение работает?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "встроенные исключения",
+            "кортежи tuple"
+        ]
+    },
+    {
+        "problem": "Как получить словарь, который отображает ключи в постоянном порядке?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "OrderedDict"
+        ]
+    },
+    {
+        "problem": "Я хочу выполнить сложную сортировку: можно ли сделать преобразование Шварца в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "функции def",
+            "first-class функции"
+        ]
+    },
+    {
+        "problem": "Как отсортировать один список по значениям из другого списка?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Что такое класс?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое метод?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Что такое self?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как проверить, является ли объект экземпляром данного класса или его подкласса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "наследование",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Что такое делегирование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Как вызвать метод, определенный в базовом классе, из производного класса, который его переопределяет?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как организовать код, чтобы было легче изменить базовый класс?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python",
+            "наследование",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Как создать статические данные класса и статические методы класса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Как перегрузить конструкторы (или методы) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "перегрузка операторов",
+            "ООП в Python",
+            "магические методы"
+        ]
+    },
+    {
+        "problem": "Я пытаюсь использовать __spam и получаю ошибку о _SomeClassName__spam.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Мой класс определяет __del__, но он не вызывается, когда я удаляю объект.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "магические методы",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как получить список всех экземпляров данного класса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Почему результат id() кажется неуникальным?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Как создать файл .pyc?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов"
+        ]
+    },
+    {
+        "problem": "Как найти имя текущего модуля?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Как иметь модули, которые взаимно импортируют друг друга?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "relative импорт"
+        ]
+    },
+    {
+        "problem": "__import__('x.y.z') возвращает <module 'x'>; как получить z?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Когда я редактирую импортированный модуль и переимпортирую его, изменения не отображаются. Почему это происходит?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Что такое декораторы Python и как их использовать?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Как настроить множество проектов, где каждый использует разные версии Python и сторонних библиотек?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "pip и пакеты",
+            "виртуальные окружения"
+        ]
+    },
+    {
+        "problem": "Покажите три разных способа получения каждого третьего элемента в списке",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генераторы списков",
+            "списки list",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Назовите несколько различий между Python 2.x и 3.x?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Оператор with и его использование.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "менеджер контекста with",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Как избежать циклических импортов, не прибегая к импортам в функциях?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Что не так с импортом всех (import all)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "relative импорт"
+        ]
+    },
+    {
+        "problem": "Можно ли манипулировать функциями как объектами первого класса?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "first-class функции",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Разница между \"class Foo\" и \"class Foo(object)\"",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "ООП в Python",
+            "метаклассы"
+        ]
+    },
+    {
+        "problem": "Как прочитать файл размером 8 ГБ в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Что вам не нравится в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "Можно ли преобразовать ASCII-символы в целое число без использования встроенных методов, таких как string.atoi или int()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Используете ли вы табуляции или пробелы, какие из них лучше?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "PEP 8",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "Что такое Python? Каковы преимущества использования Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое pickling и unpickling?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "pickle",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "Как управляется память в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "структуры данных",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Какие инструменты помогают найти ошибки или выполнить статический анализ?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "анализ данных",
+            "стиль кода",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Почему формы lambda в Python не имеют операторов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "lambda-функции",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое unittest в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "unittest",
+            "unit-тестирование"
+        ]
+    },
+    {
+        "problem": "Объясните срезы в Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы",
+            "строки str",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что такое строка документации (docstring) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки документации",
+            "документирование кода",
+            "PEP 257"
+        ]
+    },
+    {
+        "problem": "Как можно использовать глобальные переменные в нескольких модулях?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Как получить доступ к модулю, написанному на Python, из C?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "модуль os"
+        ]
+    },
+    {
+        "problem": "Для чего используется оператор // в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Объясните Flask и его преимущества",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask"
+        ]
+    },
+    {
+        "problem": "Что такое Flask-WTF и каковы его особенности?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask"
+        ]
+    },
+    {
+        "problem": "Объясните, как обычно работает скрипт Flask?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask"
+        ]
+    },
+    {
+        "problem": "Объясните, как получить доступ к сеансам в Flask?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask"
+        ]
+    },
+    {
+        "problem": "Является ли Flask моделью MVC, и если да, приведите пример, показывающий шаблон MVC для вашего приложения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask",
+            "Jinja2"
+        ]
+    },
+    {
+        "problem": "Объясните подключение к базе данных в Python Flask?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask",
+            "работа с базами данных",
+            "SQLAlchemy",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "problem": "Если у вас есть несколько серверов Memcache, и один из них, содержащий данные, выходит из строя, будет ли предпринята попытка получить эти данные?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кэширование"
+        ]
+    },
+    {
+        "problem": "Объясните, как можно минимизировать простои серверов Memcached в вашей разработке на Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кэширование",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Объясните, что такое эффект Dogpile? Как можно предотвратить этот эффект?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кэширование",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Объясните, как не следует использовать memcached в вашем проекте на Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кэширование"
+        ]
+    },
+    {
+        "problem": "Что такое оператор If в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "условия if-elif-else"
+        ]
+    },
+    {
+        "problem": "Объясните цикл While в Python на примере",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "циклы for и while"
+        ]
+    },
+    {
+        "problem": "Что такое enumerate() в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Как можно использовать цикл for для повторения одного и того же оператора снова и снова?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "циклы for и while"
+        ]
+    },
+    {
+        "problem": "Что такое сопоставление кортежей в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "кортежи tuple"
+        ]
+    },
+    {
+        "problem": "Как можно скопировать весь словарь в новый словарь?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Как можно обновить словарь в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Приведите пример метода items() для словаря",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "ключевые слова"
+        ]
+    },
+    {
+        "problem": "Как можно отсортировать элементы в словаре Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Приведите пример методов len() и cmp() для словаря и списка",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "списки list",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Какие существуют методы словаря?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Объясните арифметические операторы на примере",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Приведите пример логических операторов",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Объясните операторы членства с примером",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Напишите код для демонстрации приоритета операторов в Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Объясните массивы в Python на примере",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как можно получить доступ к элементам массива?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Как можно вставить элементы в массив?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как можно удалить элементы из массива?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как можно выполнить поиск и получить индекс значения в массиве?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Как можно перевернуть массив в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Приведите пример преобразования массива в Unicode",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array",
+            "байты bytes и bytearray"
+        ]
+    },
+    {
+        "problem": "Приведите пример класса в Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Приведите пример конструкторов Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "ООП в Python",
+            "магические методы"
+        ]
+    },
+    {
+        "problem": "Как можно получить доступ к значениям в строке?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки str",
+            "методы строк",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Объясните все строковые операторы с примером",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Приведите пример функции sleep() в Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Что такое метод timer в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Приведите пример класса calendar",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "стандартная библиотека"
+        ]
+    },
+    {
+        "problem": "Объясните ZIP-файл Python на примере",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "стандартная библиотека"
+        ]
+    },
+    {
+        "problem": "Каковы распространенные примеры исключений в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Объясните важные ошибки Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "обработка исключений",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Объясните JSON dumps() в Python с примером",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "JSON и XML",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "Подробно объясните преобразование JSON в Python (декодирование) с примером",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "JSON и XML",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "Напишите код для метода encode()",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "байты bytes и bytearray"
+        ]
+    },
+    {
+        "problem": "Напишите код на Python для массива в numpy для создания матрицы Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Напишите код на Python для вычитания матриц",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Напишите код для умножения матриц",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Объясните срезы матрицы на примере",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы",
+            "массивы array",
+            "NumPy"
+        ]
+    },
+    {
+        "problem": "Напишите код на Python для нахождения среднего значения через цикл",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "циклы for и while",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Напишите код для подсчета элементов в списке",
+        "code_snippet": "list1 = ['red', 'green', 'blue', 'orange', 'green', 'gray', 'green']",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как можно подсчитать повторяющиеся элементы в заданном списке?",
+        "code_snippet": "list1 = [2,3,4,3,10,3,5,6,3]",
+        "tags": [
+            "Python",
+            "списки list",
+            "Counter",
+            "модуль collections"
+        ]
+    },
+    {
+        "problem": "Напишите код для получения индекса элемента в списке с использованием цикла for",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "циклы for и while",
+            "списки list",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Приведите пример использования type() в Python",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Как можно печатать без новой строки в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "форматирование строк",
+            "ввод и вывод"
+        ]
+    },
+    {
+        "problem": "Как напечатать шаблон звездочки (*) без новой строки и пробела?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "форматирование строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Что такое __init__?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "магические методы",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "В чем разница между массивами и списками в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как сделать Python-скрипт исполняемым в Unix?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт",
+            "операторы",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "Что такое срезы (slicing) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Что делают break, continue и pass в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "break и continue",
+            "циклы for и while",
+            "pass в функциях"
+        ]
+    },
+    {
+        "problem": "Что такое глобальные, защищенные и приватные атрибуты в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Какие встроенные типы данных есть в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Что такое область видимости (Scope) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "области видимости"
+        ]
+    },
+    {
+        "problem": "Что такое PEP 8 и почему это важно?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "PEP 8",
+            "стиль кода"
+        ]
+    },
+    {
+        "problem": "Что такое интерпретируемый язык?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое язык с динамической типизацией?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "типизация (type hints)"
+        ]
+    },
+    {
+        "problem": "Что такое Dict и List comprehensions?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "списки list",
+            "генераторы списков",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое разрешение области видимости (Scope Resolution) в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "области видимости"
+        ]
+    },
+    {
+        "problem": "Что такое пространства имен (namespaces) в Python? Для чего они используются?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое lambda в Python? Для чего она используется?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Как удалить файл в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с файлами",
+            "модуль os"
+        ]
+    },
+    {
+        "problem": "Объясните функции split() и join() в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как передаются аргументы в Python - по значению или по ссылке?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Для чего используются функции help() и dir()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "В чем разница между xrange и range в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Как проверить, является ли класс дочерним по отношению к другому классу?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование",
+            "классы и объекты",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Что такое метод init в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "магические методы",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как создать пустой класс в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как работают спецификаторы доступа в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как получить доступ к членам родительского класса в дочернем классе?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как создать класс в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Как удалить индексы, строки и столбцы из dataframe?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как создать серию из словаря в pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Как объединить разные pandas dataframes?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как найти ближайшее значение в заданном массиве numpy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как отсортировать массив по N-му столбцу?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как прочитать CSV данные в массив NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Как эффективно загрузить данные из текстового файла?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "работа с файлами"
+        ]
+    },
+    {
+        "problem": "Дан массив numpy и новый столбец. Как удалить второй столбец и заменить его новыми значениями?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как создать 1D, 2D и 3D массивы в NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Какие преимущества у массивов NumPy перед списками Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что такое NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy"
+        ]
+    },
+    {
+        "problem": "Как найти форму (shape) массива NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Что такое основная (main) функция в Python и как ее вызвать?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "функции def",
+            "ключевые слова"
+        ]
+    },
+    {
+        "problem": "Какие инструменты используются для поиска ошибок и статического анализа в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "анализ данных",
+            "стиль кода",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Что такое PYTHONPATH?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "В чем разница между pickling и unpickling?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "pickle",
+            "сериализация"
+        ]
+    },
+    {
+        "problem": "Как проверить, что все символы строки являются буквенно-цифровыми?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как генерировать случайные числа?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "генерация кода",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Какие встроенные модули Python наиболее часто используются?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стандартная библиотека",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "В чем разница между пакетом и модулем в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Как получить доступ к данным из CSV файла, размещенного на Google Drive?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как объединить два словаря с суммированием значений для одинаковых ключей?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "словари dict",
+            "Counter"
+        ]
+    },
+    {
+        "problem": "Как преобразовать дату из формата yyyy-mm-dd в dd-mm-yyyy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "форматирование строк",
+            "методы строк"
+        ]
+    },
+    {
+        "problem": "Как найти строку, где за буквой 'a' следует от 4 до 8 букв 'b'?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "регулярные выражения"
+        ]
+    },
+    {
+        "problem": "Как сложить два целых числа >0 без использования оператора сложения?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Как найти пары чисел в массиве, сумма которых равна заданному числу N?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Как подсчитать количество каждого символа в текстовом файле?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "чтение и запись файлов",
+            "Counter"
+        ]
+    },
+    {
+        "problem": "Как проверить, что все числа в последовательности уникальны?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "множества set и frozenset"
+        ]
+    },
+    {
+        "problem": "Как написать функцию, принимающую переменное количество аргументов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "*args и **kwargs",
+            "функции def"
+        ]
+    },
+    {
+        "problem": "Каковы ключевые особенности Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис",
+            "типы данных",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Python - это язык программирования или скриптовый язык?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Каковы преимущества использования Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "синтаксис",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "В чем разница между файлами .py и .pyc?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов",
+            "стандартная библиотека"
+        ]
+    },
+    {
+        "problem": "Что такое срезы в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Что такое ключевые слова в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ключевые слова"
+        ]
+    },
+    {
+        "problem": "Что такое литералы в Python и объясните различные типы литералов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Какие новые функции добавлены в версии Python 3.9.0.0?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "стандартная библиотека"
+        ]
+    },
+    {
+        "problem": "Что такое модули в Python? Назовите некоторые часто используемые встроенные модули.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стандартная библиотека",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Что такое локальные и глобальные переменные в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные",
+            "области видимости"
+        ]
+    },
+    {
+        "problem": "Чувствителен ли Python к регистру?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "строки str",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое преобразование типов в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Как установить Python на Windows и установить переменную пути?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модуль pathlib",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Требуется ли отступ в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "PEP 8",
+            "стиль кода",
+            "синтаксис"
+        ]
+    },
+    {
+        "problem": "Что такое функции в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "функции def",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Что делает [::-1}?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы",
+            "списки list",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как можно рандомизировать элементы списка в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list",
+            "стандартная библиотека"
+        ]
+    },
+    {
+        "problem": "Как писать комментарии в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "комментарии"
+        ]
+    },
+    {
+        "problem": "Как сделать первую букву строки заглавной?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как преобразовать строку в нижний регистр?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str"
+        ]
+    },
+    {
+        "problem": "Как комментировать несколько строк в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "комментарии"
+        ]
+    },
+    {
+        "problem": "Каково назначение операторов 'is', 'not' и 'in'?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Какова цель функций help() и dir() в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Почему при выходе из Python не вся память освобождается?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "оптимизация кода"
+        ]
+    },
+    {
+        "problem": "Что означает *args, **kwargs? И зачем мы это используем?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "*args и **kwargs"
+        ]
+    },
+    {
+        "problem": "Что делает len()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Объясните методы split(), sub(), subn() модуля 're' в Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "регулярные выражения"
+        ]
+    },
+    {
+        "problem": "Что такое отрицательные индексы и зачем они используются?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Что такое пакеты Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов",
+            "pip и пакеты"
+        ]
+    },
+    {
+        "problem": "Какие бывают типы переменных в Python OOP?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Какие преимущества предлагают массивы NumPy по сравнению с (вложенными) списками Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как добавить значения в массив Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как удалить значения из массива Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Есть ли в Python концепции ООП?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Как достигается многопоточность в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "многопоточность"
+        ]
+    },
+    {
+        "problem": "Что такое процесс компиляции и связывания в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "создание пакетов"
+        ]
+    },
+    {
+        "problem": "Что такое библиотеки Python? Назовите несколько из них.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "стандартная библиотека"
+        ]
+    },
+    {
+        "problem": "Что такое изменяемые и неизменяемые типы данных?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "типы данных",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Как используется блок try и except в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "try-except",
+            "обработка исключений",
+            "встроенные исключения"
+        ]
+    },
+    {
+        "problem": "Что такое упорядоченный словарь в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "OrderedDict",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "В чем разница между ключевыми словами 'return' и 'yield'?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ключевые слова"
+        ]
+    },
+    {
+        "problem": "В чем разница между set() и frozenset()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "множества set и frozenset"
+        ]
+    },
+    {
+        "problem": "Какие есть способы поменять местами значения двух элементов?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Как импортировать модули в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "модули и импорт"
+        ]
+    },
+    {
+        "problem": "Объясните наследование в Python на примере.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Как создаются классы в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Что такое monkey patching в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Поддерживает ли Python множественное наследование?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование",
+            "ООП в Python"
+        ]
+    },
+    {
+        "problem": "Что такое полиморфизм в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "полиморфизм"
+        ]
+    },
+    {
+        "problem": "Дайте определение инкапсуляции в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Как выполняется абстракция данных в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "ООП в Python",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Использует ли Python спецификаторы доступа?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "инкапсуляция"
+        ]
+    },
+    {
+        "problem": "Что делает функция object()?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Что вы знаете о Pandas в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Дайте определение DataFrame в Pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как объединить DataFrame в Pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как создать Series из словаря в Pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Как определить и обработать пропущенные значения в DataFrame?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas",
+            "обработка исключений"
+        ]
+    },
+    {
+        "problem": "Что такое переиндексация в Pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как удалить строку или столбец из DataFrame в Pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как добавить новый столбец в DataFrame Pandas?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как получить элементы Series A, которых нет в другом Series B?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Как получить элементы, которые не являются общими для двух заданных Series A и B?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Pandas"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python для выполнения алгоритма сортировки пузырьком.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python для создания звездного треугольника.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Напишите программу для генерации ряда Фибоначчи на Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python для проверки, является ли число простым.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python для проверки, является ли последовательность палиндромом.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите однострочный код, который подсчитывает количество заглавных букв в файле. Ваш код должен работать, даже если файл слишком большой для загрузки в память.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с файлами",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Напишите алгоритм сортировки для числового набора данных в Python.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы",
+            "структуры данных"
+        ]
+    },
+    {
+        "problem": "Каковы окончательные значения A0, A1, ...An в следующем коде?",
+        "code_snippet": "A0 = dict(zip(('a','b','c','d','e'),(1,2,3,4,5)))\nA1 = range(10)\nA2 = sorted([i for i in A1 if i in A0])\nA3 = sorted([A0[s] for s in A0])\nA4 = [i for i in A1 if i in A3]\nA5 = {i:i*i for i in A1}\nA6 = [[i,i*i] for i in A1]\nprint(A0,A1,A2,A3,A4,A5,A6)",
+        "tags": [
+            "Python",
+            "словари dict",
+            "списки list",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python, чтобы определить, является ли заданное число четным или нечетным.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу для проверки, является ли заданное число числом Армстронга.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python для расчета простого процента.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python, чтобы проверить, является ли строка симметричной или палиндромом.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "методы строк",
+            "строки str",
+            "алгоритмы"
+        ]
+    },
+    {
+        "problem": "Напишите программу на Python, чтобы найти даты вчера, сегодня и завтра.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "форматирование строк"
+        ]
+    },
+    {
+        "problem": "Объясните, что такое Flask и его преимущества?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Flask"
+        ]
+    },
+    {
+        "problem": "Назовите различия между Django, Pyramid и Flask.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django",
+            "Flask"
+        ]
+    },
+    {
+        "problem": "Обсудите архитектуру Django.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django",
+            "Django ORM",
+            "Django REST Framework"
+        ]
+    },
+    {
+        "problem": "Объясните, как можно настроить базу данных в Django.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django ORM",
+            "работа с базами данных"
+        ]
+    },
+    {
+        "problem": "Приведите пример, как можно написать VIEW в Django?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django",
+            "Django ORM"
+        ]
+    },
+    {
+        "problem": "Из чего состоят шаблоны Django?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "problem": "Объясните использование сессии в Django framework?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "Django"
+        ]
+    },
+    {
+        "problem": "Перечислите стили наследования в Django.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "наследование",
+            "Django ORM"
+        ]
+    },
+    {
+        "problem": "Что такое NumPy в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy"
+        ]
+    },
+    {
+        "problem": "Как загрузить данные из текстового файла с помощью NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "чтение и запись файлов"
+        ]
+    },
+    {
+        "problem": "Как перевернуть массив NumPy одной строкой кода?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как сохранить изображение локально с помощью Python, если URL-адрес уже известен?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "работа с файлами",
+            "HTTP-запросы"
+        ]
+    },
+    {
+        "problem": "Как получить возраст кэша Google для любого URL или веб-страницы?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "веб-скрейпинг",
+            "кэширование"
+        ]
+    },
+    {
+        "problem": "Требуется собрать данные со страницы IMDb top 250 movies. Должны быть только поля: название фильма, год и рейтинг.",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "веб-скрейпинг",
+            "BeautifulSoup",
+            "парсинг данных"
+        ]
+    },
+    {
+        "problem": "Что такое функция map в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "map, filter, reduce"
+        ]
+    },
+    {
+        "problem": "NumPy лучше, чем списки?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Как получить индексы N максимальных значений в массиве NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "массивы array"
+        ]
+    },
+    {
+        "problem": "Как вычислить процентили с помощью Python/NumPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy"
+        ]
+    },
+    {
+        "problem": "В чем разница между NumPy и SciPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy"
+        ]
+    },
+    {
+        "problem": "Как построить 3D графики/визуализации с помощью NumPy/SciPy?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "NumPy",
+            "Matplotlib"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий Python-код. Каков будет его вывод?",
+        "code_snippet": "gen = (x for x in [0, False, None, 1, 2, 0, 3])\n\nany(gen)\nprint(next(gen), end=\"\")\n\nall(gen)\nprint(next(gen), end=\"\")",
+        "tags": [
+            "Python",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каков будет его вывод?",
+        "code_snippet": "class MyClass:\n    def init(self, x=0):\n        self.x = x\n    \n    def lt(self, other):\n        print(\"a\", end=\"\")\n        return NotImplemented\n    \n    def gt(self, other):\n        print(\"b\", end=\"\")\n        return self.x == other.x\n    \n    def le(self, other):\n        print(\"c\", end=\"\")\n        return NotImplemented\n    \n    def ge(self, other):\n        print(\"d\", end=\"\")\n        return self.x >= other.x\n    \nx = MyClass()\ny = MyClass()\n\nx <= y\nx < y",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "перегрузка операторов"
+        ]
+    },
+    {
+        "problem": "Учитывая следующий код, что будет напечатано?",
+        "code_snippet": "print(f\"{2.5:,.0f}, {3.5:,.0f}, {4.5:,.0f}, {999.5:,.0f}\")",
+        "tags": [
+            "Python",
+            "форматирование строк"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет выведено?",
+        "code_snippet": "x = 1\ny = 1\nprint(x-----y)",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Если имя файла, содержащего код, - myfile.py, каков будет вывод при запуске \"python -OO myfile.py\"?",
+        "code_snippet": "def myFunc():\n    '''doc'''\n    pass\n\nprint(myFunc.doc)\n\nx = 1\ny = 2\nassert(x == y)",
+        "tags": [
+            "Python",
+            "документирование кода"
+        ]
+    },
+    {
+        "problem": "Предполагая версию Python >= 3.8, какие из следующих способов вызова foo являются допустимыми?",
+        "code_snippet": "def foo(a, /, b, *, c):\n    sum_val = a + b + c\n    product_val = a * b * c\n    return product_val // sum_val",
+        "tags": [
+            "Python",
+            "*args и **kwargs",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. В каком порядке будет вывод?",
+        "code_snippet": "def Decorator(func):\n    print(\"C\")\n    def Wrapper(*args, **kwargs):\n        return func(*args, **kwargs)\n    return Wrapper\n\n\n@Decorator\ndef DecoratedMethod():\n    print(\"B\")\n\nprint(\"A\")\n\nif name == \"main\":\n    DecoratedMethod()",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Предполагая версию Python >= 3.5, что будет выведено в результате выполнения следующего кода?",
+        "code_snippet": "def add_ints(a: int, b:int) -> int:\n    return a + b\n\nprint(add_ints(1, 1), end=\",\")\nprint(add_ints((1,), (2, 3)), end=\",\")\nprint(add_ints(\"1\", \"23\"), end=\"\")",
+        "tags": [
+            "Python",
+            "типизация (type hints)"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий Python-скрипт. Каков будет его вывод?",
+        "code_snippet": "l1 = [0, [1, 2, 3], (4, 5, 6)]\nl2 = list(l1)\n\nl1[1].remove(3)\nprint(l1 == l2, end=\",\")\n\nl1[1] += [4, 5, 6]\nprint(l1 == l2, end=\",\")\n\nl2[2] += (7, 8)\nprint(l1 == l2, end=\"\")",
+        "tags": [
+            "Python",
+            "списки list",
+            "кортежи tuple"
+        ]
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "def f():\n    print('f', end='')\n    return 2\ndef g():\n    print('g', end='')\n    return 3\ndef h():\n    print('h', end='')\n    return 2\n\nprint(f()  g()  h(), end='')",
+        "tags": [
+            "Python"
+        ]
+    },
+    {
+        "problem": "Каков результат выполнения данной программы?",
+        "code_snippet": "class Cereal:\n    def init(self, name, rating):\n        self._name = name\n        self._rating = rating\n\n    def repr(self):\n        return f\"Cereal({repr(self._name)}, {repr(self._rating)}/5)\"\n\ncoders_crunch = Cereal(\"Coder's Crunch\", 4.4)\nprint(str(coders_crunch))",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Каков результат выполнения данной программы?",
+        "code_snippet": "print(1 // -2)",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Каким будет значение grid после выполнения этого кода?",
+        "code_snippet": "grid = [[0] * 3] * 3\ngrid[0][0] = 3",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Вы используете CPython 3.13 в дистрибутиве Linux с glibc версии > 2.17, работающем на архитектуре x86_64. Предполагая, что файл wheel существует, какова может быть одна из причин, по которой следующая команда завершается с ошибкой?",
+        "code_snippet": "\npip install pkg-0.0.3-py3-none-linux_universal_x86_64.whl\npip install pkg-0.0.3-py3-none-linux_universal_x86_64.whl",
+        "tags": [
+            "Python",
+            "pip и пакеты"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каков будет его вывод?",
+        "code_snippet": "class A:\n    def init(self, value):\n        self.val = value\n    def hash(self):\n        return hash(self.val)\n\nclass B:\n    def init(self, value):\n        self.val = value\n    def eq(self, other):\n        return isinstance(other, B) and self.val == other.val \n    def hash(self):\n        return hash(self.val)\n\ndict = dict()\n\na = True\nb = 1\ndict[a] = 1\ndict[b] = 2\n\nc = A(3)\nd = A(3)\ndict[c] = 3\ndict[d] = 4\n\ne = B(4)\nf = B(4)\ndict[e] = 5\ndict[f] = 6\n\nprint(sum(dict.values()))",
+        "tags": [
+            "Python",
+            "классы и объекты",
+            "словари dict"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано?",
+        "code_snippet": "class Strange:\n    def init(self, val):\n        self.val = val\n\n    def add(self, other):\n        return self.val * other.val\n\n    def radd(self, other):\n        return self.val + other\n\na = Strange(3)\nb = Strange(2)\n\nprint(a + b)\nprint(10 + a)\nprint(a + 10)",
+        "tags": [
+            "Python",
+            "перегрузка операторов"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано? Если есть ошибка, напишите 'Error' в качестве ответа.",
+        "code_snippet": "class A():\n    num = 5\n\n    def getNum(self):\n        return self.__num\n\na = A()\na.__num = 4\n\nprint(f\"{a.getNum()}{len(a.__dict)}{a.__num}\")",
+        "tags": [
+            "Python",
+            "инкапсуляция",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано? Если есть ошибка, напишите 'Error' в качестве ответа.",
+        "code_snippet": "class A():\n    def magicMethod(self):\n        return 1\n    \nclass B(A):\n    pass\n\nclass C(B):\n    pass\n\nclass D():\n    def magicMethod(self):\n        return 2\n\nclass E(D):\n    pass\n\nclass F():\n    def magicMethod(self):\n        return 3\n\nclass MyClass(C, E, F):\n    pass\n\nmine = MyClass()\nprint(mine.magicMethod())",
+        "tags": [
+            "Python",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано? Если есть ошибка, напишите 'Error' в качестве ответа.",
+        "code_snippet": "class MyClass():\n    def init(self, num):\n        self.mine = num\n    \n    def eq(self, other):\n        if isinstance(other, MyClass):\n            return self.mine - other.mine\n        \nclass YourClass():\n\n    def init(self, num):\n        self.yours = num\n\n    def eq(self, other):\n        if isinstance(other, YourClass):\n            return self.yours + other.yours\n        elif isinstance(other, MyClass):\n            return self.yours * other.mine\n        else:\n            return 3\n\nprint(MyClass(4) == YourClass(2))",
+        "tags": [
+            "Python",
+            "перегрузка операторов",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано? Если есть ошибка, напишите Error в качестве ответа.",
+        "code_snippet": "text = \"Python\"[::-1][::-1]\nprint(text)",
+        "tags": [
+            "Python",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано? Если есть ошибка, напишите Error в качестве ответа.",
+        "code_snippet": "print(0b10 + 0o10 + 0x10)",
+        "tags": [
+            "Python",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано? Если есть ошибка, напишите 'Error' в качестве ответа.",
+        "code_snippet": "from math import fma\n\nprint(int(fma(2, 2, 1_10_0)))",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет выведено?",
+        "code_snippet": "arr1 = [1, 2]\narr2 = [1, 2, 3, 4]\narr3 = list(zip(arr1,arr2))\nprint(len(arr3))",
+        "tags": [
+            "Python",
+            "списки list",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каким будет вывод оператора print?",
+        "code_snippet": "from copy import replace\nfrom collections import namedtuple\n\nMyTuple = namedtuple(\"myTuple\", [\"x\", \"y\"])\n\nt1 = MyTuple(1,2)\nt2 = replace(t1, x = 3)\n\nprint(t1, t2)",
+        "tags": [
+            "Python",
+            "кортежи tuple",
+            "модуль collections"
+        ]
+    },
+    {
+        "problem": "Каков результат выполнения этой программы? Предположим, что вы используете CPython в качестве интерпретатора.",
+        "code_snippet": "a = 1\nb = 1\nif (a is b):\n    print(\"A\")\nelse:\n    print(\"B\")\n\na = 257\nb = 257\nif (a is b):\n    print(\"C\")\nelse:\n    print(\"D\")\n\na = int(\"-6\")\nb = -6\nif (a is b):\n    print(\"E\")\nelse:\n    print(\"F\")",
+        "tags": [
+            "Python",
+            "условия if-elif-else",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Каков результат вычисления следующих двух выражений?",
+        "code_snippet": "t = (1, 2, [30, 40])\nt[2] += [50, 60]",
+        "tags": [
+            "Python",
+            "кортежи tuple",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что он выводит?",
+        "code_snippet": "x = \"Hello my name is Harold\"\n\nprint(f\"abc{x[-6::2]:>10}123\")",
+        "tags": [
+            "Python",
+            "форматирование строк",
+            "индексы и срезы"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код, каков будет вывод?",
+        "code_snippet": "# Assume this file is test.py\n\nfrom test import SomeClass  \n\nclass SomeClass:\n    def method(self):\n        return \"Local\"\n\nobj = SomeClass()\nprint(obj.method())",
+        "tags": [
+            "Python",
+            "классы и объекты"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код, что он выведет?",
+        "code_snippet": "def function(**args):\n    print(type(args))\n    \nfunction(a=1, b=2, c=3)",
+        "tags": [
+            "Python",
+            "аргументы функций",
+            "*args и **kwargs"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет напечатано, если вообще что-то будет напечатано?",
+        "code_snippet": "print(min(-0.0, False, round(7/2) - 4.0, float(\"nan\"), key = lambda x: -x))",
+        "tags": [
+            "Python",
+            "встроенные функции",
+            "lambda-функции"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. В байтах, насколько велик объект x? Предположим, что вы используете 64-битный интерпретатор.",
+        "code_snippet": "x = 5",
+        "tags": [
+            "Python",
+            "типы данных",
+            "байты bytes и bytearray"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код, что он выведет?",
+        "code_snippet": "a = (1)\nprint(type(a))",
+        "tags": [
+            "Python",
+            "типы данных",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код, какой из следующих вариантов является правильным выводом, если вообще какой-либо вывод есть?",
+        "code_snippet": "result = 6 / 2\nprint(type(result))",
+        "tags": [
+            "Python",
+            "типы данных",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код, каков будет вывод кода, если вообще какой-либо вывод есть?",
+        "code_snippet": "def create_functions():\n    functions = []\n    for i in range(3):\n        functions.append(lambda x: x + i)\n    return functions\n\nf1, f2, f3 = create_functions()\nprint(f1(0), f2(0), f3(0), sep='')",
+        "tags": [
+            "Python",
+            "lambda-функции",
+            "генераторы списков"
+        ]
+    },
+    {
+        "problem": "Что из следующего нельзя использовать для создания неглубокой копии списка?",
+        "code_snippet": "[*arr]\ncopy.copy(arr)\n(lambda x: x)(arr)\narr.copy()\nimport copy\n\narr = [1,2,3]\n\narrCopy = ???",
+        "tags": [
+            "Python",
+            "списки list",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что делает dis.dis(myFunction)?",
+        "code_snippet": "import dis\n\ndef myFunction(x):\n    y = x + 1\n    return y * x\n\ndis.dis(myFunction)\n\nprint(myFunction(5))",
+        "tags": [
+            "Python",
+            "встроенные функции"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каков будет вывод оператора print?",
+        "code_snippet": "#1\n\"\"\"2\"\"\"\ndef myFunc():\n    #3\n    \"\"\"4\"\"\"\n    #5\n    \"\"\"6\"\"\"\n    return None\n    \"\"\"7\"\"\"\n    #8\n#9\n\"\"\"10\"\"\"\n\n\nprint(myFunc.__doc__)",
+        "tags": [
+            "Python",
+            "документирование кода"
+        ]
+    },
+    {
+        "problem": "Как называется присваивание нескольких переменных одной последовательности?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "переменные"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. В каком порядке будут выведены числа? Выведите ответ без пробелов / переносов строк.",
+        "code_snippet": "def func1():\n    try:\n        func2()\n    except:\n        print(1)\n    print(2)\n\ndef func2():\n    try:\n        func3()\n    except:\n        print(3)\n    print(4)\n\ndef func3():\n    raise Exception(\"5\")\n    print(6)\n    \nfunc1()",
+        "tags": [
+            "Python",
+            "try-except",
+            "raise исключения"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каким будет вывод операторов print?",
+        "code_snippet": "def myAppend(element, arr = []):\n    arr.append(element)\n    return arr\n\nprint(myAppend(7), end = \" \")\nprint(myAppend(9))",
+        "tags": [
+            "Python",
+            "списки list",
+            "аргументы функций"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каков ответ?",
+        "code_snippet": "from functools import cache, wraps\n\ndef log(func):\n    if getattr(func, \"_log\", False):\n        return func\n    \n    @wraps(func)\n    def wrapper(*args, **kwargs):\n        result = func(*args, **kwargs)\n        print(result, end='')\n        return result\n    \n    wrapper._log = True\n    return wrapper\n\n@log\n@cache\n@log\ndef foo(a):\n    return a\n    \nfoo(1)\nfoo(2)\nfoo(1)",
+        "tags": [
+            "Python",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "В Python есть система управления памятью, ориентированная на минимизацию накладных расходов, возникающих при вызовах malloc или mmap. При каком размере (в байтах) объекта менеджер памяти Python вынужден сделать вызов malloc или mmap (вне pymalloc)?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "байты bytes и bytearray"
+        ]
+    },
+    {
+        "problem": "Рассмотрим следующий код. Каков будет вывод?",
+        "code_snippet": "a = \"Hello\"\nb = \"Hello\"\n\nprint(a is b)",
+        "tags": [
+            "Python",
+            "типы данных",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "Что такое оператор walrus?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "операторы"
+        ]
+    },
+    {
+        "problem": "В следующем коде, где хранятся числа в списке в программе Python?",
+        "code_snippet": "x = [1,2,3]",
+        "tags": [
+            "Python",
+            "списки list"
+        ]
+    },
+    {
+        "problem": "Что означает 'dunder' в Python?",
+        "code_snippet": "",
+        "tags": [
+            "Python",
+            "магические методы"
+        ]
+    }
+]

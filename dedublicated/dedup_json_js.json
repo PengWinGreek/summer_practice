@@ -1,0 +1,4243 @@
+[
+    {
+        "problem": "Какие существуют способы создания объектов в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое цепочка прототипов (prototype chain)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое JSON и его основные операции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод массива slice?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод массива splice?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между slice и splice?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между операторами == и ===?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое лямбда-выражения или стрелочные функции (arrow functions)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое функция первого класса (first class function)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое функция первого порядка (first order function)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое унарная функция (unary function)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое каррирование (currying function)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое чистая функция (pure function)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества у чистых функций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужно ключевое слово let?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между let и var?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему было выбрано ключевое слово let?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как переопределить переменные в блоке switch без ошибки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое временная мертвая зона (Temporal Dead Zone)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое IIFE (Immediately Invoked Function Expression)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как декодировать или закодировать URL в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое поднятие (Hoisting)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое классы в ES6?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое модули?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны модули?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое область видимости (scope) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как манипулировать DOM с помощью service worker?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как повторно использовать информацию между перезапусками service worker?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое IndexedDB?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое веб-хранилище (web storage)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое postMessage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Cookie?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны Cookie?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть опции у Cookie?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как удалить Cookie?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем различия между cookie, localStorage и sessionStorage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем основная разница между localStorage и sessionStorage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить доступ к веб-хранилищу?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы доступны для sessionStorage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужно веб-хранилище?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить поддержку веб-хранилища в браузере?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить поддержку web workers в браузере?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Приведите пример web worker'а?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны промисы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните три состояния промиса",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое callback-функция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужны callback-функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое callback hell?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое server-sent events?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получать уведомления о server-sent events?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить поддержку server-sent events в браузере?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие события доступны для server-sent events?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие основные правила работы с промисами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое цепочка промисов (promise chaining)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод race в промисах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое строгий режим (strict mode) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужен строгий режим?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как объявить строгий режим?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется двойное восклицание (!!)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен оператор delete?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оператор typeof?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое свойство undefined?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое значение null?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое eval?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между window и document?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить доступ к истории в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить, включен ли Caps Lock?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое isNaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между необъявленными и undefined переменными?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое глобальные переменные?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие проблемы с глобальными переменными?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое свойство NaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужна функция isFinite?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое поток событий (event flow)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отправить форму с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между событиями document load и DOMContentLoaded?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между native, host и user objects?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие инструменты используются для отладки JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между атрибутом и свойством?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое политика одинакового источника (same-origin policy)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "JavaScript - это компилируемый или интерпретируемый язык?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли JavaScript регистрозависимым языком?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли связь между Java и JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое события?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Кто создал JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется метод preventDefault?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется метод stopPropagation?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие шаги включает использование return false?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое BOM (Browser Object Model)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется setTimeout?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется setInterval?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему JavaScript считается однопоточным?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое делегирование событий (event delegation)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ECMAScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие правила синтаксиса JSON?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен JSON.stringify?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как разобрать JSON-строку?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужен JSON?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое PWA (Progressive Web Apps)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод clearTimeout?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод clearInterval?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перенаправить на новую страницу в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, содержит ли строка подстроку?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить текущий URL в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие свойства URL есть у объекта location?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить наличие ключа в объекте?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перебрать свойства объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить пустой ли объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект arguments?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать первую букву строки заглавной?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отобразить текущую дату в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, начинается ли строка с другой строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как обрезать строку в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как добавить пару ключ-значение в объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли !-- специальным оператором?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как задать значения по умолчанию для переменных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как объявить многострочные строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое app shell model?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли определять свойства для функций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое полифил (polyfill)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое метки (labels) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие рекомендации по созданию новых объектов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить JSON массивы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как написать функцию для случайных чисел в диапазоне?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое tree shaking?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужно tree shaking?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Рекомендуется ли использовать eval?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое шаблоны регулярных выражений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект RegExp?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как искать строку по шаблону?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод exec?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как изменить стиль HTML элемента?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вернет 1+2+'3'?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое debugger statement?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужны breakpoints при отладке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли использовать зарезервированные слова как идентификаторы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить мобильный браузер?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить ширину и высоту изображения через JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое условный оператор в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли применять цепочки к условному оператору?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между __proto__ и prototype?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое метод freeze?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод freeze?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем использовать метод freeze?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить язык браузера?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить, отключен ли JavaScript на странице?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие операторы поддерживает JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие побитовые операторы есть в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое spread оператор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, заморожен ли объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сравнить два значения через Object?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод Object.is?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как скопировать свойства между объектами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где применяется метод assign?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод seal?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где применяется метод seal?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить перечисляемые пары ключ-значение?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Object.values и Object.entries?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить список ключей объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать объект с прототипом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое WeakSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между WeakSet и Set?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое WeakMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между WeakMap и Map?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужна функция uneval?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как закодировать URL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как декодировать URL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как распечатать содержимое веб-страницы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между uneval и eval?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое анонимная функция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой порядок приоритета у локальных и глобальных переменных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое аксессоры в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между get и defineProperty?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества у геттеров и сеттеров?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли добавить геттеры/сеттеры через defineProperty?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен switch-case?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие соглашения для switch-case?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое примитивные типы данных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект ошибки (Error object)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда возникает SyntaxError?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы ошибок есть у Error объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие операторы обработки ошибок?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие два типа циклов в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Node.js?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект Intl?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как форматировать дату/время для локалей?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое итератор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает синхронная итерация?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое цикл событий (event loop)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое call stack?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое очередь событий (event queue)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое декоратор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие свойства у объекта Intl?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое унарный оператор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отсортировать элементы массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен compareFunction при сортировке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перевернуть массив?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как найти min/max в массиве?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как найти min/max без Math функций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое пустой оператор и зачем он?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить метаданные модуля?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оператор запятая?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества у оператора запятая?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое TypeScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между JavaScript и TypeScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества TypeScript над JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое инициализатор объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое конструктор класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что если объявить конструктор несколько раз?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызвать конструктор родительского класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить прототип объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что если передать строку в getPrototypeOf?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как установить прототип объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, можно ли расширить объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как запретить расширение объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие способы сделать объект нерасширяемым?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить несколько свойств объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое MEAN стек?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое обфускация в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужна обфускация?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое минификация?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества минификации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между обфускацией и шифрованием?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие инструменты для минификации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать валидацию формы на JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать валидацию формы без JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие DOM методы для валидации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие свойства валидации в DOM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие свойства валидности?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Пример использования rangeOverflow?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли enum в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое enum?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить все свойства объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить дескрипторы свойств?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие атрибуты у дескриптора свойств?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как расширять классы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как изменить URL без перезагрузки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить наличие элемента в массиве?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сравнить скалярные массивы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить значение из GET параметров?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как форматировать числа с разделителями?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Java и JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Поддерживает ли JavaScript пространства имен?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как объявить пространство имен?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызвать JS во фрейме из родителя?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить смещение часового пояса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как динамически загрузить CSS/JS файлы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы поиска элементов в DOM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое jQuery?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое движок V8?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему JavaScript называют динамическим языком?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оператор void?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как установить курсор в режим ожидания?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать бесконечный цикл?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему стоит избегать with statement?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий цикл for?",
+        "code_snippet": "for (var i = 0; i < 4; i++) {\n  // global scope\n  setTimeout(() => console.log(i));\n}\n\nfor (let i = 0; i < 4; i++) {\n  // block scope\n  setTimeout(() => console.log(i));\n}"
+    },
+    {
+        "problem": "Какие особенности ES6?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ES6?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли переопределять let/const переменные?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Делает ли const значение неизменяемым?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое параметры по умолчанию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое шаблонные литералы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как писать многострочные строки в шаблонных литералах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое вложенные шаблоны?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое tagged templates?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое сырые строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое деструктуризация?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое значения по умолчанию в деструктуризации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как поменять переменные местами через деструктуризацию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое расширенные литералы объектов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое динамические импорты?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где применяются динамические импорты?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое типизированные массивы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества у загрузчиков модулей?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое collation?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое for...of?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет spread оператор для массива?",
+        "code_snippet": "[...'John Resig'];"
+    },
+    {
+        "problem": "Безопасен ли postMessage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие проблемы с wildcard в postMessage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как избежать postMessage от атакующих?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли полностью избежать postMessage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли postMessage синхронным?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой парадигмы JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между встроенным и внешним JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "JavaScript быстрее серверных скриптов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить состояние чекбокса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется двойной тильд (~~)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как преобразовать символ в ASCII код?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ArrayBuffer?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет строковое выражение?",
+        "code_snippet": "console.log('Welcome to JS world'[0]);"
+    },
+    {
+        "problem": "Для чего нужен объект Error?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен EvalError?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие ошибки при переходе из нестрогого в строгий режим?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Все ли объекты имеют прототипы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между параметром и аргументом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод some для массивов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как объединить массивы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между поверхностным и глубоким копированием?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать несколько копий строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как найти все совпадения с регуляркой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как обрезать строку в начале/конце?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет console.log с унарным оператором?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Использует ли JavaScript миксины?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Пример миксина через композицию объектов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое thunk-функция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое асинхронные thunk'и?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет вызов функции?",
+        "code_snippet": "const circle = {\\n  radius: 20,\\n  diameter() {\\n    return this.radius * 2;\\n  },\\n  perimeter: () => 2 * Math.PI * this.radius,\\n};\\n\\nconsole.log(circle.diameter());\\nconsole.log(circle.perimeter());"
+    },
+    {
+        "problem": "Как удалить все переносы строк?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между reflow и repaint?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет при отрицании массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет при сложении массивов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет префиксный оператор + для falsy значений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать строку из спецсимволов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как удалить falsy значения из массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить уникальные значения массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое псевдонимы в деструктуризации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как преобразовать массив без map?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как очистить массив?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как округлить числа до знаков?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как просто преобразовать массив в объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать массив с данными?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие плейсхолдеры у console?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли добавить CSS к сообщениям console?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен console.dir?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли отлаживать HTML элементы в console?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вывести данные в табличном виде в console?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, что аргумент - число?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать кнопку \"Копировать в буфер\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как быстро получить timestamp?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как \"выпрямить\" многомерный массив?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как просто проверить несколько условий?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перехватить кнопку \"Назад\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отключить правую кнопку мыши?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объекты-обертки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое AJAX?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отменить fetch запрос?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Web Speech API?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое минимальный троттлинг таймаутов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как реализовать нулевой таймаут?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое задачи в event loop?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое микрозадача?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие бывают event loops?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен queueMicrotask?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как использовать JS библиотеки в TypeScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между промисами и observable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое куча (heap)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое таблица событий?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое очередь микрозадач?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между shim и polyfill?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить примитив или объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Babel?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли Node.js полностью однопоточным?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где применяются observable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое RxJS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Function конструктором и объявлением?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое short circuit условие?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как просто изменить размер массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое observable?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между function и class объявлениями?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое async функция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как избежать \"проглатывания\" ошибок в промисах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Deno?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать объект итерируемым?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Proper Tail Call?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, является ли объект промисом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить, вызвана ли функция как конструктор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между arguments и rest параметром?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между spread и rest?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие виды генераторов бывают?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие встроенные итерируемые объекты?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между for...of и for...in?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить свойства экземпляра и класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между isNaN и Number.isNaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызвать IIFE без скобок?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли использовать выражения в case?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проигнорировать ошибки промисов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как стилизовать вывод console с CSS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оператор ?? (nullish coalescing)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как группировать вывод console?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между плотными и разреженными массивами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать разреженный массив?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между setTimeout, setImmediate и process.nextTick?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перевернуть массив без изменений оригинала?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать пользовательский HTML элемент?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое глобальный контекст выполнения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое контекст выполнения функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое debouncing?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое throttling?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое опциональная цепочка (?.)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое environment record?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, что переменная - массив?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое передача по значению и ссылке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между примитивами и объектами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как реализовать bind через call/apply?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между чистыми и нечистыми функциями?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ссылочная прозрачность?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие побочные эффекты бывают в JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое compose и pipe функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое модульный паттерн?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое композиция функций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как использовать await вне async до ES2022?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужно ключевое слово this?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие фазы выполнения контекста?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие причины утечек памяти?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие оптимизации в V8?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Примеры встроенных функций высшего порядка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества у функций высшего порядка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать полифиллы для map, filter, reduce?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между map и forEach?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Примеры автоматической вставки точки с запятой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие фазы событий в браузере?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где применяется Proxy?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое hidden classes?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое inline caching?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие способы выполнения внешних скриптов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое лексическая область видимости?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить темную тему в системе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен requestAnimationFrame?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между substring и substr?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как узнать количество параметров функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое globalThis и зачем он?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие мутирующие методы массивов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое область видимости модуля?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое shadowing и illegal shadowing?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему важно удалять обработчики событий?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "var car = new Vehicle(\"Honda\", \"white\", \"2010\", \"UK\");\nconsole.log(car);\n\nfunction Vehicle(model, color, year, country) {\n  this.model = model;\n  this.color = color;\n  this.year = year;\n  this.country = country;\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function foo() {\n  let x = (y = 0);\n  x++;\n  y++;\n  return x;\n}\n\nconsole.log(foo(), typeof x, typeof y);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function main() {\n  console.log(\"A\");\n  setTimeout(function print() {\n    console.log(\"B\");\n  }, 0);\n  console.log(\"C\");\n}\nmain();"
+    },
+    {
+        "problem": "Что выведет проверка равенства ниже?",
+        "code_snippet": "console.log(0.1 + 0.2 === 0.3);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "var y = 1;\nif (function f() {}) {\n  y += typeof f;\n}\nconsole.log(y);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function foo() {\n  return;\n  {\n    message: \"Hello World\";\n  }\n}\nconsole.log(foo());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "var myChars = [\"a\", \"b\", \"c\", \"d\"];\ndelete myChars[0];\nconsole.log(myChars);\nconsole.log(myChars[0]);\nconsole.log(myChars.length);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код в последней версии Chrome?",
+        "code_snippet": "var array1 = new Array(3);\nconsole.log(array1);\n\nvar array2 = [];\narray2[2] = 100;\nconsole.log(array2);\n\nvar array3 = [, , ,];\nconsole.log(array3);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const obj = {\n  prop1: function () {\n    return 0;\n  },\n  prop2() {\n    return 1;\n  },\n  [\"prop\" + 3]() {\n    return 2;\n  },\n};\n\nconsole.log(obj.prop1());\nconsole.log(obj.prop2());\nconsole.log(obj.prop3());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(1 < 2 < 3);\nconsole.log(3 > 2 > 1);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код в нестрогом режиме?",
+        "code_snippet": "function printNumbers(first, second, first) {\n  console.log(first, second, first);\n}\nprintNumbers(1, 2, 3);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const printNumbersArrow = (first, second, first) => {\n  console.log(first, second, first);\n};\nprintNumbersArrow(1, 2, 3);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const arrowFunc = () => arguments.length;\nconsole.log(arrowFunc(1, 2, 3));"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(String.prototype.trimLeft.name === \"trimLeft\");\nconsole.log(String.prototype.trimLeft.name === \"trimStart\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(Math.max());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(10 == [10]);\nconsole.log(10 == [[[[[[[10]]]]]]);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(10 + \"10\");\nconsole.log(10 - \"10\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log([0] == false);\nif ([0]) {\n  console.log(\"I'm True\");\n} else {\n  console.log(\"I'm False\");\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log([1, 2] + [3, 4]);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const numbers = new Set([1, 1, 2, 3, 4]);\nconsole.log(numbers);\n\nconst browser = new Set(\"Firefox\");\nconsole.log(browser);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(NaN === NaN);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let numbers = [1, 2, 3, 4, NaN];\nconsole.log(numbers.indexOf(NaN));"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let [a, ...b] = [1, 2, 3, 4, 5];\nconsole.log(a, b);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "async function func() {\n  return 10;\n}\nconsole.log(func());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "async function func() {\n  await 10;\n}\nconsole.log(func());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function delay() {\n  return new Promise(resolve => setTimeout(resolve, 2000));\n}\n\nasync function delayedLog(item) {\n  await delay();\n  console.log(item);\n}\n\nasync function processArray(array) {\n  array.forEach(item => {\n    await delayedLog(item);\n  })\n}\n\nprocessArray([1, 2, 3, 4]);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function delay() {\n  return new Promise((resolve) => setTimeout(resolve, 2000));\n}\n\nasync function delayedLog(item) {\n  await delay();\n  console.log(item);\n}\n\nasync function process(array) {\n  array.forEach(async (item) => {\n    await delayedLog(item);\n  });\n  console.log(\"Process completed!\");\n}\nprocess([1, 2, 3, 5]);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "var set = new Set();\nset.add(\"+0\").add(\"-0\").add(NaN).add(undefined).add(NaN);\nconsole.log(set);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const sym1 = Symbol(\"one\");\nconst sym2 = Symbol(\"one\");\n\nconst sym3 = Symbol.for(\"two\");\nconst sym4 = Symbol.for(\"two\");\n\nconsole.log(sym1 === sym2, sym3 === sym4);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const sym1 = new Symbol(\"one\");\nconsole.log(sym1);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let myNumber = 100;\nlet myString = \"100\";\n\nif (!typeof myNumber === \"string\") {\n  console.log(\"It is not a string!\");\n} else {\n  console.log(\"It is a string!\");\n}\n\nif (!typeof myString === \"number\") {\n  console.log(\"It is not a number!\");\n} else {\n  console.log(\"It is a number!\");\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(\n  JSON.stringify({ myArray: [\"one\", undefined, function () {}, Symbol(\"\")] })\n);\nconsole.log(\n  JSON.stringify({ [Symbol.for(\"one\")]: \"one\" }, [Symbol.for(\"one\")])\n);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "class A {\n  constructor() {\n    console.log(new.target.name);\n  }\n}\n\nclass B extends A {\n  constructor() {\n    super();\n  }\n}\n\nnew A();\nnew B();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const [x, ...y, z] = [1, 2, 3, 4];\nconsole.log(x, y, z);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const { a: x = 10, b: y = 20 } = { a: 30 };\n\nconsole.log(x);\nconsole.log(y);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function area({ length = 10, width = 20 }) {\n  console.log(length * width);\n}\n\narea();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const props = [\n  { id: 1, name: \"John\" },\n  { id: 2, name: \"Jack\" },\n  { id: 3, name: \"Tom\" },\n];\n\nconst [, , { name }] = props;\nconsole.log(name);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function checkType(num = 1) {\n  console.log(typeof num);\n}\n\ncheckType();\ncheckType(undefined);\ncheckType(\"\");\ncheckType(null);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function add(item, items = []) {\n  items.push(item);\n  return items;\n}\n\nconsole.log(add(\"Orange\"));\nconsole.log(add(\"Apple\"));"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function greet(greeting, name, message = greeting + \" \" + name) {\n  console.log([greeting, name, message]);\n}\n\ngreet(\"Hello\", \"John\");\ngreet(\"Hello\", \"John\", \"Good morning!\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function outer(f = inner()) {\n  function inner() {\n    return \"Inner\";\n  }\n}\nouter();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function myFun(x, y, ...manyMoreArgs) {\n  console.log(manyMoreArgs);\n}\n\nmyFun(1, 2, 3, 4, 5);\nmyFun(1, 2);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const obj = { key: \"value\" };\nconst array = [...obj];\nconsole.log(array);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function* myGenFunc() {\n  yield 1;\n  yield 2;\n  yield 3;\n}\nvar myGenObj = new myGenFunc();\nconsole.log(myGenObj.next().value);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function* yieldAndReturn() {\n  yield 1;\n  return 2;\n  yield 3;\n}\n\nvar myGenObj = yieldAndReturn();\nconsole.log(myGenObj.next());\nconsole.log(myGenObj.next());\nconsole.log(myGenObj.next());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const myGenerator = (function* () {\n  yield 1;\n  yield 2;\n  yield 3;\n})();\nfor (const value of myGenerator) {\n  console.log(value);\n  break;\n}\n\nfor (const value of myGenerator) {\n  console.log(value);\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const num = 0o38;\nconsole.log(num);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const squareObj = new Square(10);\nconsole.log(squareObj.area);\n\nclass Square {\n  constructor(length) {\n    this.length = length;\n  }\n\n  get area() {\n    return this.length * this.length;\n  }\n\n  set area(value) {\n    this.area = value;\n  }\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function Person() {}\n\nPerson.prototype.walk = function () {\n  return this;\n};\n\nPerson.run = function () {\n  return this;\n};\n\nlet user = new Person();\nlet walk = user.walk;\nconsole.log(walk());\n\nlet run = Person.run;\nconsole.log(run());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "class Vehicle {\n  constructor(name) {\n    this.name = name;\n  }\n\n  start() {\n    console.log(`${this.name} vehicle started`);\n  }\n}\n\nclass Car extends Vehicle {\n  start() {\n    console.log(`${this.name} car started`);\n    super.start();\n  }\n}\n\nconst car = new Car(\"BMW\");\nconsole.log(car.start());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const USER = { age: 30 };\nUSER.age = 25;\nconsole.log(USER.age);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(\"🙂\" === \"🙂\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(typeof typeof typeof true);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let zero = new Number(0);\n\nif (zero) {\n  console.log(\"If\");\n} else {\n  console.log(\"Else\");\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код в нестрогом режиме?",
+        "code_snippet": "let msg = \"Good morning!!\";\n\nmsg.name = \"John\";\n\nconsole.log(msg.name);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let count = 10;\n\n(function innerFunc() {\n  if (count === 10) {\n    let count = 11;\n    console.log(count);\n  }\n  console.log(count);\n})();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(true && 'hi');\nconsole.log(true && 'hi' && 1);\nconsole.log(true && '' && 0);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let arr = [1, 2, 3];\nlet str = \"1,2,3\";\n\nconsole.log(arr == str);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "getMessage();\n\nvar getMessage = () => {\n  console.log(\"Good morning\");\n};"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let quickPromise = Promise.resolve();\n\nquickPromise.then(() => console.log(\"promise finished\"));\n\nconsole.log(\"program finished\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console\n  .log(\"First line\")\n  [(\"a\", \"b\", \"c\")].forEach((element) => console.log(element));\nconsole.log(\"Third line\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "var of = [\"of\"];\nfor (var of of of) {\n  console.log(of);\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const numbers = [11, 25, 31, 23, 33, 18, 200];\nnumbers.sort();\nconsole.log(numbers);"
+    },
+    {
+        "problem": "В каком порядке выведется код ниже?",
+        "code_snippet": "setTimeout(() => {\n  console.log(\"1\");\n}, 0);\nPromise.resolve(\"hello\").then(() => console.log(\"2\"));\nconsole.log(\"3\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "console.log(name);\nconsole.log(message());\nvar name = \"John\";\n(function message() {\n  console.log(\"Hello John: Welcome\");\n});"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "message();\n\nfunction message() {\n  console.log(\"Hello\");\n}\nfunction message() {\n  console.log(\"Bye\");\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "var currentCity = \"NewYork\";\n\nvar changeCurrentCity = function () {\n  console.log(\"Current City:\", currentCity);\n  var currentCity = \"Singapore\";\n  console.log(\"Current City:\", currentCity);\n};\n\nchangeCurrentCity();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function second() {\n  var message;\n  console.log(message);\n}\n\nfunction first() {\n  var message = \"first\";\n  second();\n  console.log(message);\n}\n\nvar message = \"default\";\nfirst();\nconsole.log(message);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function expressionOne() {\n  console.log(\"functionOne\");\n};\nexpressionOne();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const user = {\n  name: \"John\",\n  eat() {\n    console.log(this);\n    var eatFruit = function () {\n      console.log(this);\n    };\n    eatFruit();\n  },\n};\nuser.eat();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let message = \"Hello World!\";\nmessage[0] = \"J\";\nconsole.log(message);\n\nlet name = \"John\";\nname = name + \" Smith\";\nconsole.log(name);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let user1 = {\n  name: \"Jacob\",\n  age: 28,\n};\n\nlet user2 = {\n  name: \"Jacob\",\n  age: 28,\n};\n\nconsole.log(user1 === user2);"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function greeting() {\n  setTimeout(function () {\n    console.log(message);\n  }, 5000);\n  const message = \"Hello, Good morning\";\n}\ngreeting();"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const a = new Number(10);\nconst b = 10;\nconsole.log(a === b);"
+    },
+    {
+        "problem": "Какой тип у представленной ниже функции?",
+        "code_snippet": "function add(a, b) {\n  console.log(\"The input arguments are: \", a, b);\n  return a + b;\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "const promiseOne = new Promise((resolve, reject) => setTimeout(resolve, 4000));\nconst promiseTwo = new Promise((resolve, reject) => setTimeout(reject, 4000));\n\nPromise.all([promiseOne, promiseTwo]).then((data) => console.log(data));"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "try {\n  setTimeout(() => {\n    console.log(\"try block\");\n    throw new Error(`An exception is thrown`);\n  }, 1000);\n} catch (err) {\n  console.log(\"Error: \", err);\n}"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let a = 10;\nif (true) {\n  let a = 20;\n  console.log(a, \"inside\");\n}\nconsole.log(a, \"outside\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let arr = [1, 2, 3, 4, 5, -6, 7];\narr.length = 0;\nconsole.log(arr);"
+    },
+    {
+        "problem": "Как проверить являются ли две строки анаграммами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "printHello();\n\nprintMessage();\n\nfunction printHello() {\n  console.log(\"Hello\");\n\n  function printMessage() {\n    console.log(\"Good day\");\n  }\n}"
+    },
+    {
+        "problem": "Какое время выполнения у callback в setTimeout?",
+        "code_snippet": "console.log(\"Start code\");\n\nsetTimeout(function () {\n  console.log(\"Callback code\");\n}, 5000);\n\nconsole.log(\"After callback\");\n\nlet startTime = new Date().getTime();\nlet endTime = startTime;\n\nwhile (endTime <= startTime + 10000) {\n  endTime = new Date().getTime();\n}\n\nconsole.log(\"End code\");"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "let arr = [\"wöchentlich\", \"Woche\", \"wäre\", \"Wann\"];\nconsole.log(arr.sort());"
+    },
+    {
+        "problem": "Что выведет представленный ниже код?",
+        "code_snippet": "function func(a, b = 2) {\n  console.log(arguments.length);\n}\n\nfunc(undefined);\nfunc();"
+    },
+    {
+        "problem": "В чем разница между document.getElementById() и document.querySelector()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда использовать reduce(), map(), foreach() и filter() в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое поднятие (Hoisting) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как клонировать объект в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы данных существуют в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое затенение переменных (variable shadowing) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Call, Apply и Bind?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое каррирование функции (currying function)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое событие web-storage и его обработчик?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как использовать Web Workers в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие ограничения накладываются на Web Workers при работе с DOM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает Promise.all()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как узнать информацию об операционной системе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется void(0)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить email на валидность в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить значения query string в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие плюсы и минусы у цикла for?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сравнить два объекта Date?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как обрезать пробелы в строке в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делают операторы break и continue?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие преимущества дает инициализация переменных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие строковые методы доступны в регулярных выражениях?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое модификаторы в регулярных выражениях?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оператор debugger?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить мобильный браузер без регулярных выражений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать синхронный HTTP-запрос?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сделать асинхронный HTTP-запрос?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как конвертировать дату в другой часовой пояс в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие свойства используются для получения размера окна?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть способы выполнения JavaScript после загрузки страницы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Приведите пример, где действительно нужна точка с запятой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как преобразовать строку в title case в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое параметр rest?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что произойдет, если не использовать rest параметр последним?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как скопировать свойства из одного объекта в другой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое прокси-объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между методами freeze и seal?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить, запечатан ли объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Перечислите методы, доступные для WeakSet?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Перечислите методы, доступные для WeakMap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков порядок приоритета между локальными и глобальными переменными?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить свойство в конструкторе Object?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли добавить геттеры и сеттеры с помощью defineProperty?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие соглашения следует соблюдать при использовании switch-case?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть способы доступа к свойствам объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие правила для параметров функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда возникает синтаксическая ошибка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие имена ошибок есть у объекта Error?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие операторы используются для обработки ошибок?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие два типа циклов есть в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как форматировать дату и время с учетом языка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие свойства есть у объекта Intl?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужна функция compareFunction при сортировке массивов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как найти минимальное и максимальное значение в массиве?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните делегирование событий?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните, как работает прототипное наследование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Пример прототипного наследования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы думаете о AMD vs CommonJS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему это не работает как IIFE: function foo(){ }();? Что нужно изменить?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между null, undefined и необъявленной переменной? Как их проверить?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем главное отличие между .forEach и .map()? Когда что использовать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков типичный случай использования анонимных функций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вы организуете код? (паттерн модуля, классическое наследование?)",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между: function Person(){}, var person = Person(), и var person = new Person()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между .call и .apply?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните Function.prototype.bind?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда использовать document.write()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между feature detection, feature inference и UA string?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните Ajax подробно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните, как работает JSONP (и почему это не совсем Ajax)",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему расширение встроенных объектов JavaScript - плохая идея?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между == и ===?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните политику одинакового источника в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему тернарный оператор называется \"тернарным\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое \"use strict\";? Какие плюсы и минусы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему лучше не трогать глобальную область видимости?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем использовать событие load? Есть ли альтернативы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков ваш опыт с Promise и их полифилами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие плюсы и минусы у Promise по сравнению с колбэками?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие плюсы/минусы у языков, компилируемых в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие инструменты и методы вы используете для отладки JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие конструкции языка вы используете для перебора свойств объекта и элементов массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните разницу между изменяемыми и неизменяемыми объектами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой пример неизменяемого объекта в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как достичь неизменяемости в своем коде?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните разницу между синхронными и асинхронными функциями?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между function foo() {} и var foo = function() {}?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между let, var и const?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можете привести пример каррированной функции и ее преимущества?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как делиться кодом между файлами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем создавать статические члены класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между undefined и not defined в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "При каком значении x результаты этих выражений будут разными?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем недостаток объявления методов прямо в объектах JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как очистить массив в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, является ли объект массивом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое undefined x 1 в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между этими способами объявления функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В каком случае объявление функции не поднимается?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вычислить длину ассоциативного массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между вызовами Function, Method и Constructor в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Service Workers и когда их использовать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между методом и функцией в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое IIFE и как это может быть полезно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите шаблон Singleton в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализация шаблона Singleton?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию deepClone для глубокого копирования объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Лучший способ проверить undefined свойство объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию Clone для поверхностного копирования объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое промисы и чем они полезны?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить существование ключа в объекте JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое NaN, зачем он нужен и когда может сломать страницу?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, есть ли значение переменной в массиве?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Лучший способ определить ссылочные типы в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает метод Object.create?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как использовать функции-конструкторы для наследования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как предотвратить изменение объекта в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию log с префиксом для console.log?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию для тестирования строки как литерала и объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типичный случай использования анонимной функции в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как установить значение параметра по умолчанию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите код для слияния двух объектов динамически?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое неперечисляемое свойство и как его создать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое привязка функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните, как работает this в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните прототипное наследование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Использовали ли вы шаблонизацию в JavaScript? Какие библиотеки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен метод splice для массивов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создавать и вызывать события в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между window.frames, window.parent и window.top?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между var x = 1 и x = 1 в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ассоциативный массив? Как его использовать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между приватными, публичными и статическими переменными? Как это реализовать в JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как добавлять и удалять свойства объекта во время выполнения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как расширять встроенные объекты?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему расширение массивов - плохая идея?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между обнаружением браузера и обнаружением возможностей?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Graceful Degradation и Progressive Enhancement?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему оператор \"this\" в JavaScript непоследователен?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой фреймворк для unit-тестов вы используете и почему?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Object.freeze() и const?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое генераторы в JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Опишите паттерн Revealing Module в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сравните Async-Await и Generators для достижения одинаковой функциональности?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните функции escape() и unescape()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы понимаете под объектами Screen?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как удалить дубликаты из массива в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните NEGATIVE_INFINITY в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы понимаете под ViewState и SessionState?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните var self = this в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между append() и appendChild()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между массивом[] и объектом()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между async и defer в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между async и await в AJAX?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое заголовки запроса в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое рендеринг в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы ошибок бывают в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает метод unshift() в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между HTMLCollection и NodeList?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между firstChild и firstElementChild?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите две функции для динамического создания HTML элемента?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое функция обратного вызова в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое поверхностное и глубокое копирование в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между stopPropagation, stopImmediatePropagation и preventDefault?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните методы массивов: join(), pop(), push(), shift(), unshift(), concat(), map(), filter(), reduce(), reduceRight(), every(), some(), indexOf(), lastIndexOf(), find(), findIndex(), includes()",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда использовать объявления функций и функциональные выражения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как избежать ада колбэков в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему eval() считается злом и опасным?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между шифрованием и хешированием?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Proxy и Reflect в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли в JavaScript перечисления (enums)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как изменить URL без перезагрузки страницы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое троттлинг и дебаунсинг в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как валидировать JSON объект в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить полную загрузку страницы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните возможности консоли браузера?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между console.log() и console.dir()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как скопировать текст в буфер обмена?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы утечек памяти бывают в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как случайные замыкания могут вызывать утечки памяти в IE?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как конвертировать десятичное число в двоичное в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличаются setTimeout() и setInterval()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите две важные парадигмы программирования для разработчиков JavaScript-приложений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое функциональное программирование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между классическим наследованием и прототипным наследованием?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каковы плюсы и минусы функционального программирования по сравнению с объектно-ориентированным программированием?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда классическое наследование является подходящим выбором?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда прототипное наследование является подходящим выбором?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что означает «предпочитать композицию объектов классическому наследованию»?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое двусторонняя привязка данных и однонаправленный поток данных, и чем они отличаются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каковы плюсы и минусы монолитной архитектуры по сравнению с микросервисной архитектурой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое асинхронное программирование и почему оно важно в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков будет вывод следующего кода?",
+        "code_snippet": "var trees = [\"pine\",\"apple\",\"oak\",\"maple\",\"cherry\"];\ndelete trees[3];\nconsole.log(trees.length);"
+    },
+    {
+        "problem": "Что делает функция isNaN()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков результат выражения \"10\"+20+30 в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличается Array() от [] при создании массива в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между объявлением функции в двух форматах ниже?",
+        "code_snippet": "var foo = function() {\n/* Some code */\n};\nfunction bar() {\n/* Some code */\n};"
+    },
+    {
+        "problem": "Как вызывать методы другого класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое свойство prototype в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем использовать 'use strict' в начале JavaScript-файла?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое самовызывающаяся анонимная функция в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "var a = [1, 2, 3];\na[10] = 99;\nconsole.log(a[6]);"
+    },
+    {
+        "problem": "Каков будет вывод следующего кода?",
+        "code_snippet": "var Employee = {\ncompany: 'Acme'\n}\nvar employee1 = Object.create(Employee);\ndelete employee1.company\nconsole.log(employee1.company);"
+    },
+    {
+        "problem": "Каков будет вывод следующего кода?",
+        "code_snippet": "var z = 1, y = z = typeof y;\nconsole.log(y);"
+    },
+    {
+        "problem": "Рассмотрим две функции ниже. Будут ли они возвращать одно и то же?",
+        "code_snippet": "function foo1()\n{\nreturn {\nbar: \"hello\"\n};\n}\nfunction foo2()\n{\nreturn\n{\nbar: \"hello\"\n};\n}"
+    },
+    {
+        "problem": "Какая потенциальная проблема при использовании typeof bar === \"object\" для проверки, является ли bar объектом? Как избежать этой проблемы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий код в консоль и почему?",
+        "code_snippet": "(function(){\n  var a = b = 3;\n})();\n\nconsole.log(\"a defined? \" + (typeof a !== 'undefined'));\nconsole.log(\"b defined? \" + (typeof b !== 'undefined'));"
+    },
+    {
+        "problem": "Что выведет следующий код в консоль и почему?",
+        "code_snippet": "var myObject = {\n    foo: \"bar\",\n    func: function() {\n        var self = this;\n        console.log(\"outer func:  this.foo = \" + this.foo);\n        console.log(\"outer func:  self.foo = \" + self.foo);\n        (function() {\n            console.log(\"inner func:  this.foo = \" + this.foo);\n            console.log(\"inner func:  self.foo = \" + self.foo);\n        }());\n    }\n};\nmyObject.func();"
+    },
+    {
+        "problem": "В чем значимость и причина оборачивания всего содержимого JavaScript-файла в функциональный блок?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какое значение и преимущества имеет включение 'use strict' в начале JavaScript-файла?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий код? Объясните ответ.",
+        "code_snippet": "console.log(0.1 + 0.2);\nconsole.log(0.1 + 0.2 == 0.3);"
+    },
+    {
+        "problem": "В каком порядке числа 1-4 будут выведены в консоль при выполнении кода ниже? Почему?",
+        "code_snippet": "(function() {\n    console.log(1); \n    setTimeout(function(){console.log(2)}, 1000); \n    setTimeout(function(){console.log(3)}, 0); \n    console.log(4);\n})();"
+    },
+    {
+        "problem": "Напишите простую функцию (менее 160 символов), которая возвращает boolean, указывающий является ли строка палиндромом.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите метод sum, который будет работать правильно при вызове любым из способов ниже.",
+        "code_snippet": "console.log(sum(2,3));   // Выведет 5\nconsole.log(sum(2)(3));  // Выведет 5"
+    },
+    {
+        "problem": "Рассмотрим следующий фрагмент кода:",
+        "code_snippet": "(a) Что будет выведено в консоль при клике на \"Button 4\" и почему?\n(b) Предложите одну или несколько альтернативных реализаций, которые будут работать как ожидается.\nfor (var i = 0; i < 5; i++) {\n  var btn = document.createElement('button');\n  btn.appendChild(document.createTextNode('Button ' + i));\n  btn.addEventListener('click', function(){ console.log(i); });\n  document.body.appendChild(btn);\n}"
+    },
+    {
+        "problem": "Предположим, d - \"пустой\" объект в области видимости. Что делает следующий код?",
+        "code_snippet": "var d = {};\n[ 'zebra', 'horse' ].forEach(function(k) {\n d[k] = undefined;\n});"
+    },
+    {
+        "problem": "Что выведет следующий код в консоль и почему?",
+        "code_snippet": "var arr1 = \"john\".split('');\nvar arr2 = arr1.reverse();\nvar arr3 = \"jones\".split('');\narr2.push(arr3);\nconsole.log(\"array 1: length=\" + arr1.length + \" last=\" + arr1.slice(-1));\nconsole.log(\"array 2: length=\" + arr2.length + \" last=\" + arr2.slice(-1));"
+    },
+    {
+        "problem": "Что выведет следующий код в консоль и почему?",
+        "code_snippet": "console.log(1 +  \"2\" + \"2\");\nconsole.log(1 +  +\"2\" + \"2\");\nconsole.log(1 +  -\"1\" + \"2\");\nconsole.log(+\"1\" +  \"1\" + \"2\");\nconsole.log( \"A\" - \"B\" + \"2\");\nconsole.log( \"A\" - \"B\" + 2);"
+    },
+    {
+        "problem": "Следующий рекурсивный код вызовет переполнение стека, если массив list слишком большой. Как это исправить, сохранив рекурсивный подход?",
+        "code_snippet": "var list = readHugeList();\n\nvar nextListItem = function() {\n    var item = list.pop();\n\n    if (item) {\n        // обработка элемента списка...\n        nextListItem();\n    }\n};"
+    },
+    {
+        "problem": "Что такое \"замыкание\" (closure) в JavaScript? Приведите пример.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведут следующие строки кода в консоль? Объясните ответ.",
+        "code_snippet": "console.log(\"0 || 1 = \"+(0 || 1));\nconsole.log(\"1 || 2 = \"+(1 || 2));\nconsole.log(\"0 && 1 = \"+(0 && 1));\nconsole.log(\"1 && 2 = \"+(1 && 2));"
+    },
+    {
+        "problem": "Что будет выведено при выполнении следующего кода? Объясните.",
+        "code_snippet": "console.log(false == '0')\nconsole.log(false === '0')"
+    },
+    {
+        "problem": "Что выведет следующий код? Объясните ответ.",
+        "code_snippet": "var a={},\n    b={key:'b'},\n    c={key:'c'};\n\na[b]=123;\na[c]=456;\n\nconsole.log(a[b]);"
+    },
+    {
+        "problem": "Что выведет следующий код в консоль:",
+        "code_snippet": "console.log((function f(n){return ((n > 1) ? n * f(n-1) : n)})(10));\nОбъясните ответ."
+    },
+    {
+        "problem": "Рассмотрим фрагмент кода ниже. Что будет выведено в консоль и почему?",
+        "code_snippet": "(function(x) {\n    return (function(y) {\n        console.log(x);\n    })(2)\n})(1);"
+    },
+    {
+        "problem": "Что выведет следующий код в консоль и почему:",
+        "code_snippet": "var hero = {\n    _name: 'John Doe',\n    getSecretIdentity: function (){\n        return this._name;\n    }\n};\n\nvar stoleSecretIdentity = hero.getSecretIdentity;\n\nconsole.log(stoleSecretIdentity());\nconsole.log(hero.getSecretIdentity());\nВ чем проблема этого кода и как ее исправить?"
+    },
+    {
+        "problem": "Создайте функцию, которая, получая DOM-элемент на странице, посещает сам элемент и всех его потомков (не только непосредственных детей). Для каждого посещенного элемента функция должна передавать этот элемент в предоставленную callback-функцию.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проверка знаний this в JavaScript: Что выведет следующий код?",
+        "code_snippet": "var length = 10;\nfunction fn() {\n console.log(this.length);\n}\n\nvar obj = {\n  length: 5,\n  method: function(fn) {\n    fn();\n    arguments[0]();\n  }\n};\n\nobj.method(fn, 1);"
+    },
+    {
+        "problem": "Рассмотрим следующий код. Что будет выведено и почему?",
+        "code_snippet": "(function () {\n    try {\n        throw new Error();\n    } catch (x) {\n        var x = 1, y = 2;\n        console.log(x);\n    }\n    console.log(x);\n    console.log(y);\n})();"
+    },
+    {
+        "problem": "Каков будет вывод этого кода?",
+        "code_snippet": "var x = 21;\nvar girl = function () {\n    console.log(x);\n    var x = 20;\n};\ngirl ();"
+    },
+    {
+        "problem": "Что выведет этот код?",
+        "code_snippet": "for (let i = 0; i < 5; i++) {\n  setTimeout(function() { console.log(i); }, i * 1000 );\n}"
+    },
+    {
+        "problem": "Что выведут следующие строки и почему?",
+        "code_snippet": "console.log(1 < 2 < 3);\nconsole.log(3 > 2 > 1);"
+    },
+    {
+        "problem": "Как добавить элемент в начало массива? Как добавить элемент в конец массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Представьте, что у вас есть такой код:",
+        "code_snippet": "a) Это приведет к ошибке?\nb) Что выведет этот код?\nvar a = [1, 2, 3];\na[10] = 99;\nconsole.log(a[6]);"
+    },
+    {
+        "problem": "Каково значение выражения typeof undefined == typeof NULL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вернет следующий код?",
+        "code_snippet": "console.log(typeof typeof 1);"
+    },
+    {
+        "problem": "Каков будет вывод следующего кода:",
+        "code_snippet": "for (var i = 0; i < 5; i++) {\n setTimeout(function() { console.log(i); }, i * 1000 );\n}\n"
+    },
+    {
+        "problem": "Что такое NaN? Какой у него тип? Как надежно проверить, равно ли значение NaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий код и почему?",
+        "code_snippet": "var b = 1;\nfunction outer(){\n    var b = 2\n    function inner(){\n        b++;\n        var b = 3;\n        console.log(b)\n    }\n    inner();\n}\nouter();"
+    },
+    {
+        "problem": "Обсудите возможные способы написания функции isInteger(x), которая определяет, является ли x целым числом.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как клонировать объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет выведено в консоль при клике на первую и четвертую кнопку в списке? Почему?",
+        "code_snippet": "var nodes = document.getElementsByTagName('button');\n\nfor (var i = 0; i < nodes.length; i++) {\n   nodes[i].addEventListener('click', function() {\n      console.log('You clicked element #' + i);\n   });\n}"
+    },
+    {
+        "problem": "Исправьте проблему из предыдущего вопроса так, чтобы обработчик выводил 0 для первой кнопки, 1 для второй и т.д.",
+        "code_snippet": "var nodes = document.getElementsByTagName('button');\n\nfor (var i = 0; i < nodes.length; i++) {\n   nodes[i].addEventListener('click', function() {\n      console.log('You clicked element #' + i);\n   });\n}"
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "console.log(typeof null);\nconsole.log(typeof {});\nconsole.log(typeof []);\nconsole.log(typeof undefined);"
+    },
+    {
+        "problem": "Каков результат выполнения следующего кода? Объясните ваш ответ.",
+        "code_snippet": "function printing() {\n   console.log(1);\n   setTimeout(function() { console.log(2); }, 1000);\n   setTimeout(function() { console.log(3); }, 0);\n   console.log(4);\n}\nprinting();"
+    },
+    {
+        "problem": "Напишите функцию isPrime(), которая возвращает true, если число простое, и false в противном случае.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет выведено в консоль?",
+        "code_snippet": "(function() {\n   var a = b = 5;\n})();\nconsole.log(b);"
+    },
+    {
+        "problem": "Определите метод repeatify для объекта String, который принимает целое число и возвращает строку, повторенную указанное количество раз.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков результат выполнения этого кода и почему?",
+        "code_snippet": "function test() {\n   console.log(a);\n   console.log(foo());\n   var a = 1;\n   function foo() {\n      return 2;\n   }\n}\ntest();"
+    },
+    {
+        "problem": "Как работает this в JavaScript? Что выведет следующий код?",
+        "code_snippet": "var fullname = 'John Doe';\nvar obj = {\n   fullname: 'Colin Ihrig',\n   prop: {\n      fullname: 'Aurelio De Rosa',\n      getFullname: function() {\n         return this.fullname;\n      }\n   }\n};\nconsole.log(obj.prop.getFullname());\nvar test = obj.prop.getFullname;\nconsole.log(test());"
+    },
+    {
+        "problem": "Исправьте проблему из предыдущего вопроса, чтобы последний console.log() выводил 'Aurelio De Rosa'.",
+        "code_snippet": "var fullname = 'John Doe';\nvar obj = {\n   fullname: 'Colin Ihrig',\n   prop: {\n      fullname: 'Aurelio De Rosa',\n      getFullname: function() {\n         return this.fullname;\n      }\n   }\n};\nconsole.log(obj.prop.getFullname());\nvar test = obj.prop.getFullname;\nconsole.log(test());"
+    },
+    {
+        "problem": "Для какого значения x результаты следующих выражений будут разными?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков недостаток объявления методов непосредственно в объектах JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как очистить массив в JavaScript?",
+        "code_snippet": "var arrayList = ['a', 'b', 'c', 'd', 'e', 'f'];"
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "var output = (function(x) {\n  delete x;\n  return x;\n})(0);\nconsole.log(output);"
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "var x = 1;\nvar output = (function() {\n  delete x;\n  return x;\n})();\nconsole.log(output);"
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "var x = { foo : 1};\nvar output = (function() {\n  delete x.foo;\n  return x.foo;\n})();\nconsole.log(output);"
+    },
+    {
+        "problem": "Что такое JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каковы преимущества и недостатки JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каковы соглашения по именованию переменных в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать массив в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как прочитать элементы массива в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как прочитать свойства объекта в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каковы допустимые области видимости переменной в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой тип переменной (глобальная или локальная) имеет приоритет, если имена совпадают?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое именованная функция в JavaScript? Как определить именованную функцию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько типов функций поддерживает JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить анонимную функцию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли присвоить анонимную функцию переменной?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова цель оператора 'this' в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект Date в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект Number в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как перенаправить URL с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вывести веб-страницу с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что возвращает typeof для значения null?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как динамически создавать новые элементы в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое поднятие функции (Function Hoisting)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект arguments в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно получить тип аргументов, переданных в функцию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно получить общее количество аргументов, переданных в функцию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно получить ссылку на вызывающую функцию внутри функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли передать анонимную функцию как аргумент другой функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как обрабатывать исключения в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова цель обработчика события onError в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли получить доступ к Cookie с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать Cookie с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как прочитать Cookie с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как удалить Cookie с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков будет порядок вывода и почему?",
+        "code_snippet": "console.log('1');\n\nsetTimeout(() => {\n    console.log('2');\n    Promise.resolve().then(() => {\n        console.log('3');\n    });\n}, 0);\n\nPromise.resolve().then(() => {\n    console.log('4');\n    setTimeout(() => {\n        console.log('5');\n    }, 0);\n});\n\nconsole.log('6');"
+    },
+    {
+        "problem": "Исправьте предоставленный некорректный код, чтобы он выводил 0,1,2,3,4",
+        "code_snippet": "for (var i = 0; i < 5; i++) {\n    setTimeout(() => {\n        console.log(i);\n    }, i * 1000);\n}"
+    },
+    {
+        "problem": "Каковы различия между == и ===?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы сравнили два объекта в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли 'false' ложным значением?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли ' ' ложным значением?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что насчет {}?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что насчет []?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Вы говорили, что '' является ложным значением. Что насчет new String('')?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что насчет new Boolean(false)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Boolean(function(){})",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Boolean(/foo/)",
+        "code_snippet": ""
+    },
+    {
+        "problem": "true%1",
+        "code_snippet": ""
+    },
+    {
+        "problem": "''%1",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Так как [] является истинным, []==true также должно быть истинным, верно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы написали метод для экземпляра Date, который даст вам следующий день?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если вы хотите использовать произвольный объект в качестве значения this, как вы это сделаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если старый браузер не имеет функции bind, как вы его реализуете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите простую функцию, чтобы определить, был ли передан параметр 2 или нет?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы использовали Math.max для нахождения максимального значения в массиве?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое this в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое typeof []",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое typeof arguments",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое 2+true",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое '6'+9",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение 4+3+2+\"1\"",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение \"1\"+2+4",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение -'34'+10",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение +'dude'",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если у вас есть var y = 1, x = y = typeof x; Каково значение x?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для var a = (2, 3, 5); каково значение a?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для var a = (1, 5 - 1) * 2 каково значение a?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение !'bang'",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение parseFloat('12.3.4')",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение Math.max([2,3,4,5]);",
+        "code_snippet": ""
+    },
+    {
+        "problem": "3 instanceof Number",
+        "code_snippet": ""
+    },
+    {
+        "problem": "null == undefined",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение !!function(){};",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение typeof bar",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение typeof null",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если var a = 2, b =3 каково значение a && b",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет выведено: var foo = 'outside'; function logIt(){console.log(foo); var foo = 'inside';} logIt();",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое -5%2",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему .1+.2 != .3",
+        "code_snippet": ""
+    },
+    {
+        "problem": "42..toString()",
+        "code_snippet": ""
+    },
+    {
+        "problem": "4.2..toString",
+        "code_snippet": ""
+    },
+    {
+        "problem": "42 . toString()",
+        "code_snippet": ""
+    },
+    {
+        "problem": "typeof(NaN)",
+        "code_snippet": ""
+    },
+    {
+        "problem": "2 in [1,2]",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы установили префикс перед всем, что выводите в консоль? Например, если вы вызовете log('my message'), это выведет: \"(app) my message\"",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вы увидите в консоли для следующего примера?",
+        "code_snippet": "var a = 1; \nfunction b() { \n    a = 10; \n    return; \n    function a() {} \n} \nb(); \nconsole.log(a);"
+    },
+    {
+        "problem": "Посмотрите на код ниже, у вас есть цикл for, внутри которого setTimeout. Если вывести счетчик цикла внутри setTimeout, что будет выведено?",
+        "code_snippet": "for(var i = 0; i < 10; i++) {\n    setTimeout(function() {\n      console.log(i);  \n    }, 10);\n}"
+    },
+    {
+        "problem": "Посмотрите на код ниже, у меня есть свойство в объекте, и я создаю новый объект, где устанавливаю его в новое значение. Если я удалю это свойство, что я получу при попытке доступа к этому свойству?",
+        "code_snippet": "var myObject = {\n    price: 20.99,\n    get_price : function() {\n        return this.price;\n    }\n};\nvar customObject = Object.create(myObject);\ncustomObject.price = 19.99;\n\ndelete customObject.price;\nconsole.log(customObject.get_price());"
+    },
+    {
+        "problem": "Передает ли JavaScript параметры по значению или по ссылке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы реализовали кеш для сохранения времени вычислений для рекурсивной функции fibonacci?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы кешировали выполнение любой функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы реализовали анимацию moveLeft?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы реализовали каррирование для любых функций?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы проверили, является ли число простым?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы нашли все простые множители числа?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить n-ное число Фибоначчи?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы нашли наибольший общий делитель двух чисел?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы удалили повторяющиеся элементы из массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы объединили два отсортированных массива?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы поменяли местами два числа без использования временной переменной?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы перевернули строку в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы перевернули слова в предложении?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы перевернули слова на месте? Например, если у вас есть строка \"I am the good boy\", как вы получите \"I ma eht doog yob\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы нашли первый неповторяющийся символ в строке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы удалили повторяющиеся символы из строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы проверили, является ли слово палиндромом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если у вас есть функция, которая генерирует случайное число от 1 до 5, как бы вы сгенерировали случайное число от 1 до 7, используя эту функцию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Из неотсортированного массива чисел от 1 до 100, исключая одно число, как вы найдете это число?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Из неотсортированного массива проверьте, есть ли любые два числа, сумма которых равна заданному числу?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы нашли наибольшую сумму любых двух элементов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Подсчитайте общее количество нулей от 1 до n?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вы можете сопоставить подстроку строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как бы вы создали все перестановки строки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Определите функцию, которая возвращает n строк треугольника Паскаля.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Определите функцию, которая принимает массив строк и возвращает наиболее часто встречающуюся строку в этом массиве (с ограничением времени выполнения).",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Используйте рекурсию для вывода последовательности Фибоначчи длиной n.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните случаи использования и различия между bind, apply и call.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните делегирование событий и почему это полезно.",
+        "code_snippet": ""
+    },
+
+    {
+        "problem": "Как работает поднятие (hoisting) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проведите нас через процесс создания приложения или веб-сайта, который вы построили.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие новые функции JavaScript/браузера вас больше всего волнуют и почему?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каковы различия между функциональным и императивным стилями программирования, и объясните ваше предпочтение, если оно есть.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Перечислите различия между Java и JavaScript.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова функция isNaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что быстрее: JavaScript или ASP-скрипт?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое отрицательная бесконечность?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли разбить код JavaScript на несколько строк?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая компания разработала JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое необъявленные и неопределенные переменные?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите код для динамического добавления новых элементов.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое глобальные переменные? Как они объявляются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое prompt-окно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что означает ключевое слово 'this' в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работают таймеры в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой символ используется для комментариев в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между ViewState и SessionState?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оператор ===?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно отправить форму с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Поддерживает ли JavaScript автоматическое преобразование типов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как изменить стиль/класс элемента?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как читать и записывать файл с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие структуры циклов есть в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что называется типизацией переменных в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как преобразовать строку любого основания в целое число в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между \"==\" и \"===\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков будет результат 3+2+\"7\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить операционную систему на клиентской машине?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что означает NULL в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова функция оператора delete?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое неопределенное значение в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие типы всплывающих окон доступны в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как заставить страницу загрузить другую страницу в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой тип данных у переменных в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между окном оповещения и окном подтверждения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое escape-символы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое JavaScript Cookies?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое метод pop() в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли в JavaScript концепция уровня области видимости?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое замыкания (closures) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой встроенный метод меняет порядок элементов массива на обратный?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как распечатать веб-страницу с помощью JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков будет порядок вывода и почему?",
+        "code_snippet": "console.log('1');\nsetTimeout(() => console.log('2'), 0);\nPromise.resolve().then(() => console.log('3'));\nconsole.log('4');"
+    },
+    {
+        "problem": "Исправьте предоставленный некорректный код, чтобы он выводил 0,1,2,3,4",
+        "code_snippet": "for (let i = 0; i < 5; i++) {\n  setTimeout(() => console.log(i), i * 1000);\n}"
+    },
+    {
+        "problem": "Посмотрите на код ниже, у вас есть цикл for, внутри которого setTimeout. Если вывести счетчик цикла внутри setTimeout, что будет выведено?",
+        "code_snippet": "for(var i = 0; i < 3; i++) {\n  setTimeout(function() {\n    console.log(i); \n  }, 1000);\n}"
+    },
+    {
+        "problem": "Посмотрите на код ниже, у меня есть свойство в объекте, и я создаю новый объект, где устанавливаю его в новое значение. Если я удалю это свойство, что я получу при попытке доступа к этому свойству?",
+        "code_snippet": "var obj1 = {\n  prop: 'value',\n  getProp: function() {\n    return this.prop;\n  }\n};\nvar obj2 = Object.create(obj1);\nobj2.prop = 'new value';\ndelete obj2.prop;\nconsole.log(obj2.getProp());"
+    },
+    {
+        "problem": "Если вам нужно реализовать следующую цепочку с обратным вызовом, как вы это реализуете?",
+        "code_snippet": "function slow(callback) {\n  setTimeout(function(){\n    if(Math.random() > 0.5) {\n      return callback(\"Error\", null);\n    }\n    callback(null, {id:123});\n  }, 500);\n}\nfunction exec(fn) {\n  // ваш код\n}\nexec(slow).done(function(data){\n  console.log(data);\n}).fail(function(err){\n  console.log(\"Error: \" + err);\n});"
+    },
+    {
+        "problem": "В чем разница между undefined и null?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает оператор &&?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает оператор ||?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли использование оператора + или унарного плюса самым быстрым способом преобразования строки в число?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое DOM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое распространение события (Event Propagation)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое всплытие события (Event Bubbling)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое перехват события (Event Capturing)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между методами event.preventDefault() и event.stopPropagation()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как узнать, использовался ли метод event.preventDefault() в элементе?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему этот код obj.someprop.x выдает ошибку?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое event.target?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое event.currentTarget?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему при сравнении двух похожих объектов в JavaScript возвращается false?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает оператор !!?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как оценить несколько выражений в одной строке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие значения в JavaScript считаются \"ложными\" (falsy)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, является ли значение \"ложным\" (falsy)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает \"use strict\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каково значение this в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое IIFE и для чего это используется?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется метод Function.prototype.apply?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется метод Function.prototype.call?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между Function.prototype.apply и Function.prototype.call?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется Function.prototype.bind?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое функциональное программирование и какие особенности JavaScript делают его подходящим для этого?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте метод Array.prototype.map вручную.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте метод Array.prototype.filter вручную.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте метод Array.prototype.reduce вручную.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как создать объект без прототипа?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему b в этом коде становится глобальной переменной при вызове этой функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие новые функции появились в ES6 или ECMAScript 2015?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между ключевыми словами var, let и const?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое стрелочные функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое классы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое деструктуризация объекта?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое модули ES6?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объект Set и как он работает?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое async/await и как это работает?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между оператором расширения (Spread) и оператором остатка (Rest)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между неявным и явным приведением типов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое NaN? И как проверить, является ли значение NaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, является ли значение массивом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, является ли число четным, без использования оператора % или модуля?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проверить, существует ли определенное свойство в объекте?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между оператором in и методом hasOwnProperty в объектах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие способы работы с асинхронным кодом в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между функциональным выражением и объявлением функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько способов вызова функции существует?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте вспомогательную функцию мемоизации.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему typeof null возвращает object? Как проверить, является ли значение null?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает ключевое слово new?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между == и === (нестрогое/строгое равенство)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Strict mode в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между function declaration и function expression?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типы таймеров в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между var, let и const?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что обозначает this в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое функции высшего порядка (Higher Order Functions)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как превратить любой тип данных в булевый? Перечислите ложные значения в JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Методы строк в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Методы массивов в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между .forEach() и .map()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между .call(), .apply() и bind()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему в JS функции называют объектами первого класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить наличие свойства в объекте?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое IIFE?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое псевдомассив arguments?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему результат сравнения 2х объектов это false?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое прототипное наследование? Как создать объект без прототипа?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему расширение нативных JavaScript-объектов это плохая практика?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое NaN? Как определить, что значение равно NaN?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое объектная обертка (Wrapper Objects)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как в JavaScript создать объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется ключевое слово new?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Операторы «И» и «ИЛИ» (&& и ||)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется оператор двойного отрицания (!!)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется оператор остатка (%)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает boxing/unboxing в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое мемоизация? Реализуйте базовую логику функции для мемоизации?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между оператором in и методом .hasOwnProperty()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между глубокой (deep) и поверхностной (shallow) копиями объекта? Как сделать каждую из них?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое цепочка вызовов функций (chaining)? Как реализовать такой подход?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое необъявленная переменная?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как передаются параметры в функцию: по ссылке или по значению?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое прототип объекта в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работают методы .find(), .findIndex() и .indexOf()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Плюсы и минусы использования use strict?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между методами .push(), .pop(), .shift() и .unshift()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Плюсы и минусы иммутабельности? Как достичь иммутабельности в JS?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типы всплывающих окон в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типы объектов JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Парадигмы программирования в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типы ошибок в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между typeof и instanceof?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "JavaScript статически, или динамически типизированный язык?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое регулярное выражение (Regular Expression)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое рекурсия?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы используются в регулярных выражениях?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое switch/case? Правила использования switch/case?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типы функций по способности принимать другие функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое выражения (expression) и инструкции (statement) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между .some() и .every()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как сгенерировать случайное число в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Типы операторов в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между параметром и аргументом функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Правила задания имён для переменных и функций в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между явным и неявным преобразованием (Implicit and Explicit Coercion)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего применяется метод Array.from()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите способы преобразования массива в объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между Object и Map?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое каррирование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используются метод Object.seal()?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется свойство .dataset?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каким образом можно обмениваться кодом между файлами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает «сборщик мусора» в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое утечки памяти?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назовите основные типы утечек памяти в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает контекст выполнения (execution context) в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между примитивом и объектом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что значит текст max call stack size exceeded в консоли?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как реализовать отложенную загрузку изображений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличаются события input и change?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Зачем нужен конструктор Proxy?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое хвостовая рекурсия? Оптимизация рекурсии?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое и как работает debounce() и throttle() в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как в JavaScript работают декораторы? Как они могут быть использованы для модификации поведения классов и методов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно создать объекты с приватными свойствами и методами в JavaScript?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Методы перехвата и обработки ошибок в веб-приложениях?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему в JavaScript 0.1 + 0.2 !== 0.3?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Почему глобальные переменные в JavaScript считаются \"антипаттерном\"?",
+        "code_snippet": ""
+    }
+]

@@ -1,0 +1,745 @@
+[
+    {
+        "problem": "Каковы основные особенности TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Что такое модуль в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "модули ES6"
+        ]
+    },
+    {
+        "problem": "Что такое утверждение типа (type assertion) в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "утверждения типов (type assertions)"
+        ]
+    },
+    {
+        "problem": "Что такое переопределение метода в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Как объявить переменную в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "переменные (let, const)"
+        ]
+    },
+    {
+        "problem": "Объясните как использовать миксины в TypeScript.",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "миксины"
+        ]
+    },
+    {
+        "problem": "Как проверить на null или undefined?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Что такое getters/setters? Как их использовать?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "геттеры/сеттеры"
+        ]
+    },
+    {
+        "problem": "Как преобразовать строку в число с помощью TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы-строки",
+            "типы-числа"
+        ]
+    },
+    {
+        "problem": "Что такое файл .map? Зачем и как его можно использовать?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "source maps"
+        ]
+    },
+    {
+        "problem": "Что такое JSX?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "JSX",
+            "React типы"
+        ]
+    },
+    {
+        "problem": "Что такое стрелочные/лямбда функции?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "стрелочные функции"
+        ]
+    },
+    {
+        "problem": "Объясните Rest параметры и правила объявления таких параметров.",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "остаточные параметры (rest)"
+        ]
+    },
+    {
+        "problem": "Что делает тип Omit?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "утилитарные типы"
+        ]
+    },
+    {
+        "problem": "Как сделать все свойства интерфейса необязательными?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "утилитарные типы"
+        ]
+    },
+    {
+        "problem": "Когда нужно использовать ключевое слово unknown?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "any vs unknown",
+            "unknown вместо any"
+        ]
+    },
+    {
+        "problem": "Что такое декораторы и к чему их можно применить?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "декораторы"
+        ]
+    },
+    {
+        "problem": "Что такое тип awaited?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "утилитарные типы"
+        ]
+    },
+    {
+        "problem": "В чем разница между implements и extends?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "реализация интерфейсов",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Что такое условные типы в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "условные типы"
+        ]
+    },
+    {
+        "problem": "Как и когда нужно использовать enum?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "перечисления (enums)"
+        ]
+    },
+    {
+        "problem": "TypeScript функциональный язык программирования?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Как с помощью TypeScript сделать переиспользуемые компоненты?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "дженерики",
+            "React + TypeScript"
+        ]
+    },
+    {
+        "problem": "В чем разница между tuple и массивом в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "кортежи (tuples)",
+            "типы-числа"
+        ]
+    },
+    {
+        "problem": "Какие коллекции поддерживает TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "дженерик-коллекции"
+        ]
+    },
+    {
+        "problem": "Для чего используется тип Record?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "утилитарные типы"
+        ]
+    },
+    {
+        "problem": "TypeScript поддерживает абстрактные классы?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "абстрактные классы"
+        ]
+    },
+    {
+        "problem": "Перечислите встроенные типы в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Что такое TypeScript и зачем его использовать",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Нужно ли компилировать TypeScript файлы и почему",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "компилятор tsc"
+        ]
+    },
+    {
+        "problem": "Как вызвать конструктор базового класса из дочернего класса в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "наследование",
+            "классы"
+        ]
+    },
+    {
+        "problem": "В чем разница между Classes и Interfaces в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "классы",
+            "интерфейсы"
+        ]
+    },
+    {
+        "problem": "Что такое getters/setters в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "геттеры/сеттеры"
+        ]
+    },
+    {
+        "problem": "Как реализовать class constants в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "readonly свойства",
+            "статические методы"
+        ]
+    },
+    {
+        "problem": "Можно ли использовать TypeScript на backend и как",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "TypeScript с Node.js"
+        ]
+    },
+    {
+        "problem": "Возможны ли strongly-typed functions как параметры в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы функций"
+        ]
+    },
+    {
+        "problem": "Корректен ли этот TypeScript код (пример с Point и Point3d)",
+        "code_snippet": "class Point {\\n    x: number;\\n    y: number;\\n}\\n\\ninterface Point3d extends Point {\\n    z: number;\\n}\\n\\nlet point3d: Point3d = {x: 1, y: 2, z: 3};",
+        "tags": [
+            "TypeScript",
+            "классы",
+            "интерфейсы",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Почему TypeScript считается опционально статически типизированным языком",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "вывод типов"
+        ]
+    },
+    {
+        "problem": "Какой модификатор доступа по умолчанию для членов класса в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "модификаторы доступа"
+        ]
+    },
+    {
+        "problem": "Как сделать классы, определенные в модуле, доступными вне модуля",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "импорт/экспорт",
+            "модули ES6"
+        ]
+    },
+    {
+        "problem": "Что не так с этим кодом (пример с функцией reverse)",
+        "code_snippet": "function reverse(s: String): String;",
+        "tags": [
+            "TypeScript",
+            "типы-строки",
+            "типизация функций"
+        ]
+    },
+    {
+        "problem": "Как использовать внешние plain JavaScript библиотеки в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "ambient-декларации",
+            "декларации типов",
+            "TypeScript Definition Manager (TSD)"
+        ]
+    },
+    {
+        "problem": "Что такое Typings в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "декларации типов",
+            "@types"
+        ]
+    },
+    {
+        "problem": "Как перегрузить конструктор класса в TypeScript",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "перегрузка функций",
+            "классы"
+        ]
+    },
+    {
+        "problem": "Объясните, почему этот код помечен как WRONG (пример с интерфейсом Fetcher)",
+        "code_snippet": "interface Fetcher {\n    getObject(done: (data: any, elapsedTime?: number) => void): void;\n}",
+        "tags": [
+            "TypeScript",
+            "интерфейсы",
+            "необязательные параметры",
+            "any vs unknown",
+            "типы функций"
+        ]
+    },
+    {
+        "problem": "Что такое Ambients в TypeScript и когда их использовать",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "ambient-декларации"
+        ]
+    },
+    {
+        "problem": "Можно ли сгенерировать TypeScript declaration files из JS библиотеки",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "декларации типов",
+            "декларации для JS"
+        ]
+    },
+    {
+        "problem": "Какие преимущества у TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Как установить TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "установка TypeScript"
+        ]
+    },
+    {
+        "problem": "Как выполняется программа в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "компилятор tsc",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Какие принципы ООП поддерживает TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "классы",
+            "наследование",
+            "абстрактные классы",
+            "интерфейсы"
+        ]
+    },
+    {
+        "problem": "Какие типы данных есть в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы данных"
+        ]
+    },
+    {
+        "problem": "Что такое namespace в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "пространства имен"
+        ]
+    },
+    {
+        "problem": "Что такое типизированные функции в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы функций"
+        ]
+    },
+    {
+        "problem": "Что означает синтаксис as в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "утверждения типов (type assertions)"
+        ]
+    },
+    {
+        "problem": "В чем разница между readonly и const?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "readonly свойства",
+            "переменные (let, const)"
+        ]
+    },
+    {
+        "problem": "Что такое статические свойства?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "статические методы"
+        ]
+    },
+    {
+        "problem": "Какие модификаторы доступа есть в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "модификаторы доступа"
+        ]
+    },
+    {
+        "problem": "Что такое Rest-параметры в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "остаточные параметры (rest)"
+        ]
+    },
+    {
+        "problem": "Что такое Generics в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "дженерики"
+        ]
+    },
+    {
+        "problem": "Можно ли использовать JSX в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "JSX",
+            "TypeScript с React"
+        ]
+    },
+    {
+        "problem": "Что такое файл ts.config в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "tsconfig.json"
+        ]
+    },
+    {
+        "problem": "Зачем нужен TypeScript Definition Manager (TSD)?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "декларации типов",
+            "TypeScript Definition Manager (TSD)"
+        ]
+    },
+    {
+        "problem": "Как отлаживать файл TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "source maps",
+            "компилятор tsc"
+        ]
+    },
+    {
+        "problem": "Что такое TypeScript и чем он отличается от JavaScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Что такое интерфейсы в TypeScript и как они работают?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "интерфейсы"
+        ]
+    },
+    {
+        "problem": "Как определить и использовать функцию в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типы функций"
+        ]
+    },
+    {
+        "problem": "Что означает \"вывод типов\"(\"type inference\") в контексте TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "вывод типов"
+        ]
+    },
+    {
+        "problem": "Объясните использование 'let' и 'const' в TypeScript.",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "переменные (let, const)"
+        ]
+    },
+    {
+        "problem": "Объясните классы в TypeScript. Чем они отличаются от классов ES6?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "классы"
+        ]
+    },
+    {
+        "problem": "Как реализовать наследование в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "наследование"
+        ]
+    },
+    {
+        "problem": "Можете описать использование конструкторов в классах TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "классы"
+        ]
+    },
+    {
+        "problem": "Основные компоненты TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Минусы использования TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "синтаксис TypeScript"
+        ]
+    },
+    {
+        "problem": "Поддерживает ли TypeScript перегрузку функций?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "перегрузка функций"
+        ]
+    },
+    {
+        "problem": "Разница между типом (type) и интерфейсом (interface)?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "интерфейсы",
+            "псевдонимы типов (type aliases)"
+        ]
+    },
+    {
+        "problem": "Что такое JSX в TypeScript? Какие режимы JSX поддерживает TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "JSX",
+            "TypeScript с React"
+        ]
+    },
+    {
+        "problem": "Что такое директивы с тремя наклонными чертами (Triple-Slash Directives), их типы?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "triple-slash директивы"
+        ]
+    },
+    {
+        "problem": "Что такое внешние объявления переменных (ambient declaration) в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "ambient-декларации"
+        ]
+    },
+    {
+        "problem": "Разница между абстрактным классом (abstract class) и интерфейсом (interface)?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "абстрактные классы",
+            "интерфейсы"
+        ]
+    },
+    {
+        "problem": "Разница между внутренним (Internal Module) и внешним модулями (External Module)?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "модули ES6",
+            "пространства имен"
+        ]
+    },
+    {
+        "problem": "Как TypeScript поддерживает необязательные и дефолтные параметры в функции?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "необязательные параметры",
+            "параметры по умолчанию"
+        ]
+    },
+    {
+        "problem": "Для чего в TypeScript используется NoImplicitAny?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "noImplicitAny",
+            "strict режим"
+        ]
+    },
+    {
+        "problem": "Разница между типами «Объединение» (|) и «Пересечение» (&)?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "объединение типов (union)",
+            "пересечение типов (intersection)"
+        ]
+    },
+    {
+        "problem": "Для чего в TypeScript используют ключевое слово declare?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "декларации типов"
+        ]
+    },
+    {
+        "problem": "Разница между типами void, never и unknown?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "void тип",
+            "never тип",
+            "any vs unknown"
+        ]
+    },
+    {
+        "problem": "Как вы отлавливаете ошибки в TypeScript коде?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "типизированные тесты",
+            "typescript-eslint"
+        ]
+    },
+    {
+        "problem": "Разница между any и unknown в TypeScript?",
+        "code_snippet": "",
+        "tags": [
+            "TypeScript",
+            "any vs unknown"
+        ]
+    }
+]

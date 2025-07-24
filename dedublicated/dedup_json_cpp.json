@@ -1,0 +1,1514 @@
+[
+    {
+        "problem": "В чем заключаются основные принципы ООП?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Код работает неправильно. Что делать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните такие структуры данных, как стек и очередь.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие книги, связанные с программированием, читали? Чему с них научились?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что интересного нашли в новых стандартах С++17, С++20, C++23?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое таблица ASCII?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Unicode?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое паттерны проектирования и для чего их используют? Какие знаете паттерны проектирования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между модульными и интеграционными тестами?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое TDD?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое шаблонный класс и шаблонная функция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое конструкторы? Какие типы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли конструктор быть шаблонной функцией?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли виртуальная функция быть шаблонной?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое инстанциация шаблона?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое специализация шаблона? Частичная специализация шаблона?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите об имплементации шаблонных классов в срр-файле?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как проходит процесс компиляции срр-файлов в бинарный файл?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое препроцессор и как он работает? Какие знаете команды препроцессора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает директива define?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что именно линкует линкер?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое оптимизация компилятора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое флажки компиляции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как защитить хедер от повторного включения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает директива include?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работают макросы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как static влияет на глобальные/локальные переменные?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как const влияет на переменную?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие варианты использования extern знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие варианты использования volatile знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть битовые операции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое булевая алгебра?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите об этапах разработки библиотеки или программы.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое алгоритмы сортировки и какие вы знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие алгоритмы работы со строками знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие алгоритмы на графах знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Где может храниться переменная?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между calloc и malloc?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используют realloc?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое указатель?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Каков размер указателя и от чего он зависит?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть операции с указателями?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое struct?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как определить размер структур?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое выравнивание в структурах?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое union?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой размер union?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое класс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть основные типы данных в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое инкапсуляция? Как она реализуется в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть встроенные типы в С++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое enum?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как соотносится класс и объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между структурой и классом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между private/protected/public и где они используются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы класса являются стандартными для класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое абстрактный класс и зачем он?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько памяти занимает объект пустого класса class A {};?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что случится с функцией, если к ней добавить ключевое слово static? В контексте члена класса? В контексте метода класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие особенности статических полей класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая особенность константных методов-членов класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как изменить поле класса в константном методе класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы можно вызвать из константных объектов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое куча и стек? Различия, принцип работы.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между указателем и ссылкой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен указатель на функцию? Как его объявить?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет, если забыть вызвать delete? Когда освободится эта память?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое умный указатель? Какие умные указатели есть в стандартной библиотеке?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает std::unique_ptr?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работает std::shared_ptr?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о константности переменной, ссылки, указателя. Что такое константный указатель и указатель на константу? Размер указателя в памяти?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о передаче аргументов по значению, по ссылке и по указателю.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о порядке вычисления аргументов функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что произойдет, если вернуть ссылку на временный объект?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое перегрузки функции? Виды перегрузки.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое явное и неявное приведение типов в С++? Расскажите о функциях явного приведения типов в C++.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое инициализация переменной в if?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое ленивые вычисления в С++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о циклах for и range-for.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает ключевое слово auto? auto-определение return-типа, аргументов функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Чем отличаются delete и delete [ ] ? Что случится, если вызвать delete у объекта, созданного через new [ ] ?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Обработка ошибок в С++. Какие конструкции используют при обработке exception?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли выбрасывать exception из конструктора? Какие поля будут сконструированы, какие поля будут разрушены?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое memory leak?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Можно ли выбрасывать exception из деструктора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как отловить деление на 0 в С++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работают константные методы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое лямбда-функция в С++? Как получить доступ к переменным во внешней области видимости?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего использовать namespace, anonymous namespace?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как вызвать объект из nested namespace?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работают inline-функции? Может ли такая функция быть рекурсивной?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое полиморфизм?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется наследование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие бывают типы наследования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используют виртуальное наследование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно решить проблему ромбовидного наследования без использования виртуального наследования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что случится, если класс-наследник передать по значению в функцию, которая принимает базовый класс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что случится, если пронаследоваться от базового класса, который не имеет виртуального конструктора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что случится, если вызвать переопределенную virtual function из конструктора? Может ли конструктор быть виртуальным?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли pure virtual function иметь имплементацию? Что случится, если вызвать pure virtual function из конструктора?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие методы генерируются для класса по умолчанию? В каком случае такие методы не будут генерироваться? Как заставить компилятор добавить/удалить эти методы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как запретить наследовать класс?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой порядок конструирования и разрушения классов в иерархии? Порядок инициализации полей класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть способы инициализации полей класса?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Может ли деструктор быть виртуальным?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что делает ключевое слово virtual?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используют виртуальный деструктор?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое глубокое копирование?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое виртуальные функции и зачем они нужны?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как защитить объект от копирования?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое семантика перемещения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Из чего состоит STL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие алгоритмы применяли с STL? В чем преимущество использования алгоритмов перед собственноручно написанными функциями?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о контейнерах стандартной библиотеки vector, list, map, unordered_map.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие знаете типы итераторов? Чем они отличаются? В каких контейнерах используются?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между std::set, std::map, std::unordered_multimap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое идиома remove-erase?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как получить наименьшее значение типа?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между std::map и std::hashmap?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как подсчитать количество элементов в std::list?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое сложность алгоритма и от чего она зависит?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между vector и list и в каких случаях их лучше использовать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что вам известно о многопоточности?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что общего и различного в процессах и потоках?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как синхронизировать передачи информации между потоками?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между мьютексом и семафором?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое deadlock?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Является ли С++ thread-safe?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое race-condition?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как избежать состояния гонки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое атомарная операция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как работать с std::mutex?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое сокет?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие операции можно делать с сокетом?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая информация нужна, чтобы создать сокет?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие бывают модели сетей?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите об уровнях модели OSI.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите об уровнях модели TCP/IP.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое IP-адрес?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используется маска подсети?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между IPv4 и IPv6?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько памяти необходимо для хранения IPv4?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен порт?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Сколько максимально может быть портов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между TCP и UDP?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего такой ненадежный UDP-протокол?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое менеджер пакетов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие бывают менеджеры пакетов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие бывают дистрибутивы Linux?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое PID?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используют файловые дескрипторы?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о стандартных файловых дескрипторах процесса.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Pipe?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Named Pipe?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое UID?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о командах bash.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть виды SCM?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используют системы контроля версий?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть команды git?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие этапы во время комита изменений?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Разница между git fetch и git pull?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какие есть этапы решения merge conflict?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Посчитайте количество единиц в произвольном числе.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть структура по типу «односвязный список». Напишите функцию, которая разворачивает список. То есть, первый элемент становится последним, а последний - первым.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите реализацию функции int atoi (const char *str); преобразования строки в число.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для структуры типа односвязный список напишите функцию вставки элемента.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте класс vector.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте бинарный поиск в массиве.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте любую сортировку.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте макрос для сравнения двух строк.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте реверс строк.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте перевода числа из строки в int.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте подсчет слов в предложении.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте подсчет чисел Фибоначчи.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Найдите такие элементы двух массивов, которые попадаются только в каждом из них. Желательно использовать STL.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Удалите из unordered_map элементы, которые делятся на 2 и выведите ключи этих элементов.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите класс для логирования, который мог бы логировать к консоли или файлу.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию для определения, является ли определенный год високосным.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию для определения, является ли определенное слово палиндромом.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите реализацию паттерна Singleton.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите реализацию std::vector с операциями: push_back, push_front, pop_back, pop_front, size, clear.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите рекурсивный поиск значения в дереве бинарного поиска.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию, которая проверяет, является ли дерево сбалансированным.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Напишите функцию для поиска уникального элемента в массиве.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что нравится и не нравится в С++? Чего не хватает?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о модели памяти, которая появилась в С++11 стандарте.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое сериализация? Какие библиотеки знаете?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое операционная система? Какие существуют типы по назначению?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Назвать основные составляющие и принципы работы ОС Linux в качестве примера системы общего назначения.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое SFINAE и PIMPL?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о системах автоматизации билд-процесса.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между статической и динамической библиотеками?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между исполнительным файлом и динамической библиотекой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое DLL hell?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем разница между дебаженной и релизной сборкой?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что нужно для использования сторонней библиотеки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое internal linkage?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет, если дважды вызвать free?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как происходит вызов функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как происходит передача параметров в функцию?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как прорабатывается константа переменных?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что означает ключевое слово inline?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего используют выравнивания, можно ли его контролировать?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Расскажите о битовых полях.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Для чего нужен extern \"C\"?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что будет, если в двух файлах сделать функцию с одинаковым именем и параметрами? На каком этапе возникнет ошибка?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как экспортировать/импортировать функции из динамической библиотеки?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какая разница между С-style приведением типов и C++ приведением?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что такое Uniform initialization? Aggregate initialization?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какое описание лучше всего характеризует поведение этой программы? (Неопределённое поведение, Некорректный код, Ошибка компиляции, Код выведет 1 без проблем)",
+        "code_snippet": "int _global_variable = 1;\n\nint main() {\n  std::cout << _global_variable;\n}"
+    },
+    {
+        "problem": "Ознакомьтесь с приведенным ниже фрагментом кода. Какова цель std::declval? (Это помогает нам избежать необходимости вызывать конструкторы по умолчанию для этих двух типов во время вычисления в контексте decltype, Это единственный способ вызвать конструктор по умолчанию для двух типов в контексте decltype во время компиляции, Он удаляет ссылки, cv-квалификаторы и массивы, чтобы сделать RT подходящим типом возвращаемого значения (без ссылок, неконстантным), Это позволяет нам перенести оценку RT со времени компиляции на время выполнения, учитывая конкретные типы T1 и T2)",
+        "code_snippet": "template <typename T1, typename T2, typename RT = \n  std::decay_t<decltype(true ? std::declval<T1>() : std::declval<T2>())>>\nRT max(T1 a, T2 b)\n{\n    return b < a ? a : b;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nstruct C {\n    C() { std::cout << \"c\"; }\n    C(const C&) { std::cout << \"C\"; }\n\n    void foo() { std::cout << \"1\"; }\n};\n\nstruct D {\n    D() { std::cout << \"d\"; }\n    D(const C&) { std::cout << \"D\"; }\n\n    void foo() { std::cout << \"2\"; }\n};\n\n\nauto TakeTheLOnThisBro(bool flag) {\n    return flag ? C{} : D{};\n}\n\nint main() {\n    TakeTheLOnThisBro(true).foo();\n    TakeTheLOnThisBro(false).foo();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nstruct Item {\n    Item() { std::cout << 1; }\n    Item(const Item&) { std::cout << 2; }\n    void operator=(const Item&) { std::cout << 3; }\n    void DoNothing() const { }\n\n    bool operator==(const Item& other) const {\n        return this == &other;\n    }\n};\n\ntemplate <>\nstruct std::hash<Item> {\n    size_t operator()(const Item& a) const {\n        return reinterpret_cast<std::uintptr_t>(&a);\n    }\n};\n\nint main() {\n    std::unordered_map<Item, int> counts;\n    counts.reserve(2);\n    counts.emplace(Item{}, 1);\n    counts.emplace(Item{}, 2);\n\n    for (const std::pair<Item, int>& count : counts) {\n        count.first.DoNothing();\n    }\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nvoid foo(float&&) { std::cout << \"f\"; }\nvoid foo(int&&) { std::cout << \"i\"; }\n\ntemplate <typename... T>\nvoid bar(T&&... v)\n{\n    (foo(v), ...);\n}\n\nint main()\n{\n    bar(1.0f, 2);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nstruct X {\n    X() {\n        throw std::runtime_error(\"Constructor throw.\");\n    }\n    ~X() {\n        throw std::runtime_error(\"Destructor throw.\");\n    }\n};\n\nint main() {\n    std::cout\n        << (std::is_nothrow_constructible_v<X> ? 'y' : 'n')\n        << (std::is_nothrow_destructible_v<X> ? 'y' : 'n');\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nint main(int argc, char* argv[]) {\n    std::cout << (argv[argc] == nullptr);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nvoid foo() { throw; }\n\nint main() {\n    foo();\n    std::cout << 1;\n}"
+    },
+    {
+        "problem": "Что выведет следующая программа?",
+        "code_snippet": "// Headers\nint main() {\n    \n   float f1 = 3.4f;\n   float f2 = 3.5f;\n\n   if (f1 == 3.4f) {\n    std::cout << \"1\";\n   }\n\n   if (f1 == 3.4) {\n    std::cout << \"2\";\n   }\n\n   if (f2 == 3.5) {\n    std::cout << \"3\";\n   }\n}"
+    },
+    {
+        "problem": "Если вы напишете класс без методов и без наследования, компилятор автоматически добавит некоторые методы. Какие?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    const auto t = std::make_tuple(1, 2., 3);\n    std::cout << std::get<int>(t);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    std::cout << (sizeof(long) > sizeof(int));\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "#include <iostream>\n\nstruct C {\n    C() = default;\n    int i;\n};\n\nint main() {\n    const C c;\n    std::cout << c.i;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nint main() {\n    int x = 10;\n    int y = 10;\n\n    const int &max = std::max(x, y);\n    const int &min = std::min(x, y);\n\n    x = 11;\n    y = 9;\n\n    std::cout << max << min;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\ntemplate<typename T, typename U>\nvoid f(T, U) {\n    std::cout << std::is_same_v<T, U>;\n}\n\nint main() {\n    int i = 0;\n    double d = 0.0;\n    f(i, d);\n    f<int>(i, d);\n    f<double>(i, d);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "class A {\npublic:\n    A() = default;\n    A(const A&) { std::cout << 1; }\n};\n\nvoid f(std::initializer_list<A> i) {}\n\nint main() {\n    A a;\n    std::initializer_list<A> i{ a };\n    f(i);\n    f(i);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\ntemplate <typename ...Ts>\nstruct X {\n    X(Ts ...args) : Var(0, args...) { }\n    int Var;\n};\n\nint main() {\n    X<> x;\n    std::cout << x.Var;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "class Empty {\n};\n\nclass EmptyToo : public Empty {\n};\n\nclass NonEmpty : public Empty, public EmptyToo {\n};\n\nint main()\n{\n    std::cout << sizeof(NonEmpty);\n}"
+    },
+    {
+        "problem": "Проанализируйте объявление шаблона класса S ниже. Как правильно определить метод print для специализации char**?",
+        "code_snippet": "template <typename T>\nclass S;\n\ntemplate<> class S<char**> {\n    public:\n        void print() const;\n};\n\n// 1\ntemplate <char**>\nvoid S<char**>::print() const { };\n\n// 2\ntemplate <>\nvoid S<char**>::print() const { };\n\n// 3\nvoid S<char**>::print() const { };\n\n// 4\ntemplate <typename char**>\nvoid S<>::print() const { };"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "template <typename T>\nint f(T) { return 1; }\n\ntemplate <typename T>\nint f(T*) { return 2; }\n\nint main() {\n    std::cout << f<int*>((int*)nullptr);\n    std::cout << f<int>((int*)nullptr);\n}"
+    },
+    {
+        "problem": "Как реализована std::forward внутри?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какие строки разрешены компилятором?",
+        "code_snippet": "// Headers\n\ntemplate <typename T>\nclass Dynamic {\npublic:\n    virtual ~Dynamic(); // 1\n\n    template <typename U>\n    virtual void copy(const U&); // 2\n};"
+    },
+    {
+        "problem": "Каков результат этих трех вызовов type traits? (Ответ в формате: тип1, тип2, тип3)",
+        "code_snippet": "std::remove_const_t<const int&>\nstd::remove_const_t<std::remove_reference_t<const int&>\nstd::remove_reference_t<std::remove_const_t<const int&>"
+    },
+    {
+        "problem": "Какой из вариантов нельзя передать в функцию foreach?",
+        "code_snippet": "// Headers\n\n/* Your co-workers code. */\ntemplate <typename Iter, typename Callable>\nvoid foreach(Iter current, Iter end, Callable op) {\n    while (current != end) {\n        op(*current++);\n    }\n}\n\n/* Which one of these calls this method incorrectly? */\n\nvoid func(int i ) { std::cout << i; };\nstruct FuncObj { void operator()(int i) const { std::cout << i; };\n\nint main() {\n    std::vector<int> primes = { 2, 3, 5, 7, 11 };\n    foreach (primes.begin(), primes.end(), func); // 1\n    foreach (primes.begin(), primes.end(), &func); // 2\n    foreach (primes.begin(), primes.end(), &FuncObj()); // 3\n    foreach (primes.begin(), primes.end(), [] (int) { std::cout << \"Called.\"; }); // 4"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Для чего используется '.template'?",
+        "code_snippet": "template <unsigned long N>\nvoid printBitset(const std::bitset<N>& bs) {\n    std::cout << bs.template to_string<char, std::char_traits<char>, std::allocator<char>>();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Будет ли он компилироваться?",
+        "code_snippet": "// Headers\n\ntemplate <typename T>\nvoid foo(T t)\n{\n    if constexpr(std::is_integral_v<T>) {\n        if (t > 0) {\n            foo(t - 1);\n        }\n    }\n    else {\n        undeclared(t);\n    }\n}\n\nint main() {\n    foo(1);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какой тип параметра передается в foo?",
+        "code_snippet": "template <typename T>\nvoid foo(T&&) {\n    // Do something.\n}\n\nint main() {\n    foo(\"getcracked\");\n}"
+    },
+    {
+        "problem": "Какую проблему параллелизма предотвращает следующий код?",
+        "code_snippet": "#include <iostream>\n#include <vector>\n#include <atomic>\n#include <thread>\n\nstatic constexpr size_t align_size = \n  std::hardware_destructive_interference_size;\n\nstruct alignas(align_size) localCount\n{\n    size_t val{ 0 };\n};\n\nint main()\n{\n    const auto n = 1'000;\n    const auto thread_count = std::thread::hardware_concurrency();\n    localCount local_count[thread_count];\n    std::atomic<size_t> total_count{ 0 };\n\n    std::vector<std::thread> workers;\n    for (int i = 0; i < thread_count; ++i)\n    {\n        workers.emplace_back([&, index = i] {\n            auto& my_int = local_count[index];\n            for (int i = 0; i < n; ++i)\n                ++my_int.val;\n            \n            total_count.fetch_add(my_int.val, std::memory_order_relaxed);\n        });\n    }\n\n    for (auto &t : workers)\n        t.join();\n    \n    std::cout << \"Total count: \" << total_count.load() << std::endl;\n}"
+    },
+    {
+        "problem": "Проанализируйте код ниже. Как правильно объявить шаблон стека с настраиваемым контейнером?",
+        "code_snippet": "template <typename T, > // What goes after the comma here?\nclass Stack {\nprivate:\n    Cont<T> cont_;\npublic:\n    // Methods\n};\n\ntemplate <typename> class Cont = std::vector\n\ntemplate <typename Elem> class Cont = std::vector<T>\n\ntemplate <typename> Cont = std::vector\n\ntemplate <typename Elem> class Cont = std::vector<Elem>"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nstruct Person {\nprivate:\n    std::string name_;\n\npublic:\n    template <typename T>\n    Person(T&& t) : name_(std::forward<T>(t)) {\n        std::cout << \"1\";\n    }\n\n    Person(const Person& p) {\n        name_ = p.name_;\n        std::cout << \"2\";\n    }\n};\n\nint main() {\n    auto x = Person(\"to\");\n    Person{x};\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. На 64-битной архитектуре, скомпилируется ли этот код?",
+        "code_snippet": "template <typename T>\nstd::enable_if_t<(sizeof(T) == 4)>\nfoo() {\n    std::cout << \"1\";\n}\n\nint main() {\n    foo<uint32_t>();\n}"
+    },
+    {
+        "problem": "Какой вариант реализации Overloader правильный для объединения CustomerComparer и CustomerHasher?",
+        "code_snippet": "// Headers\n\nstruct Customer {\n    std::string name;    \n};\n\nstruct CustomerComparer {\n    bool operator()(const Customer& a, const Customer& b) const {\n        return a.name == b.name;\n    }\n};\n\nstruct CustomerHasher {\n    std::size_t operator()(const Customer& a) const {\n        return std::hash<std::string>{}(a.name);\n    }\n};\n\nint main() {\n    std::unordered_set<Customer, CustomerHasher, CustomerComparer> set;\n}\n\ntemplate <typename... Bases> struct Overloader : Bases... { }\n\ntemplate <typename Base1, typename Base2> struct Overloader : Base1, Base2 { using Base1::operator(); using Base2::operator(); };\n\ntemplate <typename... Bases> struct Overloader : Bases... { using Bases::operator()...; }\n\ntemplate <typename... Bases> struct Overloader : Bases... { using Bases::operator() ...; };"
+    },
+    {
+        "problem": "Какой из вариантов реализации функции addOne некорректен?",
+        "code_snippet": "// Headers\n\ntemplate <typename Arg>\nstruct AddSpace {\n    const Arg& arg;\n\n    friend std::ostream& operator<<(std::ostream& os, const AddSpace<Arg>& spaced) {\n        return os << spaced.arg << ' ';\n    }\n};\n\ntemplate <typename... Args>\nvoid print(Args... args)\n{\n    (std::cout << ... << AddSpace<Args>{args}) << std::endl;\n}\n\ntemplate <typename... T>\nvoid addOne(const T&... args)\n{\n    // Implementation. Remember, pick the wrong one.\n}\n\nprint((args + 1) ...)\n\nprint((args + 1)...)\n\nprint(args + 1 ...)\n\nprint(args + 1...)"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nstruct A {\n    virtual void foo(int a) {\n        std::cout << \"1\";\n    }\n};\n\nstruct B : A {\n    virtual void foo(int a) const override {\n        std::cout << \"2\";\n    }\n};\n\nint main() {\n    const A* a = new B();\n    a->foo(0);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nnamespace upgrade {\n    namespace v1 {\n        class Old { };\n\n        void foo(Old a) {\n            std::cout << \"v1\";\n        }\n    }\n\n    inline namespace v2 {\n        void foo(v1::Old a) {\n            std::cout << \"v2\";\n        }\n    }\n}\n\nint main() {\n    upgrade::foo(upgrade::v1::Old{});\n}"
+    },
+    {
+        "problem": "Какой шаблон проектирования использован в коде обработки урона персонажу?",
+        "code_snippet": "// Headers\n\nclass Character {\nprivate:\n    std::string name;\n    int hp;\n\npublic:\n    Character(std::string name, int hp) : name(name), hp(hp) {}\n\n    void takeDamage(int amount) {\n        hp -= amount;\n        if (hp < 0) hp = 0;\n        std::cout << \"[\" << name << \"] took \" << amount << \" damage! HP left: \" << hp << \"\\n\";\n    }\n\n    int getHP() const { return hp; }\n};\n\nclass DamageHandler {\nprotected:\n    std::shared_ptr<DamageHandler> next;\n\npublic:\n    void setNext(std::shared_ptr<DamageHandler> nextHandler) {\n        next = nextHandler;\n    }\n\n    virtual void handle(int& damage, Character& target) {\n        if (next) {\n            next->handle(damage, target);\n        }\n    }\n\n    virtual ~DamageHandler() = default;\n};\n\n// Concrete Handlers\n\nclass MagicShield : public DamageHandler {\npublic:\n    void handle(int& damage, Character& target) override {\n        if (damage > 0) {\n            std::cout << \"[Magic Shield] Absorbed 10 damage.\\n\";\n            damage -= 10;\n            if (damage < 0) damage = 0;\n        }\n        DamageHandler::handle(damage, target);\n    }\n};\n\nclass Armor : public DamageHandler {\npublic:\n    void handle(int& damage, Character& target) override {\n        if (damage > 0) {\n            std::cout << \"[Armor] Reduced damage by 5.\\n\";\n            damage -= 5;\n            if (damage < 0) damage = 0;\n        }\n        DamageHandler::handle(damage, target);\n    }\n};\n\nclass BuffResistance : public DamageHandler {\npublic:\n    void handle(int& damage, Character& target) override {\n        if (damage > 0) {\n            std::cout << \"[Buff] Resisted 20% of remaining damage.\\n\";\n            damage = static_cast<int>(damage * 0.8f);\n        }\n        DamageHandler::handle(damage, target);\n    }\n};\n\nclass FinalHealthHandler : public DamageHandler {\npublic:\n    void handle(int& damage, Character& target) override {\n        target.takeDamage(damage);\n    }\n};\n\nint main() {\n    Character hero(\"Melvin, The Intern\", 1);\n\n    auto magicShield = std::make_shared<MagicShield>();\n    auto armor = std::make_shared<Armor>();\n    auto buff = std::make_shared<BuffResistance>();\n    auto healthHandler = std::make_shared<FinalHealthHandler>();\n\n    magicShield->setNext(armor);\n    armor->setNext(buff);\n    buff->setNext(healthHandler);\n\n    int incomingDamage = 5'000'000; // Negative feedback given to candidate\n\n    magicShield->handle(incomingDamage, hero);\n}"
+    },
+    {
+        "problem": "Какой шаблон проектирования использован в коде битвы с боссом?",
+        "code_snippet": "// Headers\n\n// Complex subsystems involved in a boss fight\nclass CutsceneManager {\npublic:\n    void playIntro() {\n        std::cout << \"[Cutscene] A crack splits the sky...\";\n    }\n};\n\nclass MusicSystem {\npublic:\n    void playBossTheme() {\n        std::cout << \"[Music] Playing: 'The Cracked One' Theme\";\n    }\n};\n\nclass EnvironmentController {\npublic:\n    void darkenSky() {\n        std::cout << \"[Environment] The sky grows dark.\";\n    }\n};\n\nclass BossAI {\npublic:\n    void activatePhaseOne() {\n        std::cout << \"[Boss AI] The Cracked One begins its attack!\";\n    }\n\n    void activatePhaseTwo() {\n        std::cout << \"[Boss AI] The Cracked One cracks open.\";\n        std::cout << \"[Boss AI] Identifying The Intern for execution.\";\n    }\n};\n\nclass HealthSystem {\npublic:\n    void initializeHealth(int hp) {\n        std::cout << \"[Health] The Cracked One appears with \" << hp << \" HP!\";\n    }\n};\n\n\nclass BossBattle {\nprivate:\n    CutsceneManager cutscene;\n    MusicSystem music;\n    EnvironmentController environment;\n    BossAI ai;\n    HealthSystem health;\n\npublic:\n    void startBattle() {\n        cutscene.playIntro();\n        environment.darkenSky();\n        music.playBossTheme();\n        health.initializeHealth(10000);\n        ai.activatePhaseOne();\n    }\n\n    void triggerPhaseTwo() {\n        music.playBossTheme();\n        ai.activatePhaseTwo();\n    }\n    \n    void initiate() {\n        std::cout << \"== Initiating Final Encounter ==\" << std::endl;\n        bossBattle.startBattle();\n\n        // Simulate battle...\n        std::cout << \"(Player fights...)\" << std::endl;\n\n        // Later in battle, transition to Phase 2\n        bossBattle.triggerPhaseTwo();\n    }\n};\n\nint main() {\n    BossBattle bossBattle;\n    bossBattle.initiate();\n}"
+    },
+    {
+        "problem": "Какой шаблон проектирования использован в системе оружия?",
+        "code_snippet": "// Headers\n\nclass Weapon {\npublic:\n    virtual std::string getName() const = 0;\n    virtual int getDamage() const = 0;\n    virtual ~Weapon() = default;\n};\n\nclass Axe : public Weapon {\npublic:\n    std::string getName() const override {\n        return \"Axe\";\n    }\n\n    int getDamage() const override {\n        return 10;\n    }\n};\n\nclass EnhancedWeapon : public Weapon {\nprotected:\n    std::shared_ptr<Weapon> baseWeapon;\n\npublic:\n    EnhancedWeapon(std::shared_ptr<Weapon> weapon) : baseWeapon(weapon) {}\n};\n\nclass BasicWeapon : public EnhancedWeapon {\npublic:\n    RareWeapon(std::shared_ptr<Weapon> weapon) : EnhancedWeapon(weapon) {}\n\n    std::string getName() const override {\n        return \"Basic \" + baseWeapon->getName();\n    }\n\n    int getDamage() const override {\n        return baseWeapon->getDamage() + 5;\n    }\n};\n\n// Another implementation for RareWeapon.\n\nclass ExaltedWeapon : public EnhancedWeapon {\npublic:\n    EpicWeapon(std::shared_ptr<Weapon> weapon) : EnhancedWeapon(weapon) {}\n\n    std::string getName() const override {\n        return \"Exalted \" + baseWeapon->getName();\n    }\n\n    int getDamage() const override {\n        return baseWeapon->getDamage() * 10;\n    }\n};\n\ndouble getPlayerRoll() {\n    std::random_device rd;\n    std::mt19937 gen(rd());\n    std::uniform_real_distribution<> dis(0.0, 1.0);\n    double randomValue = dis(gen);\n    return randomValue;\n}\n\n// Method may or may not be called on boss' death.\nstd::shared_ptr<EnhancedWeapon> getCrackedBossAxeDrop(double roll) {\n    auto* axe = new Axe();\n    if (roll >= 0.99) {\n        return std::make_shared<ExaltedWeapon>(axe);\n    } else if (roll >= 0.9) {\n        return std::make_shared<RareWeapon>(axe);\n    } else {\n        return std::make_shared<BasicWeapon>(axe);\n    }\n}\n\nint main() {\n    // Assume the axe loot drops, and user rolls for it.\n    auto roll = getPlayerRoll();\n    auto axe = getCrackedBossAxeDrop(roll);\n}"
+    },
+    {
+        "problem": "Какой тип имеет строковый литерал в современном C++?",
+        "code_snippet": "static_assert(std::is_same_v<decltype(\"dont get this wrong\"), /*What goes here?*/>);"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\ntemplate<typename T>\nT sum(T arg) {\n    return arg;\n}\n\ntemplate<typename T, typename ...Args>\nT sum(T arg, Args... args) {\n    return arg + sum<T>(args...);\n}\n\nint main() {\n    auto x = sum(0.5, 2, 0.5, 2);\n    auto y = sum(2, 0.5, 2, 0.5);\n    std::cout << x << y; // No space between the two numbers.\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "int main() {\n  std::cout << std::is_pointer_v<decltype(nullptr)>;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "int main() {\n  char* a = const_cast<char*>(\"Hello\");\n  a[4] = '\\0';\n  std::cout << a;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "int main() {\n    int a[] = <%1,2%>;\n    std::cout << a<:1:>;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что бы он вывел до C++17?",
+        "code_snippet": "std::cout << \"what??!\";"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "enum class FeePriority {\n    One = 0,\n    Two,\n    Three\n};\n\nint main() {\n    FeePriority priority = FeePriority(3);\n    std::cout << (int)priority;\n}"
+    },
+    {
+        "problem": "Что такое правило as-if в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass A {\nprotected:\n    void Private() { std::cout << \"1\"; }\n};\n\nclass B : private A {\npublic:\n    void IsItPrivate() { Private(); }\n};\n\nint main() {\n    B b;\n    b.IsItPrivate();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main() {\n  int x = 6, y = 3;\n  std::cout << x+++++y;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\n// For integer types numeric_limits<T>::digit is the number of bits not counting the sign bit and the padding bits (if any) that this type uses to represent itself.\n\nint main() {\n    std::cout << std::numeric_limits<unsigned char>::digits;\n}"
+    },
+    {
+        "problem": "Какой шаблон проектирования реализован в коде игры-лабиринта?",
+        "code_snippet": "// Headers\n\nclass Cloner {\npublic:\n    virtual Cloner* clone() const { return new Cloner; }\n};\n\nclass Maze : public Cloner {\npublic:\n    virtual Maze* clone() const { return new Maze; }\n};\n\nclass Room : public Cloner {\npublic:\n    virtual Room* clone() const { return new Room; }\n};\n\nclass MazeFactory {\npublic:\n    MazeFactory(Maze* maze, Room* room) {\n        _mazeCloner = maze;\n        _roomCloner = room;\n    }\n\n    Maze* MakeMaze() const { return _mazeCloner->clone(); }\n    Room* MakeRoom() const { return _roomCloner->clone(); }\n\nprivate:\n    Maze* _mazeCloner = nullptr;\n    Room* _roomCloner = nullptr;\n};"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nstruct C {\n    virtual void foo(int a = 1) {\n        std::cout << \"C\" << a;\n    }\n};\n\nstruct D : C {\n    virtual void foo(int a = 2) {\n        std::cout << \"D\" << a;\n    }\n};\n\nint main () {\n    C* d = new D;\n    d->foo();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Будет ли он компилироваться в современном C++?",
+        "code_snippet": "// Headers\n\nint main() {\n    char* str = \"X\";\n    std::cout << str;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nvolatile int b;\n\nint main() {\n  std::cout << (b + b);\n}"
+    },
+    {
+        "problem": "Что выведет эта программа в C++20?",
+        "code_snippet": "#include <vector>\n#include <iostream>\n\nconstexpr int compute() {\n    std::vector<int> v;\n    v.push_back(1);\n    return v[0];\n}\n\nint main() {\n    constexpr int x = compute();\n    std::cout << x;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат?",
+        "code_snippet": "// Headers\n\nstruct A\n{\n  A() { std::cout << \"1\"; }\n  A(const A&) { std::cout << \"2\"; }\n  ~A() { std::cout << \"3\"; }\n};\n\nA foo()\n{\n  return A();\n}\n\nint main()\n{\n  foo();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main() {\n  std::vector<char> delimiters = { \",\", \";\" };\n  std::cout << delimiters[0];\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint bar()\n{\n  return 10;\n}\n\nstruct tombar\n{\n  static int y;\n  static int bar()\n  {\n    return 11;\n  }\n};\n\nint tombar::y = bar();\n\nint main()\n{\n    std::cout << tombar::y;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nint main() {\n  int x = 10;\n  int y = 20;\n  int z;  z = (x, y);\n  std::cout << z;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Сколько раз происходит выделение памяти?",
+        "code_snippet": " std::shared_ptr<T> ptr (new T());"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат (в байтах)? Предполагается 64-битная архитектура.",
+        "code_snippet": "int main() { std::cout << sizeof(std::weak_ptr<int>); }"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат (в байтах)? Предполагается 64-битная архитектура.",
+        "code_snippet": "// Headers\n\nint main() {\n    std::cout << sizeof(std::shared_ptr<int>);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nint a() { std::cout << \"a\"; return 0;}\nint b() { std::cout << \"b\"; return 0;}\n\nvoid c(std::vector<int> v) {}\n\nint main() {\n    c({a(), b()});\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nvoid print(char const *str) { std::cout << 'a'; }\nvoid print(short num) { std::cout << 'b'; }\n\nint main() {\n  print(0);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main() {\n  void* p = &p;\n  std::cout << bool(p);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main() {\n  int a = 0;\n  decltype((a)) b = a;\n  b++;\n  std::cout << a << b;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nstruct X {\n  X() { std::cout << \"X\"; }\n};\n\nstruct Y {\n  Y(const X &x) { std::cout << \"Y\"; }\n  void f() { std::cout << \"f\"; }\n};\n\nint main() {\n  Y y(X());\n  y.f();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nstruct A {\n  A() { std::cout << \"1\"; }\n  A(const A &a) { std::cout << \"2\"; }\n  virtual void f() { std::cout << \"3\"; }\n};\n\nint main() {\n  A a[2];\n  for (auto x : a) {\n    x.f();\n  }\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    std::cout << (std::numeric_limits<double>::max() == \n        (std::numeric_limits<double>::max() - 1.));\n}"
+    },
+    {
+        "problem": "Какая из следующих операций не может быть выполнена атомарно для переменной ниже?",
+        "code_snippet": "std::atomic<int> x{ 0 };\n\nint y = x * 2;\n\nx |= 2;\n\nx *= 2;\n\n++x;"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass Z\n{\npublic:\n    int Foo() const\n    {\n        std::cout << \"A\";\n        return 0;\n    }\n    int Foo()\n    {\n        std::cout << \"B\";\n        return 0;\n    }\n};\n\nint main() \n{\n    Z z;\n    const auto i = z.Foo();\n\n    const Z x;\n    const auto j = x.Foo();\n}"
+    },
+    {
+        "problem": "Какие из следующих функций являются перегруженными (если есть)?",
+        "code_snippet": "// A\nvoid dummy(int, int) {}\n\n// B\nvoid dummy(int, float) {}\n\n// C\nvoid dummy(float, int) {}\n\n// D\nint dummy(int, int=5) {}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какое из следующих утверждений верно?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    int hugeArray[10000000];\n    hugeArray[0] = 5;\n    hugeArray[1] = 10;\n\n    std::cout << (hugeArray[0] + hugeArray[1]);\n\n    return 0;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что выведет эта программа?",
+        "code_snippet": "// a.h\n#ifndef A_HEADER\n#define A_HEADER\n  \nnamespace \n{\n    int v;\n}\n  \n#endif // A_HEADER\n  \n// a.cpp\n#include \"a.h\"\n#include <iostream>\n  \nvoid f() {\n  std::cout << v;\n  v = 42;\n  // ...\n}\n  \n// b.cpp\n#include \"a.h\"\n#include <iostream>\n  \nvoid g() {\n  std::cout << v;\n  v = 100;\n}\n  \nint main() {\n  extern void f();\n  f();\n  g();\n  f();\n  g();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Как называется это безымянное пространство имен (есть специальный термин для этого понятия)?",
+        "code_snippet": "namespace\n{\n    const int ImportantValue = 2;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Как можно описать эту программу?",
+        "code_snippet": "int main()\n{\n    int i[0];\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main()\n{ \n    std::cout << 1 / 0;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    int32_t* i = new int32_t(-1);\n    uint32_t* u = (uint32_t*)i;\n    std::cout << *u;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nint main()\n{ \n    const char* str[] = { \"AAAAA\", \"BBBBB\", \"CCCCC\", \"DDDDD\" }; \n    const char** sptr[] = { str + 3, str + 2, str + 1, str }; \n    const char*** pp; \n    pp = sptr; \n    ++pp; \n    std::cout << **++pp + 2; \n}"
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "// Headers\n\nvoid print_row(int ct, int num)\n{\n    if (!num)\n        return;\n    std::cout << ct;\n    print_row(ct + 1, num - 1);\n}\n\nint main(){\n    int start = 1;\n    int total_numbers = 9;\n    print_row(start, total_numbers);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nconst char* c[] = { \"OOP\", \"Exam\" , \"Oopsmid-1\", \"MID\" };\nchar const** cp[] = { c + 2, c + 3, c , c + 1 };\nchar const*** cpp = cp;\n\nint main()\n{\n    std::cout << *cpp[1] << ' ';\n    std::cout << *(*(*(cpp + 2) + 2) + 3) << ' ';\n    std::cout << (*cpp)[-1] << ' ';\n    std::cout << *(cpp + 3)[-1] << std::endl;\n}"
+    },
+    {
+        "problem": "У вас есть вектор, хранящий два int, каждый размером 4 байта. Вы резервируете место для трех int. Вы программируете на 64-битной операционной системе. Что скорее всего выведет следующий фрагмент кода?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    std::vector<int> v{ 1, 2 };\n    v.reserve(3);\n    std::cout << sizeof(v);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какое из следующих утверждений верно?",
+        "code_snippet": "auto i = 1;\nfor (; i < 1,000;)\n{\n    std::cout << \"Are you cracked?\" << std::endl;\n    i += 1;\n}"
+    },
+    {
+        "problem": "Какой номер файлового дескриптора обычно ассоциируется со стандартной ошибкой (stderr) в C/C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какая проблема существует в этой программе?",
+        "code_snippet": "// Header\n\nclass Magic {\npublic:\n    int *ptr;\n    int size;\n    Magic(int n): ptr(new int[n]), size(n) {}\n    void doIt(){\n        for (int i = 0; i < size; i++)\n            ptr[i] = size + i; \n    }\n};\n\nint main() {\n    Magic A(3), B(5);\n    B.doIt();    \n    B = A;\n    A.doIt();\n    for (int i = 0; i < B.size; i++)\n        std::cout << B.ptr[i];\n}"
+    },
+    {
+        "problem": "При перегрузке оператора ++ (инкремент) в C++, какое из следующих утверждений верно?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)? Если есть ошибка, напишите 'Error'.",
+        "code_snippet": "// Headers \n\nclass Dummy {\n    int x, y, &z;\npublic:\n    Dummy(int x) :x(x + 2), y(x + 3) {\n        z = x;\n    }\n    void print(){\n        std::cout << x << y << z;\n    }\n    Dummy* magic(){\n        this->z = 6;\n        return this;\n    }\n};\n\nint main() {\n    Dummy d(1);\n    d.magic()->print();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass A {\n    int *ptr;\n    int size;\npublic:\n    A(int size=5): ptr(new int[size]), size(size) {}\n    void populate(int ii) {\n        for (int s=0; s<size; s++)\n            A::ptr[s] = ii + s;\n    }\n    int* getPtr() { return this->ptr; }\n};\n\nint main()\n{\n  A a1, a2(a1);\n  A a3 = a2;\n\n  a2.populate(2);\n  a1.populate(1);\n  a3.populate(3);\n\n  std::cout << a1.getPtr()[0] << a2.getPtr()[2] << a3.getPtr()[4];\n  \n}"
+    },
+    {
+        "problem": "Какое из следующих выражений можно использовать для вывода адреса переменной char с помощью std::cout в C++?",
+        "code_snippet": "// Headers\nchar ch = 'A';\nstd::cout << ???;    // print address of ch"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "#include <iostream>\n\nclass A { \n  public: A(int a) { std::cout << a; }\n}; \nclass B : virtual public A { \n  public: B(int b):A(4) { std::cout << b; } \n}; \nclass C : virtual public A { \n  public: C(int c):A(3) { std::cout << c; } \n}; \nclass D : public B, public C { \n  public: D(): C(2), B(1), A(0) { std::cout << \"D\"; } \n};\n\nint main() {\n    D d;    \n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass A { \n  public: A() { std::cout << \"A\"; }\n}; \nclass B : public A { \n  public: B() { std::cout << \"B\"; } \n}; \nclass C : public A { \n  public: C() { std::cout << \"C\"; } \n}; \nclass D : public B, public C { \n  public: D() { std::cout << \"D\"; } \n};\n\nint main() {\n    D d;    \n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass Dummy {\n    int x, y, z;\npublic:\n    Dummy(int x = 0, int y = 1) : x(x + 2), y(y + 3) {\n        z = x + y;\n    }\n    void print() {\n        std::cout << z << x << y;\n    }\n};\n\nint main() {\n    Dummy d(7);\n    d.print();\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nvoid function(int[][3]);\n\nint main() {\n    int a[3][3] = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };\n    function(a);\n    std::cout << a[0][1] << a[1][1] << a[2][1];\n}\n\nvoid function(int b[][3]) {\n    ++b;              \n    b[1][1] = 9;      \n    b[0][1] = 3;      \n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nbool A()\n{\n  std::cout << \"A\";\n  return true;\n}\n\nbool B()\n{\n  std::cout << \"B\";\n  return true;\n}\n\nbool C()\n{\n  std::cout << \"C\";\n  return true;\n}\n\nint main() \n{\n    A() || (B() && C());\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    unsigned int i = \n    std::numeric_limits<unsigned>::max();\n    std::cout << ++i;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass Z \n{\npublic:\n    Z() { std::cout << 'z'; }\n    ~Z() { std::cout << 'Z'; }\n};\n\nclass X : public Z\n{\npublic:\n    X() { std::cout << 'x'; }\n    ~X() { std::cout << 'X'; }\n};\n\nint main() { X x; }"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass Z \n{\npublic:\n    Z() { std::cout << \"z\"; }\n    ~Z() { std::cout << \"Z\"; }\n};\n\nclass Y\n{\npublic:\n  Y() { std::cout << \"y\"; }\n  ~Y() { std::cout << \"Y\"; }\n};\n\nclass X\n{\npublic:\n    X() { std::cout << \"x\"; }\n    ~X() { std::cout << \"X\"; }\n};\n\nZ z;\n\nint main()\n{\n  X x;\n  Y y;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nint main() {\n  for (int i = 0; i < 3; i++)\n    std::cout << i;\n  for (int i = 0; i < 3; ++i)\n    std::cout << i;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nvoid foo(float) { std::cout << 1; }\nvoid foo(double) { std::cout << 2; }\n\nint main()\n{\n    foo(-1.5);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nvoid foo(const std::string&) { std::cout << 1; }\n\nvoid foo(const void*) { std::cout << 2; }\n\nint main()\n{\n    foo(\"foo\");\n    const char *cracked = \"cracked\";\n    foo(cracked);\n}"
+    },
+    {
+        "problem": "Какой шаблон проектирования реализован в коде менеджера ресурсов лабиринта?",
+        "code_snippet": "class MazeResourceManager\n{\npublic:\n    virtual void LoadSounds() = 0;\n};\nclass DefaultMazeResourceManager : public MazeResourceManager\n{\npublic:\n    virtual void LoadSounds() { throw std::logic_error(\"Sounds are not yet implemented.\") };\n};\n\nclass MazeGame\n{\npublic:\n    MazeGame();\nprivate:\n    std::unique_ptr<MazeResourceManager> resources_{ std::make_unique<DefaultMazeResourceManager>() };\n};\n\nMazeGame::MazeGame()\n{\n    resources_->LoadSounds();\n}"
+    },
+    {
+        "problem": "Какой шаблон проектирования реализован в коде фабрики лабиринта?",
+        "code_snippet": "class Wall;\nclass Maze;\nclass Room;\nclass Door;\n\nclass Maze\n{\npublic:\n    virtual ~Maze();\n    virtual Maze* MakeMaze() const;\n    virtual Wall* MakeWall() const;\n    virtual Room* MakeRoom() const;\n    virtual Door* MakeDoor(Room*, Room*) const;\n};\n\nclass EnchantedRoom;\n\nclass EnchantedMaze : public Maze\n{\npublic:\n    virtual EnchantedMaze* MakeMaze() const override;\n};"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что в нем не так (если есть проблемы)?",
+        "code_snippet": "void wallet2::add_subaddresses(\n    uint32_t index_minor,\n    uint32_t count)\n{\n      THROW_WALLET_EXCEPTION_IF(\n      index_minor + count > 0xffffffff, \n      error::outofbound);\n      // More code...\n}"
+    },
+    {
+        "problem": "Какой вариант специализации шаблона будет вызван в данном коде?",
+        "code_snippet": "template <typename T1, typename T2>\nclass Obj\n{\n};\n\n// Spec 1\ntemplate <typename T>\nclass Obj<T, T>\n{\n};\n\n// Spec 2\ntemplate <typename T>\nclass Obj<T, int>\n{\n};\n\nint main()\n{\n    Obj<int, int> obj;\n}"
+    },
+    {
+        "problem": "Чей вариант реализации шаблонного класса Stack будет компилироваться?",
+        "code_snippet": "// Dev 1\ntemplate <typename T>\nclass Stack\n{\n    // ...\n    Stack(Stack const&); // Don't use <T>\n    // ...\n};\n\n// Dev 2\ntemplate <typename T>\nclass Stack\n{\n    // ...\n    Stack(Stack<T> const&); // Use <T>\n    // ...\n};"
+    },
+    {
+        "problem": "Можно ли передать аргумент в функцию foo по ссылке вместо копии?",
+        "code_snippet": "template <typename T>\nvoid foo(T t) { }"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    std::cout << -!!\"\";\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\ntemplate <typename T>\nvoid foo(T& t) \n{ std::cout << \"1\"; }\n\ntemplate <>\nvoid foo<>(const std::string& t) \n{ std::cout << \"2\"; }\n\nvoid foo(const std::string& t) \n{ std::cout << \"3\"; }\n\n\nint main()\n{\n    std::string str(\"getcracked\");\n    foo(str);\n    foo(std::string(\"getmorecracked\"));\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено на экран (перечислите значения последовательно, без переносов строк)?",
+        "code_snippet": "// Headers\n\nvoid foo(char arr[])\n{\n    std::cout << sizeof(arr) << std::endl;\n}\n\nint main()\n{\n    char characters[] = { 1, 2, 3, };\n    std::cout << sizeof(characters) << std::endl;\n    std::cout << sizeof(characters) / sizeof(characters[0]) << std::endl;\n    foo(characters);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nstruct Vehicle\n{\n    Vehicle() = default;\n    Vehicle(const Vehicle& other) \n    { std::cout << \"A\"; }\n    Vehicle(Vehicle&& other) \n    { std::cout << \"B\"; }\n};\n\nstruct Car : Vehicle\n{\n    Car() = default;\n    Car(const Car& other) : Vehicle(other) \n    { std::cout << \"C\"; }\n    Car(Car&& other) : Vehicle(other) \n    { std::cout << \"D\"; }\n};\n\nint main()\n{\n    Car carOne;\n    Car carTwo(std::move(carOne));\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "#include <cstdint>\n#include <stdint.h>\n\nint main()\n{\n    std::cout << std::is_same_v<std::uint32_t, uint32_t>;\n}"
+    },
+    {
+        "problem": "Когда наиболее уместно использовать decltype(auto) в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какова основная цель использования trailing return types в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Когда auto может вывести нежелательные типы, приводящие к проблемам в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какой тип у переменной x?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    char one = 1;\n    char two = 2;\n    auto x = one + two;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\ntemplate <typename T>\nvoid ByValue(T t)\n{\n    std::cout << std::is_const_v<T>; // True if T is const\n}\n\ntemplate <typename T>\nvoid ByReference(T& t)\n{\n    std::cout << std::is_const_v<T>; // True if T is const\n}\n\nint main()\n{\n    float nonConstFloat = 0;\n    const float constFloat = 0;\n\n    ByValue(nonConstFloat);\n    ByValue(constFloat);\n\n    ByReference(nonConstFloat);\n    ByReference(constFloat);\n}"
+    },
+    {
+        "problem": "Какой рекомендуемый способ определить оптимальное количество потоков для параллельного алгоритма в C++11?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "// Headers\n\nint main()\n{\n    std::vector<int> v{ 1, 2 };\n    auto begin = v.begin();\n    v.push_back(3);\n    std::cout << *begin;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено (если будет)?",
+        "code_snippet": "// Headers\n\nclass Item\n{\npublic:\n    Item() { std::cout << \"A\"; }\n    ~Item() { std::cout << \"B\"; }\n};\n\nclass Holder\n{\npublic:\n    Holder() { throw std::logic_error(\"Derp\"); }\n    ~Holder() { std::cout << \"C\"; }\n\nprivate:\n    Item item_;\n};\n\nint main()\n{\n    try\n    {\n        Holder holder;\n    }\n    catch (...)\n    {\n    }\n}"
+    },
+    {
+        "problem": "Что не так с этим кодом (до C++23)?",
+        "code_snippet": "// Headers\n\nclass Store\n{\npublic:\n    const std::vector<int>& getItems()\n    {\n        return vec_;\n    }\nprivate:\n    std::vector<int> vec_{ 1, 2, 3 };\n};\n\nint main()\n{\n    for (auto i : Store{}.getItems())\n    {\n        std::cout << i << ' ';\n    }\n}"
+    },
+    {
+        "problem": "Почему используется немедленно вызываемое лямбда-выражение в данном коде?",
+        "code_snippet": "// Headers\n\nconst int id = 1;\nconst std::string name = [](int id)\n{\n    switch (id)\n    {\n        case 0: return \"Zero\";\n        case 1: return \"One\";\n        default: return \"Unsupported\";\n    }\n}(id);"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "// Headers\n\nclass Fahrenheit\n{\npublic:\n    Fahrenheit() { std::cout << \"A\"; }\n    Fahrenheit(double) { std::cout << \"B\"; }\n};\n\nclass RoomTemperature\n{\npublic:\n    RoomTemperature() : internal_{ 2 } { external_ = 3; }\nprivate:\n    Fahrenheit internal_;\n    Fahrenheit external_;\n};\n\nint main()\n{\n    RoomTemperature roomTemp;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "// Headers\n\nint main() \n{\n    std::cout << std::is_same_v<\n        void(double*),\n        void(const double*)>;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "// Headers\n\ntemplate <typename T>\nvoid print(T t)\n{\n    std::cout << 1;\n}\n\ntemplate <>\nvoid print(int t)\n{\n    std::cout << 2;\n}\n\nvoid print(int t)\n{\n    std::cout << 3;\n}\n\nint main()\n{\n    print(0);\n    print<>(0);\n    print<int>(0);\n    print<double>(0.);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "// Headers\n\nint f(int &x, int &y) \n{\n  x = 3;\n  y = 4;\n  return x + y;\n}\n\nint main() \n{\n  int x = 5;\n  int y = 6;\n  int z = f(x, x);\n  std::cout << x << y << z;\n}"
+    },
+    {
+        "problem": "Какого размера указатель на 64-битной архитектуре?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что тестируется в бенчмарке?",
+        "code_snippet": "// ... All the headers.\n\nstd::vector<int> data(kSize);\nstd::vector<int> indices(kSize);\n\nstatic void BM_CC(benchmark::State& state) {\n  // Generate random indices\n  for(auto& index : indices) {\n    index = rand() % kSize;\n  }\n  for (auto _ : state) {\n    int sum = 0;\n    // Access data in random order\n    for (int i = 0; i < kSize; ++i) {\n      benchmark::DoNotOptimize(sum += data[indices[i]]);\n    }\n    benchmark::ClobberMemory();\n  }\n}\n//BENCHMARK(BM_CC);\n\nstatic void BM_CW(benchmark::State& state) {\n  int sw = 0;\n  for (int i = 0; i < kSize; ++i) {\n    benchmark::DoNotOptimize(sw += data[i]);\n  }\n  benchmark::ClobberMemory();\n \n  // Run the benchmark\n  for (auto _ : state) {\n    int sum = 0;\n    // Access data in sequential order again\n    for (int i = 0; i < kSize; ++i) {\n      benchmark::DoNotOptimize(sum += data[i]);\n    }\n    benchmark::ClobberMemory();\n  }\n}\nBENCHMARK(BM_CW);\n\nBENCHMARK_MAIN();"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какая из следующих функций main некорректна (не соответствует стандарту)?",
+        "code_snippet": "// One\nint main()\n{\n}\n\n// Two\nvoid main()\n{\n}\n\n// Three\nint main(int argc, char* argv[])\n{\n    return 0;\n}\n\n// Four\nint main(int argc, char** argv)\n{\n    return 0;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено?",
+        "code_snippet": "// Headers\n\nclass A {\npublic:\n  virtual void print() { std::cout << \"A\"; }\n};\n\nclass B : public A {\npublic:\n  void print() override { std::cout << \"B\"; }\n};\n\nvoid doit(A a) { a.print(); }\n\nint main() {\n  B b;\n  doit(b);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какого размера структура A в байтах (предполагая 64-битную архитектуру)?",
+        "code_snippet": "struct A\n{\n    char x;\n    int y;\n};"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Какое ключевое слово может заменить typename в объявлении шаблона?",
+        "code_snippet": "template <typename T>\nvoid Print(T t)\n{\n    std::cout << t;\n}"
+    },
+    {
+        "problem": "Всегда ли using предпочтительнее typedef для создания псевдонимов?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте четыре отдельных фрагмента кода. В каком из них ключевое слово requires (введенное в C++20) используется некорректно?",
+        "code_snippet": "// Assume there is a concept called Addable<T>;\n\n// First one.\n\ntemplate <typename T>; requires Addable<T>\nT add (T a, T b)\n{\n    return a + b;\n}\n\n// Second one.\n\nrequires <Addable T>;\ntemplate T add(T a, T b)\n{\n    return a + b;\n}\n\n// Third one.\n\ntemplate <typename T> \nT add (T a, T b) requires Addable<T>\n{\n    return a + b;\n}\n\n// Fourth one.\n\ntemplate <typename T>;\nT add (T a, T b) requires requires (T a, T b) { a + b; }\n{\n    return a + b;\n}"
+    },
+    {
+        "problem": "Какое ключевое слово подсказывает компилятору заменить вызов функции непосредственно ее телом в месте вызова, уменьшая накладные расходы на вызов функции?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой оператор можно использовать для определения выравнивания типа в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Какой шаблон проектирования отражен в данном фрагменте кода?",
+        "code_snippet": "template <typename T>\nclass Base {...};\n\nclass Y : public Base<Y> {...};"
+    },
+    {
+        "problem": "C-style приведение (type(expression)) не является уникальным приведением в C++. Оно просто пытается выполнить другие приведения. Какое из четырех других приведений оно не пытается выполнить?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Могут ли деструкторы выбрасывать исключения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Безопасен ли он?",
+        "code_snippet": "int main()\n{\n    int x = 1;\n    delete &x;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Что будет выведено в консоль?",
+        "code_snippet": "int i = 1;\n\nint main()\n{\n    int i, j = 2;\n    std::cout << i;\n}"
+    },
+    {
+        "problem": "Какие значения будут у переменных i и j при инициализации?",
+        "code_snippet": "int i;\n\nint main()\n{\n    int j;\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Сколько байт выделяется при вызове new (char всегда занимает 1 байт)?",
+        "code_snippet": "char* c = new char[10];"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат оператора sizeof (предполагая 64-битную архитектуру)?",
+        "code_snippet": "// Headers\n\nclass A\n{\npublic:\n    virtual ~A() = default;\n};\n\nint main()\n{\n    std::cout << sizeof(A);\n}"
+    },
+    {
+        "problem": "Проанализируйте приведенный фрагмент кода. Каков результат выражения *ptr++?",
+        "code_snippet": "const char* ptr = \"Next\";"
+    },
+    {
+        "problem": "Каков счетчик ссылок объекта, управляемого shared_ptr (если есть)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Если каждая строка в функции main выполняется изолированно, что будет выводить программа?",
+        "code_snippet": "// Headers\n\nclass obj\n{\npublic:\n    obj() { std::cout << 1; }\n    obj(const obj&) { std::cout << 2; }\n    void operator=(const obj&) { std::cout << 3; }\n};\n\nint main()\n{\n    obj a;\n    obj b{};\n    obj c();\n    obj d = a;\n    d = b;\n    auto e = obj{};\n    obj f{a};\n    obj g(a);\n    auto h = b;\n    obj(i);\n}"
+    },
+    {
+        "problem": "Какая из следующих категорий не относится к четырем категориям безопасности исключений в C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Есть ли разница между class и struct?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующая строка кода и почему?",
+        "code_snippet": "#include <iostream>\n\nint main(int argc, char **argv)\n{\n    std::cout << 25u - 50;\n    return 0;\n}"
+    },
+    {
+        "problem": "Какая ошибка в приведенном коде и как ее исправить?",
+        "code_snippet": "my_struct_t *bar;\n/* ... делаем что-то, включая установку bar на определенный объект my_struct_t ... */\nmemset(bar, 0, sizeof(bar));"
+    },
+    {
+        "problem": "Чему будут равны i и j после выполнения кода ниже? Объясните ответ.",
+        "code_snippet": "int i = 5;\nint j = i++;"
+    },
+    {
+        "problem": "Предполагая, что buf - действительный указатель, в чем проблема в коде ниже? Как можно по-другому реализовать это, чтобы избежать проблемы?",
+        "code_snippet": "size_t sz = buf->size();\nwhile ( --sz >= 0 )\n{\n /* делаем что-то */\n}"
+    },
+    {
+        "problem": "Рассмотрим два фрагмента кода для печати вектора. Есть ли преимущество у одного перед другим? Объясните.",
+        "code_snippet": "Option 1:\n\nvector vec;\n/* ... .. ... */\nfor (auto itr = vec.begin(); itr != vec.end(); itr++) {\n itr->print();\n}\n\nOption 2:\n\nvector vec;\n/* ... .. ... */\nfor (auto itr = vec.begin(); itr != vec.end(); ++itr) {\n itr->print();\n}"
+    },
+    {
+        "problem": "Реализуйте шаблонную функцию IsDerivedFrom(), которая принимает классы C и P как параметры шаблона. Она должна возвращать true, когда класс C наследуется от класса P, и false в противном случае.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Реализуйте шаблонную булеву функцию IsSameClass(), которая принимает классы A и B как параметры шаблона. Она должна сравнивать классы A и B и возвращать false, когда они разные, и true, если это один и тот же класс.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Возможна ли рекурсивная inline-функция?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "#include <iostream>\n\nclass A {\npublic:\n    A() {}\n    ~A() {\n        throw 42;\n    }\n};\n\nint main(int argc, const char * argv[]) {\n    try {\n        A a;\n        throw 32;\n    } catch(int a) {\n        std::cout << a;\n    }\n}"
+    },
+    {
+        "problem": "Вам дан библиотечный класс Something. Реализуйте метод для получения topSecretValue для любого данного объекта Something*. Метод должен быть кросс-платформенным и не зависеть от sizeof(int, bool, string).",
+        "code_snippet": "class Something {\npublic:\n    Something() {\n        topSecretValue = 42;\n    }\n    bool somePublicBool;\n    int somePublicInt;\n    std::string somePublicString;\nprivate:\n    int topSecretValue;\n};"
+    },
+    {
+        "problem": "Реализуйте void-функцию F, которая принимает указатели на два массива целых чисел (A и B) и размер N как параметры. Она заполняет B, где B[i] - произведение всех A[j], где j != i.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "#include <iostream>\n\nint main(int argc, const char * argv[]) {\n    int a[] = {1, 2, 3, 4, 5, 6};\n    std::cout << (1 + 3)[a] - a[0] + (a + 1)[2];\n}"
+    },
+    {
+        "problem": "Что выведет следующий код?",
+        "code_snippet": "#include <iostream>\n\nclass Base {\n    virtual void method() {std::cout << \"from Base\" << std::endl;}\npublic:\n    virtual ~Base() {method();}\n    void baseMethod() {method();}\n};\n\nclass A : public Base {\n    void method() {std::cout << \"from A\" << std::endl;}\npublic:\n    ~A() {method();}\n};\n\nint main(void) {\n    Base* base = new A;\n    base->baseMethod();\n    delete base;\n    return 0;\n}"
+    },
+    {
+        "problem": "Сколько раз выполнится этот цикл? Объясните ответ.",
+        "code_snippet": "unsigned char half_limit = 150;\n\nfor (unsigned char i = 0; i < 2 * half_limit; ++i)\n{\n    // делаем что-то;\n}"
+    },
+    {
+        "problem": "Как сделать так, чтобы функция C++ могла вызываться как void foo(int, int), но не как любой другой тип, например void foo(long, long)?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "В чем проблема следующего кода?",
+        "code_snippet": "class A\n{\npublic:\nA() {}\n~A(){}\n};\n\nclass B: public A\n{\npublic:\nB():A(){}\n~B(){}\n};\n\nint main(void)\n{\n  A* a = new B();\n  delete a;\n}"
+    },
+    {
+        "problem": "Что такое класс хранения?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Как можно вызвать C-функцию в программе на C++?",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Что выведет следующая программа?",
+        "code_snippet": "#include <iostream>\n\nstruct A\n{\n    int data[2];\n\n    A(int x, int y) : data{x, y} {}\n    virtual void f() {}\n};\n\nint main(int argc, char **argv)\n{\n    A a(22, 33);\n\n    int *arr = (int *) &a;\n    std::cout << arr[2] << std::endl;\n\n    return 0;\n}"
+    },
+    {
+        "problem": "Можно ли иметь статическую const функцию-член? Объясните ответ.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "Объясните ключевые слова volatile и mutable.",
+        "code_snippet": ""
+    },
+    {
+        "problem": "C++ поддерживает множественное наследование. Что такое \"проблема ромба\", которая может возникнуть при множественном наследовании? Приведите пример.",
+        "code_snippet": ""
+    }
+]
